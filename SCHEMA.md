@@ -13,7 +13,7 @@
 | `categorie` | enum | Precies één van: `product_release`, `concurrentie`, `partners`, `prijzen_licenties`, `ai_features`, `markt`, `regelgeving`, `events`. |
 | `tags` | string[] | Vrije trefwoorden, lowercase, met koppeltekens. |
 | `bronnen` | object[] | Lijst van `{ "titel": string, "url": string }`. Kan leeg zijn als de bevinding een constatering zonder bron-URL is. |
-| `bron_type` | enum | `dagelijkse_radar` (uit het AI-radar-log) of `basisanalyse` (uit het rapport van 19-10-2026). |
+| `bron_type` | enum | `dagelijkse_radar` (uit de dagelijkse AI-radar) of `basisanalyse` (uit het rapport van 19-10-2026). |
 
 ## Voorbeeld
 ```json
@@ -33,7 +33,7 @@
 
 ## Bronnen
 - Basisanalyse: `rapporten/2026-10-19-ai-agents-bc-4ps-analyse.md`
-- Dagelijkse radar: log `ai-radar-gemeld.md` (meldingen 20 en 21 okt 2026)
+- Dagelijkse radar: meldingen van de dagelijkse AI-radar (vanaf 20 okt 2026)
 
 ## Paden
 | Pad | Inhoud |

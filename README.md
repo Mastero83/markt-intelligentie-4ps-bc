@@ -17,26 +17,18 @@ scripts/publish.sh       Build + commit ("Radar-update <datum>") + push naar mai
 
 De dagelijkse AI-radar voegt **elke werkdag rond 08:30 (Europe/Amsterdam)** nieuwe items toe aan `data/updates.json` en publiceert via `scripts/publish.sh`. Items worden alleen toegevoegd; een bestaande `id` wijzigt niet.
 
-## Consumeren (privé repo: token nodig)
+## Consumeren (publiek, geen token nodig)
 
-De repo is privé, dus elke app heeft een GitHub-token met leesrechten op deze repo nodig (bij voorkeur een fine-grained PAT of GitHub App met alleen `Contents: Read-only` op deze repo).
+De repo is publiek; apps lezen de bestanden direct via raw-URL's:
 
-Met `gh`:
-
-```bash
-gh api repos/Mastero83/markt-intelligentie-4ps-bc/contents/data/updates.json \
-  -H "Accept: application/vnd.github.raw" > updates.json
-```
-
-Met HTTP (bv. vanuit de webapp of een Azure Function):
+- JSON: https://raw.githubusercontent.com/Mastero83/markt-intelligentie-4ps-bc/main/data/updates.json
+- RSS: https://raw.githubusercontent.com/Mastero83/markt-intelligentie-4ps-bc/main/feed.xml
 
 ```bash
-curl -H "Authorization: Bearer $GITHUB_TOKEN" \
-     -H "Accept: application/vnd.github.raw" \
-     https://api.github.com/repos/Mastero83/markt-intelligentie-4ps-bc/contents/data/updates.json
+curl -s https://raw.githubusercontent.com/Mastero83/markt-intelligentie-4ps-bc/main/data/updates.json
 ```
 
-Hetzelfde werkt voor `feed.xml`. Om onnodige downloads te voorkomen: vergelijk eerst de `sha` van het bestand (`GET .../contents/data/updates.json` zonder raw-header) of de laatste commit op `main`.
+Raw-URL's worden door GitHub enkele minuten gecachet. Wil je weten of er iets nieuws is, vergelijk dan de laatste commit op `main` (`https://api.github.com/repos/Mastero83/markt-intelligentie-4ps-bc/commits/main`) of de `sha` uit `https://api.github.com/repos/Mastero83/markt-intelligentie-4ps-bc/contents/data/updates.json` (zonder token: 60 requests/uur per IP).
 
 **Importregels**
 - Sleutel = `id` (stabiel en uniek). Importeer als upsert op `id`; nieuwe `id`'s = nieuwe items.
@@ -47,7 +39,7 @@ Hetzelfde werkt voor `feed.xml`. Om onnodige downloads te voorkomen: vergelijk e
 
 1. **DAS Klant Intelligentie-webapp**: een geplande job (bv. dagelijks ~09:00 Europe/Amsterdam, na de radar) haalt `data/updates.json` op en importeert op `id` in de eigen database. De webapp toont/filtert vanuit die database, niet live vanuit GitHub.
 2. **Dassie (Foundry-agent)**: indexeer de items (vanuit de webapp-database of direct uit deze repo) in een zoekindex, bv. **Azure AI Search** (velden: `id` als key, `onderwerp`, `samenvatting`, `relevantie` als doorzoekbare tekst, `categorie`/`tags`/`datum` als filters, `bronnen` als metadata). Koppel de index als knowledge/tool aan Dassie, zodat antwoorden bronnen kunnen citeren.
-3. **Andere apps**: gebruik `feed.xml` (RSS-lezers, Teams/Power Automate) of de GitHub Contents API voor JSON.
+3. **Andere apps**: gebruik de RSS-feed (`feed.xml`, bv. RSS-lezers, Teams/Power Automate) of de raw JSON-URL.
 
 ## Lokaal bijwerken
 
