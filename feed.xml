@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Markt-intelligentie 4PS &amp; Business Central</title>
+<link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
+<description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
+<language>nl-nl</language>
+<lastBuildDate>Fri, 23 Oct 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>BC: Microsoft-beheerde AI-resources voor Copilot-extensies van ISV's (RM577820, GA april 2027)</title>
+<link>https://mc.merill.net/message/RM577820</link>
+<description>Microsoft publiceerde op 23 oktober 2026 roadmap-item RM577820: ISV's die Copilot in Business Central uitbreiden, gebruiken standaard door Microsoft beheerde Azure OpenAI-resources, met één verbruiksregistratie en facturatie voor de klant over alle AI-apps heen. Eigen Azure OpenAI-abonnementen blijven mogelijk voor specifieke of gefinetunede modellen; preview sinds juni 2025, GA gepland april 2027.
+
+Relevantie: Bepaalt hoe 4PS en andere BC-ISV's AI-functies in hun apps bouwen en aan klanten doorbelasten.</description>
+<pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">radar-bc-ai-resources-copilot-extensions-rm577820</guid>
+</item>
+<item>
+<title>Procore lanceert Agent Marketplace met 15 partner-agents (Groundbreak 2026)</title>
+<link>https://www.procore.com/blog/introducing-ai-agent-marketplace</link>
+<description>Procore lanceerde op 22 oktober 2026 de Agent Marketplace, waar klanten AI-agents van partners installeren die binnen Procore over systemen heen werken; bij de start zijn er 15 partner-agents, beschikbaar in de Digital Coworker Pro- en Enterprise-pakketten en betaald uit Procore AI-credits. Een van de launchpartners is Planera met een RFI-to-Schedule Risk Scanner via een MCP-connector.
+
+Relevantie: Procore bouwt een agent-ecosysteem voor de bouw, vergelijkbaar met wat Microsoft met agents en MCP in BC doet; een maatstaf voor 4PS en zijn partners.</description>
+<pubDate>Thu, 22 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-procore-agent-marketplace-groundbreak-2026</guid>
+</item>
+<item>
+<title>Directions EMEA 2026: Microsoft-sessie 'Bringing Cowork to Business Central' en agent-governance</title>
+<link>https://www.directionsforpartners.com/emea2026/schedule</link>
+<description>Het programma van Directions EMEA (Parijs, 27-29 oktober 2026) bevat een Microsoft-sessie 'Bringing Cowork to Business Central' in de Grand Amphitheatre, naast sessies over het bouwen en besturen van agents. MSDynamicsWorld (20 oktober) meldt dat AI-agents, MCP en Fabric-mirroring de grote thema's zijn, inclusief governance via telemetrie en tokenverbruik.
+
+Relevantie: Wijst op een volgende stap in Microsoft Copilot-integratie in BC die 4PS en partners volgende week te zien krijgen.</description>
+<pubDate>Thu, 22 Oct 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">radar-directions-emea-2026-cowork-in-bc</guid>
+</item>
+<item>
+<title>Procore lanceert AI Go (spraak-app voor de bouwplaats) en nieuwe AI-agents op Groundbreak 2026</title>
+<link>https://www.procore.com/press/procore-launches-voice-first-ai-mobile-app-built-for-the-jobsite</link>
+<description>Procore lanceerde op Groundbreak 2026 Procore AI Go, een spraakgestuurde mobiele app in open beta (Noord-Amerika) die vragen over tekeningen, bestekken, RFI's en dagrapporten beantwoordt uit projectdata. Ook toonde Procore een submittal-agent (live) en een agent voor de inkooplog (gesloten beta); Daily Log- en Site Safety-agents volgen.
+
+Relevantie: Procore zet AI-agents direct op de bouwplaats in; dat is de lat waar 4PS-klanten bouwspecifieke AI aan gaan afmeten.</description>
+<pubDate>Wed, 21 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-procore-groundbreak-2026-ai-go-agents</guid>
+</item>
+<item>
+<title>Expense Agent: automatische declaratierapporten per reis, tussentijdse goedkeurder en Expense Manager-rolcentrum</title>
+<link>https://mc.merill.net/message/RM573257</link>
+<description>Microsoft kondigt aan dat de Expense Agent in Business Central declaraties automatisch per zakenreis groepeert en per reis een rapport aanmaakt (preview en GA november 2026). Daarnaast komt een tussentijdse goedkeurder vóór de eindgoedkeurder (november 2026) en een vernieuwd Expense Manager-rolcentrum (december 2026).
+
+Relevantie: Bouw- en installatiebedrijven met veel buitendienstmedewerkers kunnen declaraties per project- of reisbezoek automatiseren met een extra goedkeuringslaag.</description>
+<pubDate>Wed, 21 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-expense-agent-trip-rapporten-rm573257</guid>
+</item>
+<item>
+<title>Work IQ: admincontrols voor Business Applications-data in Copilot</title>
+<link>https://mc.merill.net/message/MC1518036</link>
+<description>Message center-item MC1518036: admincontrols voor het gebruik van Business Applications-data in Copilot via Work IQ.
+
+Relevantie: Bepaalt hoe beheerders BC-data in Copilot kunnen toestaan of beperken.</description>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-work-iq-admincontrols-mc1518036</guid>
+</item>
+<item>
+<title>EarthCam construction AI connectors (MCP)</title>
+<link>https://www.globenewswire.com/news-release/2026/10/20/3384693/0/en/earthcam-launches-construction-ai-connectors-delivering-pre-analyzed-jobsite-intelligence-to-chatgpt-claude-gemini-and-other-ai-platforms.html</link>
+<description>EarthCam lanceert construction AI connectors (MCP) die bouwplaatsinformatie leveren aan ChatGPT, Claude, Gemini en andere AI-platforms.
+
+Relevantie: MCP wordt ook in de bouwketen een standaard koppellaag, net als de BC MCP-server.</description>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">radar-earthcam-construction-ai-connectors</guid>
+</item>
+<item>
+<title>Canals AI-crediteurenautomatisering voor Trimble Vista</title>
+<link>https://www.businesswire.com/news/home/20261020322130/en/Canals-Brings-AI-Powered-Accounts-Payable-Automation-to-Contractors-Using-the-Trimble-Vista-Financial-Management-Solution</link>
+<description>Canals brengt AI-gestuurde crediteurenautomatisering naar aannemers die Trimble Vista gebruiken.
+
+Relevantie: Concurrerend bouw-ERP-ecosysteem krijgt AI voor inkoopfacturen, vergelijkbaar met de Payables Agent in BC.</description>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-canals-ai-ap-trimble-vista</guid>
+</item>
+<item>
+<title>BC data mirroring naar Microsoft Fabric (preview nov 2026)</title>
+<link>https://mc.merill.net/message/RM574126</link>
+<description>Roadmap-item RM574126: data mirroring van Business Central naar Microsoft Fabric, preview in november 2026.
+
+Relevantie: Maakt BC-data (en dus 4PS-data) breder beschikbaar voor analyse en AI.</description>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc-mirroring-fabric-rm574126</guid>
+</item>
+<item>
+<title>4PS op DigiBouw 2026 (25-26 nov)</title>
+<link>https://www.4ps.nl/actueel/</link>
+<description>4PS is aanwezig op DigiBouw 2026 op 25-26 november, met als thema AI en digitale collega's. Brondatum onbekend; datum is de meldingsdatum.
+
+Relevantie: Mogelijk moment waarop 4PS meer laat zien over AI/agents in 4PS Construct.</description>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">radar-4ps-digibouw-2026</guid>
+</item>
+<item>
+<title>Vertraging: preview-status en gevalideerde talen</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-29-0</link>
+<description>Expense Agent, Agent Designer, AL Agent SDK en Copilot chat zijn preview; de Payables Agent en agent-ontwerp zijn alleen in het Engels gevalideerd. Microsoft adviseert Copilot voor bedrijfskritische processen alleen in officieel ondersteunde talen te gebruiken; de Payables Agent heeft geen goedkeuringsflows of afwijkingsdetectie en limieten (PDF max. 10 pagina's/5 MB, 100 e-mails en 500 facturen per dag).
+
+Relevantie: Verklaart waarom agents bij Nederlandse 4PS-klanten langzamer landen.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-vertraging-preview-talen</guid>
+</item>
+<item>
+<title>Vertraging: 4PS als ISV afhankelijk van Microsoft</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-agent-sdk-overview</link>
+<description>Productie-agents in AL kunnen pas vanaf 28.1 en preview-API's kunnen zonder aankondiging wijzigen. 4PS heeft daarnaast een eigen releasecyclus met grote technische overgangen in 2026-3 en 2027-1, en veel klanten waren in september 2026 nog bezig met 2026-2.
+
+Relevantie: Verklaart waarom een eigen 4PS-agent op zich laat wachten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">ba-vertraging-isv-afhankelijkheid</guid>
+</item>
+<item>
+<title>Vertraging: standaardagents zijn generiek, niet bouwspecifiek</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/payables-agent</link>
+<description>De standaardagents dekken generieke processen: e-mail → offerte/order, PDF → inkoopfactuur, bonnetjes → declaratie; de Payables Agent heeft geen goedkeuringsflows.
+
+Relevantie: Bouwprocessen bij 4PS-klanten vragen verticale agents.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">ba-vertraging-generieke-agents</guid>
+</item>
+<item>
+<title>Vertraging: EU-datagrens en toestemming dataverplaatsing</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/ai-copilot-data-movement</link>
+<description>Voor EU-omgevingen gebruikt BC een Azure OpenAI-endpoint binnen de EU-datagrens, maar verwerking tussen EU-geografieën vereist toestemming via 'Allow data movement'; zonder die toestemming werken Copilot-functies niet. Prompts en output kunnen tot 24 uur bewaard worden voor misbruikmonitoring.
+
+Relevantie: Nederlandse 4PS-klanten moeten dit expliciet beoordelen voordat ze agents inzetten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>regelgeving</category>
+<guid isPermaLink="false">ba-vertraging-eu-datagrens-avg</guid>
+</item>
+<item>
+<title>Vertraging: datakwaliteit en procesinrichting</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/sales-order-agent</link>
+<description>De Sales Order Agent herkent klanten alleen via het e-mailveld op contactkaarten en productinformatie bepaalt zijn effectiviteit; agents navigeren via UI-metadata (captions, tooltips), dus maatwerk en ISV-tooltips tellen mee. Microsoft raadt een aparte mailbox voor de Payables Agent aan; Fieldwire noemt gefragmenteerde data de grootste beperking voor AI in de bouw en volgens de CBS AI Monitor 2024 gebruikt 9% van de bouwbedrijven AI.
+
+Relevantie: Stamdata en 4PS-tooltips bepalen hoe goed agents in 4PS Construct werken.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">ba-vertraging-datakwaliteit</guid>
+</item>
+<item>
+<title>Microsoft stopt met release plans, gaat naar AI at Work roadmap</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/overview</link>
+<description>Sinds september 2026 publiceert Microsoft geen release plans meer; nieuwe functies verschijnen op de doorlopende AI at Work roadmap.
+
+Relevantie: Maakt planning voor ISV's als 4PS en voor klanten minder voorspelbaar.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">ba-microsoft-stopt-release-plans</guid>
+</item>
+<item>
+<title>Microsofts lagenmodel en oproep tot productized agents</title>
+<link>https://tigunia.com/blog/complete-guide-to-business-central-ai-agents/</link>
+<description>Microsoft scheidt agents in BC, de MCP-server als koppellaag en Copilot Studio voor systeemoverstijgende agents. Op Directions NA 2026 riep Microsoft ISV's op 'productized agents' te bouwen en noemde 'over a dozen' ISV-agents.
+
+Relevantie: Expliciete uitnodiging aan ISV's als 4PS om verticale agents te bouwen.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">ba-microsoft-lagenmodel-productized-agents</guid>
+</item>
+<item>
+<title>Menselijke controle ingebouwd in BC-agents</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/sales-order-agent</link>
+<description>De Sales Order Agent laat alle uitgaande berichten controleren; de Payables Agent boekt niet zelf en een nieuwe leverancier blijft geblokkeerd tot een mens hem vrijgeeft.
+
+Relevantie: Beperkt de initiële tijdwinst en vraagt nieuwe rollen bij 4PS-klanten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-human-in-the-loop</guid>
+</item>
+<item>
+<title>Geen bouwspecifieke BC-agent op AppSource gevonden</title>
+<link>https://github.com/Mastero83/markt-intelligentie-4ps-bc/blob/main/data/updates.json</link>
+<description>Er is geen openbaar beschikbare, GA bouwspecifieke BC-agent op AppSource of Marketplace gevonden (beperkte zoektocht).
+
+Relevantie: Ruimte in de markt voor verticale bouwagents van 4PS of partners.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">ba-geen-bouw-agent-appsource</guid>
+</item>
+<item>
+<title>Externe maatwerkbouwers: Retrii en Bouw Botje</title>
+<link>https://retrii.com/ai-voor-installatiebedrijven/</link>
+<description>Retrii bouwt agents bovenop Syntess, AFAS en Admicom voor intake van storingen en werkbonnen, vanaf €5.000 met 'mens als laatste controle'. Er bestaan ook MCP-koppelingen voor Exact Online Bouw, zoals Bouw Botje (niet verder gecontroleerd).
+
+Relevantie: Laat zien welke agent-use-cases installatiebedrijven nu al afnemen buiten BC.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">ba-externe-maatwerk-agents</guid>
+</item>
+<item>
+<title>Exact Online Bouw: AI-agents in alle edities</title>
+<link>https://www.exact.com/nl/producten/bouw/features-en-prijzen</link>
+<description>Exact noemt AI-agents (Purchase, Bank, Debtor, Support Agent) inbegrepen in alle edities van Exact voor Bouw; op 3 september 2026 lanceerde Exact de Financial Agent.
+
+Relevantie: Directe concurrent die agents als onderdeel van het pakket positioneert, tegenover betaling per gebruik bij BC.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">ba-exact-bouw-agents</guid>
+</item>
+<item>
+<title>Copilot Studio-integratie met BC via MCP</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/create-agent-in-copilot-studio</link>
+<description>In Copilot Studio kunnen agents BC als tool gebruiken via de MCP-connector; kosten via Copilot Studio-credits.
+
+Relevantie: Route voor pilots met agents (bijv. storingsintake) zonder eigen AL-ontwikkeling.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-copilot-studio-integratie</guid>
+</item>
+<item>
+<title>Copilot Credits: prijzen en rekenvoorbeeld</title>
+<link>https://www.microsoft.com/licensing/guidance/Copilot-Credits</link>
+<description>Pay-as-you-go kost $0,01 per Copilot Credit (vereist een gekoppeld Azure-abonnement); capaciteitspakketten kosten $200 per 25.000 credits per maand. Microsofts voorbeeld: 100 facturen met 3 regels = 6.500 credits (≈ $65) per maand; zonder credits stopt de Sales Order Agent tot er weer credits zijn.
+
+Relevantie: Variabel kostenmodel bepaalt de business case van agents voor 4PS-klanten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">ba-copilot-credits-prijzen</guid>
+</item>
+<item>
+<title>Microsoft Copilot chat in BC 29 (public preview)</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-29-0</link>
+<description>BC 29.0 bevat een nieuwe Microsoft Copilot chat-ervaring in public preview.
+
+Relevantie: Nieuwe chatinterface voor BC-data, ook voor 4PS-gebruikers.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-copilot-chat-bc29-preview</guid>
+</item>
+<item>
+<title>Bluace implementeert BC-agents voor installatiebranche</title>
+<link>https://bluace.nl/en/dynamics-software-apps/business-central/</link>
+<description>BC-partner Bluace implementeert de Sales Order, Payables en Expense Agent en Agent Designer voor installatie-, service- en technische bedrijven.
+
+Relevantie: Partner in dezelfde doelgroep als 4PS die standaardagents al aanbiedt.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">ba-bluace-agents-installatie</guid>
+</item>
+<item>
+<title>BC MCP-server GA</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-28-0</link>
+<description>De BC MCP-server laat externe AI-clients BC-API's lezen en bij configuratie aanroepen (standaard alleen-lezen). GA en verplicht aan sinds 28.0; data queries GA in 29.0; admin center via MCP is preview.
+
+Relevantie: Koppellaag voor agents over meerdere systemen heen, bruikbaar met 4PS Construct op BC online.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-bc-mcp-server</guid>
+</item>
+<item>
+<title>Copilot-assistentie inbegrepen in BC-licentie</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/copilot-agents</link>
+<description>Met een BC-licentie krijgt iedereen Copilot-assistentie zonder meerkosten (o.a. chat, analysis assist, bankafletteren, samenvatten, marketingteksten); agents worden apart per gebruik betaald.
+
+Relevantie: Bepaalt welke AI-functies 4PS-klanten gratis krijgen en welke extra kosten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">ba-bc-copilot-assistentie-inbegrepen</guid>
+</item>
+<item>
+<title>Copilot en agents alleen in BC online</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/copilot-agents</link>
+<description>Copilot en agents zijn alleen beschikbaar voor Business Central online; Microsoft is niet van plan Copilot on-prem te leveren.
+
+Relevantie: 4PS-klanten on-prem of op NAV kunnen pas agents gebruiken na cloudmigratie.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">ba-bc-copilot-agents-alleen-online</guid>
+</item>
+<item>
+<title>BC 2026 release wave 2 = versie 29.0</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-29-0</link>
+<description>Versie 29.0 verschijnt in oktober 2026; admins kunnen de update plannen tot februari 2027.
+
+Relevantie: 4PS bouwt op de BC-releasecyclus; 29.0 bevat diverse agentverbeteringen.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">ba-bc-29-release-wave-2</guid>
+</item>
+<item>
+<title>Agentbeheer- en ontwikkelfuncties in 28.x/29.0</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-28-0</link>
+<description>GA-verbeteringen: apart takenvenster voor agents, controle van agentinhoud op pagina's, alle taken stoppen, eenvoudiger rechtenbeheer en meldingen. Voor ontwikkelaars in 29.0: AL MCP-workspaces, toewijzing van object-ID's, debuggen en profileren door AI-agents.
+
+Relevantie: Verbetert beheer en ontwikkeling van agents binnen BC, ook voor 4PS-ontwikkeling.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">ba-agentbeheer-en-devtools-28-29</guid>
+</item>
+<item>
+<title>Agent SDK voor AL (preview, productie vanaf 28.1)</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-agent-sdk-overview</link>
+<description>Met de Agent SDK bouwen ISV's agents in AL-code; de SDK is preview, met productie-ondersteuning vanaf 28.1. Preview-API's 'might change without notice'.
+
+Relevantie: Het instrument waarmee 4PS als ISV productized agents kan bouwen.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-agent-sdk-al</guid>
+</item>
+<item>
+<title>Agent Designer / AI development toolkit (preview, alleen Engels)</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-overview</link>
+<description>Met Agent Designer ontwerp je eigen agents in natuurlijke taal; het is public preview, alleen Engels, en volgens 28.1 ook op productieomgevingen. Partnerblog Tigunia noemt het GA sinds mei 2026, maar Microsoft noemt het nog preview.
+
+Relevantie: Basis voor eigen of bouwspecifieke agents door 4PS, partners of klanten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-agent-designer-preview</guid>
+</item>
+<item>
+<title>4PS UK webinars 'AI in Action'</title>
+<link>https://www.4ps.co.uk/ai-transformation-for-construction/</link>
+<description>4PS UK houdt webinars 'AI in Action', o.a. over het integreren van Microsoft AI-tools zoals Copilot en AI Agents.
+
+Relevantie: Signaal dat 4PS klanten voorbereidt op agents.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">ba-4ps-uk-webinars-ai</guid>
+</item>
+<item>
+<title>4PS releases 2026-1, 2026-3 en 2027-1</title>
+<link>https://www.4ps.se/aktuellt/release-ny-version-av-4ps-construct-2026-01/</link>
+<description>2026-1 (SE) noemt prijsstelling, goedkeuringsworkflow voor inkoopontvangsten, Field Service App en live datasync via de BC API. 2026-3 bevat o.a. een Mollie Payments-extensie en overgang naar External File Storage; voor 2027-1 zijn overgang naar Microsoft MDM, andere veldlengtes en uitfaseren van SOAP aangekondigd.
+
+Relevantie: Technische overgangen die capaciteit bij 4PS en klanten vragen.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">ba-4ps-releases-2026-2027</guid>
+</item>
+<item>
+<title>4PS: geen eigen gelanceerde agent in openbare releases</title>
+<link>https://www.4ps.se/aktuellt/release-ny-version-av-4ps-construct-2026-01/</link>
+<description>In de openbare releasecommunicatie van 4PS (2026-1, 2026-3, aankondiging 2027-1) worden AI-agents niet genoemd en is geen eigen bouwspecifieke agent in productie gevonden. Volledige release notes staan alleen op het afgeschermde Customer Portal.
+
+Relevantie: Kernstatus van 4PS op het gebied van agents.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">ba-4ps-geen-eigen-agent</guid>
+</item>
+<item>
+<title>4PS Copilot in 4PS Construct</title>
+<link>https://www.4ps.nl/actueel/ai-in-de-bouw-dichterbij-dan-je-denkt/</link>
+<description>4PS Construct bevat Copilot-functies op basis van Microsoft Copilot, waaronder een chat over ERP-data; release UK 2025-1 voegde o.a. nummerreeks-suggesties en teksten voor het afmelden van serviceorders toe. Volgens 4PS UK (juli 2025) is Copilot geïntegreerd zonder aparte licentie.
+
+Relevantie: Huidige AI-functionaliteit van 4PS zelf.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-4ps-copilot</guid>
+</item>
+<item>
+<title>4PS: Hilti-overname en Microsoft Inner Circle</title>
+<link>https://www.hilti.group/content/hilti/CP/XX/en/company/media-relations/media-releases/4ps_group_acquisition_erp_software_solutions_conclusion.html</link>
+<description>Hilti rondde de overname van 4PS af op 5 oktober 2023 (toen &gt;70.000 dagelijkse gebruikers, ca. 350 medewerkers). 4PS is opnieuw lid van de Microsoft AI Business Applications Inner Circle 2025/2026, met vroegtijdig inzicht in de roadmap inclusief AI.
+
+Relevantie: Context voor de AI-positie en Microsoft-relatie van 4PS.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">ba-4ps-context-hilti-inner-circle</guid>
+</item>
+<item>
+<title>4PS cloudmigraties</title>
+<link>https://www.4ps.nl/actueel/in-2023-migreerden-68-klanten-naar-de-cloud/</link>
+<description>4PS richt zich volledig op cloudsoftware; in 2023 migreerden 68 klanten en het doel voor 2024 was 90 migraties.
+
+Relevantie: Agents werken alleen online, dus het migratietempo bepaalt het bereik bij 4PS-klanten.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">ba-4ps-cloudmigratie</guid>
+</item>
+<item>
+<title>4PS-medewerker bouwt live BC-agent (Areopa-webinar)</title>
+<link>https://www.linkedin.com/posts/areopawebinars_new-webinar-recording-from-zero-to-agent-activity-7490370586574082048-QGPn</link>
+<description>In een Areopa-webinar (juli 2026) bouwde Bert Verbeek (4PS) live een BC-agent: e-mail over voorraad → voorraadcheck, inkooporder en conceptantwoord ('Sandbox and preview only for now'). Het is een generieke BC-demo, geen 4PS-product; het benadrukt het belang van tooltips en foutmeldingen.
+
+Relevantie: Toont agentkennis binnen 4PS.</description>
+<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">ba-4ps-areopa-webinar-agent-demo</guid>
+</item>
+<item>
+<title>Payables Agent Known Senders / e-mailreviewbeleid</title>
+<link>https://mc.merill.net/message/RM576777</link>
+<description>Roadmap-item RM576777: Known Senders en een e-mailreviewbeleid voor de Payables Agent.
+
+Relevantie: Raakt de inrichting van de factuurmailbox en menselijke controle bij inkoopfacturen in BC/4PS.</description>
+<pubDate>Fri, 16 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-payables-agent-known-senders-rm576777</guid>
+</item>
+<item>
+<title>Payables Agent gratis proefmodus (50 facturen)</title>
+<link>https://mc.merill.net/message/RM576776</link>
+<description>Roadmap-item RM576776: een gratis proefmodus voor de Payables Agent waarmee 50 facturen verwerkt kunnen worden zonder e-mailsetup.
+
+Relevantie: Verlaagt de drempel om de Payables Agent in BC/4PS uit te proberen, terwijl kosten normaal per gebruik worden betaald.</description>
+<pubDate>Fri, 16 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-payables-agent-gratis-proefmodus-rm576776</guid>
+</item>
+<item>
+<title>BC MCP-server: alle standaard Microsoft-API's + API queries</title>
+<link>https://mc.merill.net/message/RM576789</link>
+<description>Roadmap-item RM576789: de Business Central MCP-server ontsluit alle standaard Microsoft-API's en API queries.
+
+Relevantie: De MCP-server is de koppellaag waarmee externe AI-agents BC-data gebruiken, ook relevant voor 4PS-klanten op BC online.</description>
+<pubDate>Fri, 16 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-mcp-server-standaard-apis-rm576789</guid>
+</item>
+<item>
+<title>Agent Launchpad-sessie Directions EMEA (Qezaro)</title>
+<link>https://qezaro.com/blog/meet-qezaro-at-directions-emea-2026/</link>
+<description>Partner Qezaro houdt een Agent Launchpad-sessie op Directions EMEA 2026 over partner-BC-agents.
+
+Relevantie: Laat zien dat BC-partners eigen agents in de markt zetten, het speelveld waarin 4PS opereert.</description>
+<pubDate>Thu, 15 Oct 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">radar-qezaro-agent-launchpad-directions-emea</guid>
+</item>
+<item>
+<title>Access Construction lanceert Access Evo (agentic AI bouw-ERP)</title>
+<link>https://www.globenewswire.com/news-release/2026/10/15/3381703/0/en/access-construction-unveils-access-evo-bringing-agentic-ai-to-construction-software-and-turning-systems-of-record-into-a-system-of-action.html</link>
+<description>Access Construction heeft Access Evo gelanceerd, dat agentic AI naar bouwsoftware brengt.
+
+Relevantie: Concurrent bouwsoftwareleverancier met agentic AI, terwijl 4PS nog geen eigen gelanceerde agent heeft.</description>
+<pubDate>Thu, 15 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-access-construction-access-evo</guid>
+</item>
+<item>
+<title>Yaveon bouwt eigen BC-agents</title>
+<link>https://msdynamicsworld.com/story/building-ai-agents-erp-process-optimization-one-isvs-experiences-addressing-new-supply-chain</link>
+<description>Duitse BC-ISV Yaveon heeft een Supply Chain Agent in Copilot Studio en een native BC-agent die incidenten aanmaakt uit e-mails; koppelen kan via MCP, API's of het BC-agentmodel.
+
+Relevantie: Voorbeeld van een ISV die al productized agents levert, zoals 4PS zou kunnen.</description>
+<pubDate>Thu, 15 Oct 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">ba-yaveon-eigen-agents</guid>
+</item>
+<item>
+<title>4PS AI-sessie op Cobouw LIVE (25 nov)</title>
+<link>https://nl.linkedin.com/posts/4ps_3_digitalisering-aiindebouw-bouwinnovatie-activity-7516067924697055232-RnsO</link>
+<description>4PS kondigt via LinkedIn een AI-sessie aan op Cobouw LIVE op 25 november.
+
+Relevantie: Publiek moment waarop 4PS zijn AI-visie voor de bouw presenteert.</description>
+<pubDate>Wed, 14 Oct 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">radar-4ps-cobouw-live-ai-sessie</guid>
+</item>
+<item>
+<title>4PS Customer Day 2026: AI-agents gedemonstreerd</title>
+<link>https://de.linkedin.com/posts/marc-oliver-bader-807142231_aftermovie-4ps-customer-day-2026-activity-7506700191538831361-y4kl</link>
+<description>Op de 4PS Customer Day (15-09-2026, Den Haag) werden volgens persoonlijke LinkedIn-posts verschillende AI-agents gedemonstreerd ('Agentic ERP wird Realität') en noemde een Hilti-manager AI-toepassingen voor ca. 400 bestuurders. Welke agents het waren, is niet bekend.
+
+Relevantie: Sterkste openbare signaal dat 4PS aan agents werkt.</description>
+<pubDate>Tue, 15 Sep 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">ba-4ps-customer-day-2026</guid>
+</item>
+<item>
+<title>EU AI Act: AI Omnibus en tijdlijn</title>
+<link>https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force</link>
+<description>De AI Omnibus trad op 27-07-2026 in werking; regels voor hoog-risico-AI (Annex III) gelden vanaf 2 december 2027 en voor Annex I vanaf 2 augustus 2028.
+
+Relevantie: Bepaalt governance-eisen rond AI-agents in ERP.</description>
+<pubDate>Mon, 27 Jul 2026 08:30:00 +0000</pubDate>
+<category>regelgeving</category>
+<guid isPermaLink="false">ba-eu-ai-act-tijdlijn</guid>
+</item>
+<item>
+<title>Expense Agent in public preview</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/manage-expenses-business-central-using-expense-agent</link>
+<description>De Expense Agent zet bonnetjes (webapp, Outlook, e-mail) om in declaraties en is sinds 8 mei 2026 public preview; uitbreidingen in 29.0 zijn ook preview. Uitrol per land is beperkt; kosten 50 credits per bonnetje.
+
+Relevantie: Nog niet productierijp voor Nederlandse 4PS-klanten.</description>
+<pubDate>Fri, 08 May 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-expense-agent-preview</guid>
+</item>
+<item>
+<title>Sales Order Agent: GA in alle BC-landen, Nederlands ondersteund</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/sales-order-agent</link>
+<description>De Sales Order Agent leest klantverzoeken uit een mailbox (ook PDF's en afbeeldingen), zoekt klant en artikelen, controleert voorraad en maakt offerte en order; een mens keurt alle uitgaande mails goed. GA in alle BC-landen en Nederlands (nl-NL, nl-BE) wordt ondersteund; een typische aanvraag kost ca. 14 credits.
+
+Relevantie: Direct inzetbaar in 4PS/BC online, vooral voor installatie-, service- en groothandelsachtige stromen.</description>
+<pubDate>Mon, 27 Apr 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-sales-order-agent</guid>
+</item>
+<item>
+<title>Payables Agent: GA, maar alleen in Engels gevalideerd</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/payables-agent</link>
+<description>De Payables Agent verwerkt PDF-inkoopfacturen uit een mailbox met OCR, herkent de leverancier en stelt regels voor; een mens controleert en de agent boekt niet zelf. GA in alle BC-landen, verbeterde PO-matching GA in 29.0, maar 'validated and supported in English only'; kosten 50 credits per factuur + 5 per regel.
+
+Relevantie: Relevant voor inkoopfacturen bij 4PS-klanten, met extra controle bij Nederlandstalige facturen.</description>
+<pubDate>Mon, 27 Apr 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">ba-payables-agent</guid>
+</item>
+<item>
+<title>Syntess en Bisharp: BI &amp; AI-rapportage</title>
+<link>https://www.syntess.nl/nieuws/syntess-en-bisharp-sluiten-exclusief-partnership-voor-bi-en-ai-rapportage/</link>
+<description>Syntess (Atrium) sloot op 19-03-2026 een exclusief partnership met Bisharp voor een standaard BI &amp; AI-rapportageproduct.
+
+Relevantie: Concurrent in installatie-ERP zet in op AI-rapportage.</description>
+<pubDate>Thu, 19 Mar 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">ba-syntess-bisharp</guid>
+</item>
+</channel>
+</rss>
