@@ -33,6 +33,7 @@ Raw-URL's worden door GitHub enkele minuten gecachet. Wil je weten of er iets ni
 **Importregels**
 - Sleutel = `id` (stabiel en uniek). Importeer als upsert op `id`; nieuwe `id`'s = nieuwe items.
 - De bron is alleen-toevoegen: verwijder niets lokaal op basis van ontbrekende items.
+- Use cases ter inspiratie voor klantgesprekken staan in hetzelfde bestand met `categorie: "use_case"`.
 - Filter/sorteer op `datum` (nieuwsdatum), `gemeld_op` (registratiedatum), `categorie`, `tags`, `bron_type`.
 
 ## Aanbevolen architectuur

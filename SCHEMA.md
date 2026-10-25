@@ -4,16 +4,16 @@
 
 | Veld | Type | Beschrijving |
 |---|---|---|
-| `id` | string | Stabiele slug, uniek. Prefix `radar-` = dagelijkse radar, `ba-` = basisanalyse. Wijzigt niet bij updates. |
+| `id` | string | Stabiele slug, uniek. Prefix `radar-` = dagelijkse radar, `ba-` = basisanalyse, `uc-` = use case. Wijzigt niet bij updates. |
 | `datum` | string (yyyy-mm-dd) | Datum van het nieuws/de bron. Als die onbekend is: de meldingsdatum (`gemeld_op`). Bij basisanalyse-items zonder specifieke brondatum: peildatum 2026-10-19. |
 | `gemeld_op` | string (yyyy-mm-dd) | Datum waarop het item gemeld/vastgelegd is (radar-meldingsdatum of rapportdatum). |
 | `onderwerp` | string | Korte titel. |
 | `samenvatting` | string | 1-3 zinnen in het Nederlands, alleen feiten uit de bronbestanden. |
 | `relevantie` | string | 1 zin NL: waarom relevant voor BC/4PS. |
-| `categorie` | enum | Precies één van: `product_release`, `concurrentie`, `partners`, `prijzen_licenties`, `ai_features`, `markt`, `regelgeving`, `events`. |
+| `categorie` | enum | Precies één van: `product_release`, `concurrentie`, `partners`, `prijzen_licenties`, `ai_features`, `markt`, `regelgeving`, `events`, `use_case`. |
 | `tags` | string[] | Vrije trefwoorden, lowercase, met koppeltekens. |
 | `bronnen` | object[] | Lijst van `{ "titel": string, "url": string }`. Kan leeg zijn als de bevinding een constatering zonder bron-URL is. |
-| `bron_type` | enum | `dagelijkse_radar` (uit de dagelijkse AI-radar) of `basisanalyse` (uit het rapport van 19-10-2026). |
+| `bron_type` | enum | `dagelijkse_radar` (uit de dagelijkse AI-radar) `basisanalyse` (uit het rapport van 19-10-2026) of `usecase_radar` (uit de dagelijkse use case-zoektocht). |
 
 ## Voorbeeld
 ```json
@@ -49,3 +49,11 @@
 
 ## Aanvullen
 Voeg nieuwe items toe aan de array met een nieuwe unieke `id`. Bestaande `id`'s blijven ongewijzigd (alleen-toevoegen). Draai daarna `scripts/publish.sh`; die valideert (unieke `id`, verplichte velden, toegestane `categorie`/`bron_type`, datumformaat) en breekt af bij fouten.
+
+## Use cases
+
+Items met `categorie: "use_case"` (en `bron_type: "usecase_radar"`) zijn praktijkvoorbeelden ter inspiratie voor klantgesprekken. Ze gebruiken dezelfde velden:
+- `samenvatting`: het probleem, de oplossing (welke BC-, 4PS- of AI-functionaliteit) en het resultaat volgens de bron.
+- `relevantie`: hoe je de use case in een klantgesprek kunt inbrengen (welk type klant, welke vraag je kunt stellen).
+
+Er worden geen resultaten of cijfers verzonnen. Alleen wat de bron zegt, wordt opgenomen.

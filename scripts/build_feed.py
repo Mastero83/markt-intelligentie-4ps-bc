@@ -19,8 +19,8 @@ VERPLICHT = {
     "tags": list, "bronnen": list, "bron_type": str,
 }
 CATEGORIEEN = {"product_release", "concurrentie", "partners", "prijzen_licenties",
-               "ai_features", "markt", "regelgeving", "events"}
-BRON_TYPES = {"dagelijkse_radar", "basisanalyse"}
+               "ai_features", "markt", "regelgeving", "events", "use_case"}
+BRON_TYPES = {"dagelijkse_radar", "basisanalyse", "usecase_radar"}
 DATUM_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
