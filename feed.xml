@@ -7,6 +7,16 @@
 <language>nl-nl</language>
 <lastBuildDate>Mon, 26 Oct 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>mobilezone: orderinvoer uit klant-pdf's via Copilot Studio-agent met MCP-koppeling naar het ERP</title>
+<link>https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio</link>
+<description>Probleem: backoffice-medewerkers van de Zwitserse retailer mobilezone typten orders op basis van klantcontracten handmatig over in het ERP, wat per order enkele minuten kostte. Oplossing: een Sales Order Creation Agent in Copilot Studio, gekoppeld aan Dynamics 365 via de Microsoft ERP-connector en een MCP-verbinding; een medewerker zet een klant-pdf in Teams, de agent maakt een concept-verkooporder en een mens controleert en bevestigt (onduidelijke velden blijven leeg). Resultaat volgens Microsoft: 5 tot 10 minuten bespaard per order, bij ongeveer 30 tot 40 orders per maand voor de eerste klant.
+
+Relevantie: Voor groothandels of bouwleveranciers die veel orders als pdf binnenkrijgen: vraag hoeveel orders per maand nog handmatig worden overgetypt en hoe lang dat per order duurt, en laat zien dat de BC Sales Order Agent of een eigen Copilot Studio-agent via de BC MCP-server hetzelfde patroon met menselijke controle ondersteunt.</description>
+<pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-mobilezone-sales-order-agent-copilot-studio-mcp</guid>
+</item>
+<item>
 <title>EOS Solutions toont samenwerkende BC-agents op Directions EMEA (29 okt)</title>
 <link>https://eos-solutions.it/en/directions-emea-2026.html</link>
 <description>BC-ISV EOS Solutions geeft op 29 oktober 2026 op Directions EMEA in Parijs de sessie 'AI Agents in Action', met live demo's van een Purchase Request Agent, Plant Maintenance Agent en Electronic Invoice Agent, georkestreerd door een Data Security Agent voor governance en toegangsbeleid.
@@ -55,6 +65,26 @@ Relevantie: Bepaalt hoe 4PS en andere BC-ISV's AI-functies in hun apps bouwen en
 <pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
 <category>prijzen_licenties</category>
 <guid isPermaLink="false">radar-bc-ai-resources-copilot-extensions-rm577820</guid>
+</item>
+<item>
+<title>Stecker Express: lagere voorraad en hogere servicegraad met Netstock naast Business Central</title>
+<link>https://telematik-markt.de/telematik/stecker-express-optimiert-die-bestandsplanung-mit-microsoft-dynamics-365-und-netstock</link>
+<description>Probleem: de Duitse groothandel Stecker Express (meer dan 25.000 artikelen, circa 15.000 klanten) plande voorraad met Excel-lijsten en ervaring, met statische bestelniveaus en weinig overzicht. Oplossing: de planningssoftware van Netstock naast Business Central (via partner Konica Minolta), die bestelniveaus dagelijks herberekent op basis van artikel-, order- en leveringsdata en automatische bestelvoorstellen doet; de implementatie duurde twee weken. Resultaat volgens Netstock: voorraad van 3,5 naar 2,9 miljoen euro en servicegraad van 93,3 naar 97,2 procent.
+
+Relevantie: Voor installateurs en bouwbedrijven met een eigen magazijn of veel voorraadmateriaal: vraag hoe bestelniveaus nu worden bepaald en hoe vaak er misgrijpen of overvoorraad is, en bespreek of slimme bestelvoorstellen bovenop BC/4PS dat kunnen verbeteren.</description>
+<pubDate>Thu, 22 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-stecker-express-netstock-bc-voorraadplanning</guid>
+</item>
+<item>
+<title>Grupo Madisa (Caterpillar-dealer): verhuuroffertes van dagen naar minuten met Copilot Studio-agent</title>
+<link>https://www.microsoft.com/en/customers/story/27447-grupo-madisa-dynamics-365-supply-chain-management</link>
+<description>Probleem: de Mexicaanse Caterpillar-dealer Grupo Madisa werkte met 80 tot 90 losse systemen, en een verhuurofferte voor materieel kostte twee à drie dagen door handmatig beschikbaarheid, specificaties en prijzen te controleren. Oplossing: Dynamics 365 (met XAPT NAXT365 voor verhuur, service en onderdelen), Fabric en Power BI, plus 'Memo', een klantgerichte agent in Copilot Studio en Power Automate die actuele verhuurtarieven uit Dynamics 365 haalt en goedgekeurde offertes terugzet in Dynamics 365. Resultaat volgens Microsoft: rapportagetijd van weken naar uren, offertetijd voor verhuur van dagen naar minuten, orderpicken van gemiddeld 16 naar 5 uur per maand en bijna 120 gesprekken met de agent in zeven dagen.
+
+Relevantie: Interessant voor bouwbedrijven met een eigen materieeldienst of verhuuractiviteit: vraag hoe lang het nu duurt om een verhuur- of materieelofferte rond te krijgen en of klanten zelf beschikbaarheid en tarieven zouden mogen opvragen via een agent die op de ERP-gegevens draait.</description>
+<pubDate>Thu, 22 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-grupo-madisa-verhuurofferte-agent-copilot-studio</guid>
 </item>
 <item>
 <title>Procore lanceert Agent Marketplace met 15 partner-agents (Groundbreak 2026)</title>
