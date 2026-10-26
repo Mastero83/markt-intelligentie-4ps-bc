@@ -5,7 +5,47 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Fri, 23 Oct 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>EOS Solutions toont samenwerkende BC-agents op Directions EMEA (29 okt)</title>
+<link>https://eos-solutions.it/en/directions-emea-2026.html</link>
+<description>BC-ISV EOS Solutions geeft op 29 oktober 2026 op Directions EMEA in Parijs de sessie 'AI Agents in Action', met live demo's van een Purchase Request Agent, Plant Maintenance Agent en Electronic Invoice Agent, georkestreerd door een Data Security Agent voor governance en toegangsbeleid.
+
+Relevantie: Voorbeeld van hoe BC-ISV's multi-agent-oplossingen met governance verpakken, een referentie voor de positionering van 4PS en zijn partners.</description>
+<pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">radar-eos-ai-agents-directions-emea-2026</guid>
+</item>
+<item>
+<title>BC: meerdere Sales Order Agents per bedrijf, slimmere artikelmatching en relevantiefilter (RM578065)</title>
+<link>https://mc.merill.net/message/RM578065</link>
+<description>Microsoft meldde op 23 oktober 2026 (status: gelanceerd, GA) dat je in één Business Central-bedrijf meerdere Sales Order Agent-instanties kunt draaien, elk met een eigen mailbox, instellingen en KPI's. De agent matcht artikelen nu in lagen (exacte identifier, semantische kenmerken via AI, fuzzy search), filtert irrelevante berichten en bijlagen, en leest PDF-bijlagen tot 50 pagina's in plaats van 10.
+
+Relevantie: Maakt de Sales Order Agent bruikbaar per verkoopteam of productlijn en voor grotere inkooporders, relevant voor groothandel- en installatieklanten op BC/4PS.</description>
+<pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-sales-order-agent-multi-instance-rm578065</guid>
+</item>
+<item>
+<title>BC Payables Agent verwerkt straks creditnota's van leveranciers (RM577878, GA nov 2026)</title>
+<link>https://mc.merill.net/message/RM577878</link>
+<description>Volgens roadmap-item RM577878 (gepubliceerd 23 oktober 2026, in ontwikkeling) herkent de Payables Agent een creditnota van een leverancier, maakt een inkoopcreditnota aan en past die toe op de oorspronkelijke factuur, met dezelfde concept- en taakervaring als bij facturen. Matching met retourorders zit er niet in; GA staat gepland voor november 2026.
+
+Relevantie: Vult een gat in de automatische crediteurenverwerking dat bouw- en installatiebedrijven met veel leveranciers direct merken.</description>
+<pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-payables-agent-credit-notes-rm577878</guid>
+</item>
+<item>
+<title>BC: eigen AI-agents ontwerpen in het product via AI Development Toolkit (RM578068)</title>
+<link>https://mc.merill.net/message/RM578068</link>
+<description>Roadmap-item RM578068 (gepubliceerd 23 oktober 2026, in ontwikkeling, preview en GA) beschrijft de agent-runtime van Business Central en een in-product ervaring om met natuurlijke-taalinstructies eigen agents te ontwerpen, te testen op profielen en rechten en in een sandbox te proberen. Microsoft noemt dat agentcapaciteiten in de toekomst als MCP-tools beschikbaar komen voor declaratieve agents in Copilot Studio en Microsoft 365.
+
+Relevantie: Geeft partners zoals 4PS en consultants een officiële route om branchespecifieke bouwagents binnen BC te bouwen.</description>
+<pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-agent-design-experience-rm578068</guid>
+</item>
 <item>
 <title>BC: Microsoft-beheerde AI-resources voor Copilot-extensies van ISV's (RM577820, GA april 2027)</title>
 <link>https://mc.merill.net/message/RM577820</link>

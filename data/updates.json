@@ -1332,5 +1332,98 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-sales-order-agent-multi-instance-rm578065",
+    "datum": "2026-10-23",
+    "gemeld_op": "2026-10-26",
+    "onderwerp": "BC: meerdere Sales Order Agents per bedrijf, slimmere artikelmatching en relevantiefilter (RM578065)",
+    "samenvatting": "Microsoft meldde op 23 oktober 2026 (status: gelanceerd, GA) dat je in één Business Central-bedrijf meerdere Sales Order Agent-instanties kunt draaien, elk met een eigen mailbox, instellingen en KPI's. De agent matcht artikelen nu in lagen (exacte identifier, semantische kenmerken via AI, fuzzy search), filtert irrelevante berichten en bijlagen, en leest PDF-bijlagen tot 50 pagina's in plaats van 10.",
+    "relevantie": "Maakt de Sales Order Agent bruikbaar per verkoopteam of productlijn en voor grotere inkooporders, relevant voor groothandel- en installatieklanten op BC/4PS.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "sales-order-agent",
+      "agents",
+      "copilot",
+      "roadmap"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM578065 - Run multiple Sales Order Agents per company",
+        "url": "https://mc.merill.net/message/RM578065"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-payables-agent-credit-notes-rm577878",
+    "datum": "2026-10-23",
+    "gemeld_op": "2026-10-26",
+    "onderwerp": "BC Payables Agent verwerkt straks creditnota's van leveranciers (RM577878, GA nov 2026)",
+    "samenvatting": "Volgens roadmap-item RM577878 (gepubliceerd 23 oktober 2026, in ontwikkeling) herkent de Payables Agent een creditnota van een leverancier, maakt een inkoopcreditnota aan en past die toe op de oorspronkelijke factuur, met dezelfde concept- en taakervaring als bij facturen. Matching met retourorders zit er niet in; GA staat gepland voor november 2026.",
+    "relevantie": "Vult een gat in de automatische crediteurenverwerking dat bouw- en installatiebedrijven met veel leveranciers direct merken.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "payables-agent",
+      "agents",
+      "crediteuren",
+      "roadmap"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM577878 - Payables Agent can process vendor credit notes",
+        "url": "https://mc.merill.net/message/RM577878"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-agent-design-experience-rm578068",
+    "datum": "2026-10-23",
+    "gemeld_op": "2026-10-26",
+    "onderwerp": "BC: eigen AI-agents ontwerpen in het product via AI Development Toolkit (RM578068)",
+    "samenvatting": "Roadmap-item RM578068 (gepubliceerd 23 oktober 2026, in ontwikkeling, preview en GA) beschrijft de agent-runtime van Business Central en een in-product ervaring om met natuurlijke-taalinstructies eigen agents te ontwerpen, te testen op profielen en rechten en in een sandbox te proberen. Microsoft noemt dat agentcapaciteiten in de toekomst als MCP-tools beschikbaar komen voor declaratieve agents in Copilot Studio en Microsoft 365.",
+    "relevantie": "Geeft partners zoals 4PS en consultants een officiële route om branchespecifieke bouwagents binnen BC te bouwen.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "agents",
+      "agent-designer",
+      "ai-development-toolkit",
+      "mcp",
+      "roadmap"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM578068 - Envision and design AI agents in Business Central",
+        "url": "https://mc.merill.net/message/RM578068"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-eos-ai-agents-directions-emea-2026",
+    "datum": "2026-10-26",
+    "gemeld_op": "2026-10-26",
+    "onderwerp": "EOS Solutions toont samenwerkende BC-agents op Directions EMEA (29 okt)",
+    "samenvatting": "BC-ISV EOS Solutions geeft op 29 oktober 2026 op Directions EMEA in Parijs de sessie 'AI Agents in Action', met live demo's van een Purchase Request Agent, Plant Maintenance Agent en Electronic Invoice Agent, georkestreerd door een Data Security Agent voor governance en toegangsbeleid.",
+    "relevantie": "Voorbeeld van hoe BC-ISV's multi-agent-oplossingen met governance verpakken, een referentie voor de positionering van 4PS en zijn partners.",
+    "categorie": "partners",
+    "tags": [
+      "eos-solutions",
+      "directions-emea",
+      "agents",
+      "isv",
+      "governance"
+    ],
+    "bronnen": [
+      {
+        "titel": "EOS Solutions Sponsor at Directions EMEA 2026",
+        "url": "https://eos-solutions.it/en/directions-emea-2026.html"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
