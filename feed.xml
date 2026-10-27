@@ -5,7 +5,37 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Mon, 26 Oct 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>ProjectPro (bouw-ERP op Business Central) positioneert zich als basis voor AI-agents</title>
+<link>https://www.projectpro365.com/blog/construction-erp-for-ai-agents/</link>
+<description>Netsmartz, maker van ProjectPro, een bouw-ERP gebouwd op Business Central, beschrijft zijn Netsmartz Intelligence Platform: BC als systeemlaag, een recordlaag op Microsoft Fabric die agents lezen, en daarboven AI-collega's met afgebakende taken en menselijke goedkeuring. Als voorbeeld noemt het een agent die termijnfacturen opstelt uit contract, termijnschema, meerwerk en gemaakte kosten.
+
+Relevantie: Een directe BC-vertical-concurrent van 4PS kiest voor dezelfde architectuur (BC plus Fabric plus agents) en dezelfde boodschap dat datakwaliteit vóór AI komt.</description>
+<pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-projectpro-bc-construction-erp-ai-agents-2026-10</guid>
+</item>
+<item>
+<title>NetSuite lanceert bouw-AI-agents en plant 'NetSuite for Construction Businesses'</title>
+<link>https://www.prnewswire.com/news-releases/netsuite-puts-industry-expertise-to-work-with-new-ai-agents-302919134.html</link>
+<description>Oracle NetSuite kondigde op SuiteWorld branchespecifieke SuiteAgents aan, waarvan de bouwvariant nu beschikbaar is in NetSuite Next. Een Estimate Import Agent zet begrotingen om in contracten, termijnschema's en kostgecodeerde projectbudgetten, en een Payment Application Agent bereidt termijnfacturen voor op basis van geverifieerde voortgang, goedgekeurd meerwerk en inhoudingen. Daarnaast plant NetSuite een AI-gedreven bouwboekhoudoplossing met onder meer een Construction Workbench en OHW-boekhouding, eerst beperkt in de VS.
+
+Relevantie: Directe concurrent die agents levert voor precies de kernprocessen van 4PS (begroting naar budget, termijnfacturatie), wat de lat legt voor wat bouw-ERP-klanten van AI gaan verwachten.</description>
+<pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-netsuite-construction-suiteagents-2026-10</guid>
+</item>
+<item>
+<title>Alphavima lanceert PulseNet365, AI-HRMS op Business Central (Directions EMEA)</title>
+<link>https://www.einpresswire.com/article/952053681/alphavima-technologies-announces-pulsenet365-an-ai-enabled-hrms-built-on-microsoft-dynamics-365-business-central</link>
+<description>ISV Alphavima bracht PulseNet365 uit, een HR-systeem met twaalf modules op Business Central. De PulseAI Agent stelt verlof-, uren- en declaratieaanvragen op uit gewone taal en slaat pas op na bevestiging door de medewerker. Het product wordt getoond op Directions EMEA in Parijs (27-29 okt).
+
+Relevantie: Laat zien dat BC-ISV's agents inbouwen voor urenregistratie en declaraties, processen die ook bij bouw- en installatiebedrijven op 4PS veel handwerk kosten.</description>
+<pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">radar-alphavima-pulsenet365-bc-hrms-ai-2026-10</guid>
+</item>
 <item>
 <title>mobilezone: orderinvoer uit klant-pdf's via Copilot Studio-agent met MCP-koppeling naar het ERP</title>
 <link>https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio</link>

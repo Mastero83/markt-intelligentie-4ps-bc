@@ -1497,5 +1497,81 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-netsuite-construction-suiteagents-2026-10",
+    "datum": "2026-10-26",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "NetSuite lanceert bouw-AI-agents en plant 'NetSuite for Construction Businesses'",
+    "samenvatting": "Oracle NetSuite kondigde op SuiteWorld branchespecifieke SuiteAgents aan, waarvan de bouwvariant nu beschikbaar is in NetSuite Next. Een Estimate Import Agent zet begrotingen om in contracten, termijnschema's en kostgecodeerde projectbudgetten, en een Payment Application Agent bereidt termijnfacturen voor op basis van geverifieerde voortgang, goedgekeurd meerwerk en inhoudingen. Daarnaast plant NetSuite een AI-gedreven bouwboekhoudoplossing met onder meer een Construction Workbench en OHW-boekhouding, eerst beperkt in de VS.",
+    "relevantie": "Directe concurrent die agents levert voor precies de kernprocessen van 4PS (begroting naar budget, termijnfacturatie), wat de lat legt voor wat bouw-ERP-klanten van AI gaan verwachten.",
+    "categorie": "concurrentie",
+    "tags": [
+      "netsuite",
+      "oracle",
+      "bouw-erp",
+      "ai-agents",
+      "termijnfacturatie",
+      "begroting"
+    ],
+    "bronnen": [
+      {
+        "titel": "NetSuite Puts Industry Expertise to Work with New AI Agents (PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/netsuite-puts-industry-expertise-to-work-with-new-ai-agents-302919134.html"
+      },
+      {
+        "titel": "NetSuite Helps Construction Businesses Protect Margins and Improve Cash Flow (Nasdaq)",
+        "url": "https://www.nasdaq.com/press-release/netsuite-helps-construction-businesses-protect-margins-and-improve-cash-flow-2026-10"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-projectpro-bc-construction-erp-ai-agents-2026-10",
+    "datum": "2026-10-26",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "ProjectPro (bouw-ERP op Business Central) positioneert zich als basis voor AI-agents",
+    "samenvatting": "Netsmartz, maker van ProjectPro, een bouw-ERP gebouwd op Business Central, beschrijft zijn Netsmartz Intelligence Platform: BC als systeemlaag, een recordlaag op Microsoft Fabric die agents lezen, en daarboven AI-collega's met afgebakende taken en menselijke goedkeuring. Als voorbeeld noemt het een agent die termijnfacturen opstelt uit contract, termijnschema, meerwerk en gemaakte kosten.",
+    "relevantie": "Een directe BC-vertical-concurrent van 4PS kiest voor dezelfde architectuur (BC plus Fabric plus agents) en dezelfde boodschap dat datakwaliteit vóór AI komt.",
+    "categorie": "concurrentie",
+    "tags": [
+      "projectpro",
+      "netsmartz",
+      "business-central",
+      "bouw-erp",
+      "fabric",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction ERP for AI Agents: Trust the Ledger First (ProjectPro)",
+        "url": "https://www.projectpro365.com/blog/construction-erp-for-ai-agents/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-alphavima-pulsenet365-bc-hrms-ai-2026-10",
+    "datum": "2026-10-26",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "Alphavima lanceert PulseNet365, AI-HRMS op Business Central (Directions EMEA)",
+    "samenvatting": "ISV Alphavima bracht PulseNet365 uit, een HR-systeem met twaalf modules op Business Central. De PulseAI Agent stelt verlof-, uren- en declaratieaanvragen op uit gewone taal en slaat pas op na bevestiging door de medewerker. Het product wordt getoond op Directions EMEA in Parijs (27-29 okt).",
+    "relevantie": "Laat zien dat BC-ISV's agents inbouwen voor urenregistratie en declaraties, processen die ook bij bouw- en installatiebedrijven op 4PS veel handwerk kosten.",
+    "categorie": "partners",
+    "tags": [
+      "isv",
+      "business-central",
+      "hrms",
+      "urenregistratie",
+      "ai-agent",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Alphavima Technologies Announces PulseNet365 (EIN Presswire)",
+        "url": "https://www.einpresswire.com/article/952053681/alphavima-technologies-announces-pulsenet365-an-ai-enabled-hrms-built-on-microsoft-dynamics-365-business-central"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
