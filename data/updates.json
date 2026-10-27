@@ -1573,5 +1573,103 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-companial-agent-projectfacturatie-mijlpaal",
+    "datum": "2026-10-27",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "Agent maakt conceptfactuur zodra een projectmijlpaal bereikt is (Companial-demo, Directions EMEA)",
+    "samenvatting": "Probleem: bij projecten kost het handwerk om van verbruikte resources tot een gecontroleerde en goedgekeurde factuur te komen. Oplossing: een Business Central-agent signaleert dat een factureerbare mijlpaal is bereikt, maakt een conceptfactuur op basis van werkelijk verbruik en planningsregels en vraagt de projectleider om review, gebouwd zowel met Copilot Studio (goedkeuren in Teams) als met Agent Designer (alles binnen BC). Companial vergelijkt beide routes op architectuur, flexibiliteit en Copilot-creditverbruik; het is een demo, er worden geen klantresultaten genoemd.",
+    "relevantie": "Goed voor projectgedreven bouw- en installatiebedrijven op 4PS of BC met termijnfacturatie: vraag hoeveel tijd er zit tussen het bereiken van een termijn en het versturen van de factuur, en wie dat nu handmatig controleert.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "agent-designer",
+      "copilot-studio",
+      "projectfacturatie",
+      "termijnfacturatie",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Companial op Directions EMEA 2026: Copilot Studio or Agent Designer - Let the Demo Decide",
+        "url": "https://companial.com/directions-emea-2026/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-companial-spraakmemo-naar-bc-project-offerte",
+    "datum": "2026-10-27",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "Van spraakmemo na klantgesprek naar compleet BC-project en offerte (Companial-demo, Directions EMEA)",
+    "samenvatting": "Probleem: na een klantgesprek moet een verkoper ongestructureerde informatie handmatig omzetten in een project en offerte. Oplossing: Copilot Studio en een met Agent Designer gebouwde Business Central-agent zetten een ingesproken spraakmemo om in een BC-project met taken, planningsregels en validatie, waarschuwen de projectengineer, vragen ontbrekende details na bij de verkoper en bereiden de offerte voor. Het is een demo op Directions EMEA (29 okt); resultaten worden niet genoemd.",
+    "relevantie": "Interessant voor aannemers en installateurs waar werkvoorbereiders of accountmanagers na een opname ter plaatse de calculatie en offerte opstellen: vraag hoe lang het duurt van locatiebezoek tot offerte en hoeveel informatie onderweg verloren gaat.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "agent-designer",
+      "copilot-studio",
+      "offerte",
+      "projecten",
+      "spraak",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Companial op Directions EMEA 2026: One Voice Note, a Complete Project",
+        "url": "https://companial.com/directions-emea-2026/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-romy-offerte-agents-staalbouw-cogio",
+    "datum": "2026-10-23",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "Staalbouwer Les Industries Romy verstuurt meer offertes met AI-agents naast ERP",
+    "samenvatting": "Probleem: de drie projectleiders van de Canadese staalbouwer besteedden veel tijd aan papierwerk terwijl het bedrijf door Amerikaanse importheffingen meer moest prospecteren; 16 offertes lagen al meer dan 90 dagen stil. Oplossing: acht gespecialiseerde agents, waaronder een offerte-agent die aanvragen leest, hoeveelheden uit documenten haalt, vergelijkbare eerdere offertes zoekt en een conceptbegroting en -offerte maakt, met prijs en toezeggingen altijd door een mens goedgekeurd; alles draait op een eigen server. Resultaat: volgens de eigenaar verstuurt het bedrijf ongeveer twee tot drie keer zoveel offertes (eigen waarneming, geen onafhankelijke meting).",
+    "relevantie": "Bruikbaar bij calculatie-intensieve bouw- en staalbouwklanten op 4PS: vraag hoeveel aanvragen ze laten liggen door tijdgebrek en of hun eerdere calculaties en prijzen vindbaar genoeg zijn om een agent op te laten werken.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "offerte",
+      "ai-agent",
+      "human-in-the-loop",
+      "staalbouw"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction quotes: faster estimates with AI (Cogio, 23 okt 2026)",
+        "url": "https://cogio.ai/en/blog/construction-quotes-faster-estimates-ai"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-qezaro-agent-launchpad-prijslijst-artikelreferentie",
+    "datum": "2026-10-27",
+    "gemeld_op": "2026-10-27",
+    "onderwerp": "Partneragents voor leveranciersprijslijsten, artikelmatching en factuurcontrole in BC (Qezaro Agent Launchpad)",
+    "samenvatting": "Op Directions EMEA (28 okt) tonen drie BC-partners agents uit Microsofts Agent Launchpad-programma met Qezaro: ERPgruppen matcht klant-artikelreferenties aan BC-artikelen bij offertes op basis van historische orders, Abakion controleert informatie uit gekoppelde systemen om problemen vóór facturatie te signaleren, en Brightblocks verwerkt binnenkomende leveranciersprijslijsten in Business Central. Doel is minder matchfouten en minder handwerk; concrete cijfers worden niet genoemd.",
+    "relevantie": "Sterk gespreksonderwerp bij installateurs en aannemers met veel leveranciers en artikelen: vraag hoe ze nu prijslijstupdates van groothandels verwerken en hoe vaak artikelnummers van klanten of leveranciers handmatig worden opgezocht.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "agents",
+      "prijslijsten",
+      "artikelbeheer",
+      "facturatie",
+      "directions-emea",
+      "partners"
+    ],
+    "bronnen": [
+      {
+        "titel": "Meet Qezaro at Directions EMEA 2026 (Qezaro)",
+        "url": "https://qezaro.com/blog/meet-qezaro-at-directions-emea-2026/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
