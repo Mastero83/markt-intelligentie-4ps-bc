@@ -1721,5 +1721,79 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-copilot-bc-kredietlimiet-en-leveringsverstoring-demo",
+    "datum": "2026-10-27",
+    "gemeld_op": "2026-10-28",
+    "onderwerp": "Copilot in BC adviseert over kredietlimiet en leveringsverstoring (Microsoft-demo, Directions EMEA)",
+    "samenvatting": "Probleem: beslissingen zoals een hogere kredietlimiet of de aanpak van een leveringsverstoring vragen dat een gebruiker zelf gegevens bij elkaar zoekt. Oplossing: in de keynote van Directions EMEA (27 okt) liet Microsoft zien hoe Copilot in Business Central op basis van de recente verkooporders van een klant adviseert over een hogere kredietlimiet (in de demo: nog niet verhogen) en bij een leveringsverstoring zowel een schriftelijk advies als een PowerPoint-presentatie voor het management maakt. Resultaat: het gaat om een demo; er worden geen klantresultaten of cijfers genoemd.",
+    "relevantie": "Goed voor directeuren en financieel managers van groothandels en bouw- of installatiebedrijven met veel debiteuren: vraag hoe ze nu beslissen over kredietlimieten en hoeveel tijd het kost om bij een vertraagde levering een onderbouwd advies voor de directie te maken.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "copilot",
+      "kredietbeheer",
+      "supply-chain",
+      "directions-emea",
+      "demo"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026: Microsoft demonstrates how Copilot will impact the future of Dynamics 365 Business Central (MSDynamicsWorld)",
+        "url": "https://msdynamicsworld.com/story/directions-emea-2026-microsoft-demonstrates-how-copilot-will-impact-future-dynamics-365"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-companial-frontline-mobiele-app-bc-copilot-studio",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-28",
+    "onderwerp": "Mobiele app voor buitendienstmedewerkers op BC met Power Apps, Dataverse en Copilot Studio (Companial-demo)",
+    "samenvatting": "Probleem: buitendienst- en frontlinemedewerkers hebben snelle mobiele schermen nodig in plaats van complexe ERP-schermen. Oplossing: Companial laat op Directions EMEA (28 okt) aan de hand van een praktijkscenario zien hoe je zonder eigen mobiele ontwikkeling een iOS/Android-app op Business Central bouwt met Power Apps en Dataverse (koppeling via virtuele tabellen, connectoren of API's), met ingebouwde Copilot Studio-agents die gebruikers begeleiden en documenten en foto's interpreteren, Document Intelligence die gegevens uit facturen, labels en bonnen haalt, en Power Automate dat acties in BC start, inclusief aandacht voor offline gebruik en beveiliging. Resultaat: het gaat om een demo/blauwdruk; er worden geen klantresultaten genoemd.",
+    "relevantie": "Interessant voor bouw-, installatie- en servicebedrijven met monteurs of uitvoerders op locatie: vraag hoe bonnen, werkbonnen en materiaalgegevens nu van de bouwplaats in het ERP komen en hoeveel daarvan later op kantoor wordt overgetypt.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "power-apps",
+      "dataverse",
+      "copilot-studio",
+      "document-intelligence",
+      "buitendienst",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026 (Companial)",
+        "url": "https://companial.com/directions-emea-2026/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-eos-agents-inkoopaanvraag-onderhoud-e-factuur",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-28",
+    "onderwerp": "Samenwerkende BC-agents voor inkoopaanvragen, onderhoudsplanning en e-facturen (EOS Solutions)",
+    "samenvatting": "Probleem: inkoop, onderhoudsplanning en verwerking van elektronische facturen kosten veel handwerk, terwijl organisaties grip willen houden op toegang en compliance bij AI. Oplossing: EOS Solutions demonstreert op Directions EMEA (29 okt) gespecialiseerde agents in Business Central: een Purchase Request Agent voor inkoopaanvragen, een Plant Maintenance Agent voor onderhoudsplanning en een Electronic Invoice Agent voor documentverwerking, met een Data Security Agent die als orkestrator toegang beheert, beleid controleert en acties tussen de agents stuurt. Resultaat: de bron noemt geen concrete cijfers of klantresultaten.",
+    "relevantie": "Bruikbaar bij bedrijven met materieel of installaties in onderhoud en veel inkoopaanvragen vanaf projecten: vraag hoe inkoopaanvragen nu worden goedgekeurd en wie bepaalt wat een AI-agent in het ERP wel en niet mag doen.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "agents",
+      "inkoop",
+      "onderhoud",
+      "e-facturatie",
+      "governance",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026 (EOS Solutions)",
+        "url": "https://eos-solutions.it/en/directions-emea-2026.html"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
