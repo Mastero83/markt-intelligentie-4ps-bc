@@ -1671,5 +1671,55 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-directions-emea-2026-copilot-roadmap-edit-with-copilot-business-skills",
+    "datum": "2026-10-27",
+    "gemeld_op": "2026-10-28",
+    "onderwerp": "Directions EMEA 2026: Copilot-roadmap voor BC met Edit with Copilot, Business Skills en BC in Cowork",
+    "samenvatting": "In de keynote van Directions EMEA 2026 (Parijs) presenteerde Microsoft 'One Copilot in Business Central'. 'Edit with Copilot' laat gebruikers BC-gegevens wijzigen via instructies aan Copilot, met de rechten van de gebruiker, en staat in early access voor partners; Business Skills (leesbare bedrijfsregels die Copilot sturen) volgen binnen enkele weken in early access. Roadmap: nov 2026 BC in Cowork early access voor partners, jan 2027 GA van Copilot in BC en public preview van BC in Cowork, apr 2027 public preview van Edit with Copilot, BC-agents in Cowork en Business Skills. De Expense Agent staat wereldwijd in preview met GA gepland voor december 2026.",
+    "relevantie": "Business Skills en Edit with Copilot worden de plek waar branche-specifieke regels (zoals die van 4PS voor bouw) Copilot-gedrag kunnen bepalen, dus dit is de roadmap waarop partners en ISV's hun AI-aanbod moeten plannen.",
+    "categorie": "ai_features",
+    "tags": [
+      "business-central",
+      "copilot",
+      "directions-emea",
+      "roadmap",
+      "business-skills",
+      "cowork",
+      "expense-agent"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026: Microsoft demonstrates how Copilot will impact the future of Dynamics 365 Business Central (MSDynamicsWorld)",
+        "url": "https://msdynamicsworld.com/story/directions-emea-2026-microsoft-demonstrates-how-copilot-will-impact-future-dynamics-365"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-directions-emea-2026-copilot-gedreven-bc-implementatie",
+    "datum": "2026-10-27",
+    "gemeld_op": "2026-10-28",
+    "onderwerp": "Microsoft zet in op Copilot-gedreven inrichting en implementatie van Business Central",
+    "samenvatting": "Op Directions EMEA 2026 lichtte Microsoft plannen toe om Copilot met agents en business skills BC-omgevingen te laten opzetten en configureren, te beginnen met setup en configuratie. Aanleiding is de verwachte migratie van tienduizenden NAV- en GP-klanten naar de cloud, waarvoor volgens Microsoft te weinig BC-professionals zijn. Partners zouden hun eigen componenten en kennis kunnen toevoegen zodat Copilot ook die mee inricht.",
+    "relevantie": "Raakt direct het implementatiemodel van BC-partners en verticale oplossingen zoals 4PS: wie zijn branchekennis als skills vastlegt, kan sneller en goedkoper implementeren en NAV-migraties oppakken.",
+    "categorie": "markt",
+    "tags": [
+      "business-central",
+      "copilot",
+      "implementatie",
+      "migratie",
+      "nav",
+      "partners",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026: Microsoft demonstrates how Copilot will impact the future of Dynamics 365 Business Central (MSDynamicsWorld)",
+        "url": "https://msdynamicsworld.com/story/directions-emea-2026-microsoft-demonstrates-how-copilot-will-impact-future-dynamics-365"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
