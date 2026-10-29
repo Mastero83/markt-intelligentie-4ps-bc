@@ -1795,5 +1795,144 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bc-copilot-business-bundel-prijzen",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Bundels Business Central + Microsoft 365 Copilot Business ($95 / $125)",
+    "samenvatting": "Microsoft kondigde op Directions EMEA 2026 bundels aan van Business Central Essentials of Premium met Microsoft 365 Copilot Business, voor $95 respectievelijk $125 per gebruiker per maand. De bundels staan vanaf december 2026 als preview op de prijslijst en zijn vanaf 1 januari 2027 te koop; partners krijgen credit voor zowel de Modern Work- als de Business Applications-designation.",
+    "relevantie": "Verlaagt de drempel om Copilot naast BC (en dus 4PS Construct) in te zetten en verandert de licentiegesprekken met klanten vanaf januari 2027.",
+    "categorie": "prijzen_licenties",
+    "tags": [
+      "business-central",
+      "copilot",
+      "licenties",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "MSDynamicsWorld: Copilot bundle for Business Central licenses",
+        "url": "https://msdynamicsworld.com/story/directions-emea-2026-microsoft-introduce-copilot-bundle-dynamics-365-business-central"
+      },
+      {
+        "titel": "Partner Radar: Directions EMEA 2026 Day 2",
+        "url": "https://partner-radar.com/news/directions-emea-2026-day-2"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-customize-with-copilot",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Customize with Copilot: BC-extensies bouwen vanuit natuurlijke taal",
+    "samenvatting": "Microsoft demonstreerde 'Customize with Copilot', waarmee een gebruiker in natuurlijke taal bijvoorbeeld een nieuw veld op leveranciers vraagt en Copilot via de BC-plugin een extensie plant, bouwt en uitrolt. Voor complexere aanpassingen adviseert Microsoft de output via het gewone DevOps-proces te laten lopen. Partner early access staat gepland voor januari 2027, GA later in 2027.",
+    "relevantie": "Raakt direct het maatwerk- en extensiemodel rond BC en 4PS: eenvoudige aanpassingen kunnen straks door consultants of key-users zelf worden geprototypet.",
+    "categorie": "ai_features",
+    "tags": [
+      "business-central",
+      "copilot",
+      "extensies",
+      "al",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "MSDynamicsWorld: Copilot bundle and Customize with Copilot",
+        "url": "https://msdynamicsworld.com/story/directions-emea-2026-microsoft-introduce-copilot-bundle-dynamics-365-business-central"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-expense-agent-mobiele-app-rm573265",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Expense Agent mobiele app voor iOS en Android in public preview (RM573265)",
+    "samenvatting": "De Expense Agent mobiele app voor Business Central is nu in public preview te downloaden uit de app stores. Medewerkers fotograferen of delen bonnen, de agent maakt automatisch onkostenregels aan, en beoordelen, indienen en goedkeuren kan op de telefoon; de app werkt ook offline.",
+    "relevantie": "Relevant voor bouw- en installatiebedrijven met veel medewerkers op de bouwplaats die onkosten nu nog op papier of achteraf aanleveren.",
+    "categorie": "product_release",
+    "tags": [
+      "business-central",
+      "expense-agent",
+      "mobiel",
+      "agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM573265 - Business Central: Expense Agent mobile app",
+        "url": "https://mc.merill.net/message/RM573265"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-page-scripting-ga-al-go-bcquality",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Page Scripting GA (met AI-gegenereerde scripts) en BCQuality in AL-Go for GitHub",
+    "samenvatting": "Op Directions EMEA meldde Microsoft dat Page Scripting algemeen beschikbaar is: gebruikersstappen opnemen of scripts met AI genereren, en acceptatietests opslaan, delen en herhalen zonder AL-code. AL-Go for GitHub bevat nu BCQuality, gedeelde BC-kennis van Microsoft en de community; code review is beschikbaar, planintegratie in preview en het koppelen van willekeurige agents volgt.",
+    "relevantie": "Helpt BC/4PS-partners en klanten updates en maatwerk sneller en met minder handwerk te testen en te reviewen.",
+    "categorie": "product_release",
+    "tags": [
+      "business-central",
+      "page-scripting",
+      "al-go",
+      "testen",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Partner Radar: Directions EMEA 2026 Day 2",
+        "url": "https://partner-radar.com/news/directions-emea-2026-day-2"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-bench-al-mcp-resultaten",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "BC-Bench: AL MCP verbetert bugfixing door AI-codeeragents",
+    "samenvatting": "BC-Bench is Microsofts open-source benchmark voor AI-codeeragents op echte Business Central-ontwikkeltaken (bugfixing, testgeneratie, code review). Volgens Microsofts bevindingen gaf AL MCP, dat agents laat compileren, publiceren en zoeken, bijna 10% verbetering in pass@5 bij bugfixing, wel met langere doorlooptijd.",
+    "relevantie": "Geeft BC/4PS-ontwikkelteams een meetbare basis om AI-codeerhulpen en MCP-tooling voor AL te kiezen.",
+    "categorie": "ai_features",
+    "tags": [
+      "business-central",
+      "al",
+      "mcp",
+      "ai-coding",
+      "benchmark"
+    ],
+    "bronnen": [
+      {
+        "titel": "think about IT: Business Central 29, What's New in BC-Bench?",
+        "url": "https://thinkaboutit.be/2026/10/business-central-29-whats-new-in-bc-bench/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-planera-mcp-integratie",
+    "datum": "2026-10-28",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Planera kondigt MCP-integratie aan voor CPM-bouwplanningen",
+    "samenvatting": "Planera, aanbieder van AI-native CPM-planningssoftware voor de bouw, kondigde een komende MCP-integratie aan waarmee AI-assistenten zoals Claude en ChatGPT live bouwplanningen kunnen bevragen. Een releasedatum wordt niet genoemd.",
+    "relevantie": "Laat zien dat bouwsoftware naast het ERP via MCP direct aanspreekbaar wordt voor AI, iets wat ook voor 4PS/BC-koppelingen (BC MCP server) speelt.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bouw",
+      "mcp",
+      "planning",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Planera: MCP Integration for AI Construction Scheduling",
+        "url": "https://www.planera.io/post/planera-mcp-integration"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

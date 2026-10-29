@@ -5,7 +5,67 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Wed, 28 Oct 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Planera kondigt MCP-integratie aan voor CPM-bouwplanningen</title>
+<link>https://www.planera.io/post/planera-mcp-integration</link>
+<description>Planera, aanbieder van AI-native CPM-planningssoftware voor de bouw, kondigde een komende MCP-integratie aan waarmee AI-assistenten zoals Claude en ChatGPT live bouwplanningen kunnen bevragen. Een releasedatum wordt niet genoemd.
+
+Relevantie: Laat zien dat bouwsoftware naast het ERP via MCP direct aanspreekbaar wordt voor AI, iets wat ook voor 4PS/BC-koppelingen (BC MCP server) speelt.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-planera-mcp-integratie</guid>
+</item>
+<item>
+<title>Page Scripting GA (met AI-gegenereerde scripts) en BCQuality in AL-Go for GitHub</title>
+<link>https://partner-radar.com/news/directions-emea-2026-day-2</link>
+<description>Op Directions EMEA meldde Microsoft dat Page Scripting algemeen beschikbaar is: gebruikersstappen opnemen of scripts met AI genereren, en acceptatietests opslaan, delen en herhalen zonder AL-code. AL-Go for GitHub bevat nu BCQuality, gedeelde BC-kennis van Microsoft en de community; code review is beschikbaar, planintegratie in preview en het koppelen van willekeurige agents volgt.
+
+Relevantie: Helpt BC/4PS-partners en klanten updates en maatwerk sneller en met minder handwerk te testen en te reviewen.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc-page-scripting-ga-al-go-bcquality</guid>
+</item>
+<item>
+<title>Expense Agent mobiele app voor iOS en Android in public preview (RM573265)</title>
+<link>https://mc.merill.net/message/RM573265</link>
+<description>De Expense Agent mobiele app voor Business Central is nu in public preview te downloaden uit de app stores. Medewerkers fotograferen of delen bonnen, de agent maakt automatisch onkostenregels aan, en beoordelen, indienen en goedkeuren kan op de telefoon; de app werkt ook offline.
+
+Relevantie: Relevant voor bouw- en installatiebedrijven met veel medewerkers op de bouwplaats die onkosten nu nog op papier of achteraf aanleveren.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc-expense-agent-mobiele-app-rm573265</guid>
+</item>
+<item>
+<title>Customize with Copilot: BC-extensies bouwen vanuit natuurlijke taal</title>
+<link>https://msdynamicsworld.com/story/directions-emea-2026-microsoft-introduce-copilot-bundle-dynamics-365-business-central</link>
+<description>Microsoft demonstreerde 'Customize with Copilot', waarmee een gebruiker in natuurlijke taal bijvoorbeeld een nieuw veld op leveranciers vraagt en Copilot via de BC-plugin een extensie plant, bouwt en uitrolt. Voor complexere aanpassingen adviseert Microsoft de output via het gewone DevOps-proces te laten lopen. Partner early access staat gepland voor januari 2027, GA later in 2027.
+
+Relevantie: Raakt direct het maatwerk- en extensiemodel rond BC en 4PS: eenvoudige aanpassingen kunnen straks door consultants of key-users zelf worden geprototypet.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-customize-with-copilot</guid>
+</item>
+<item>
+<title>Bundels Business Central + Microsoft 365 Copilot Business ($95 / $125)</title>
+<link>https://msdynamicsworld.com/story/directions-emea-2026-microsoft-introduce-copilot-bundle-dynamics-365-business-central</link>
+<description>Microsoft kondigde op Directions EMEA 2026 bundels aan van Business Central Essentials of Premium met Microsoft 365 Copilot Business, voor $95 respectievelijk $125 per gebruiker per maand. De bundels staan vanaf december 2026 als preview op de prijslijst en zijn vanaf 1 januari 2027 te koop; partners krijgen credit voor zowel de Modern Work- als de Business Applications-designation.
+
+Relevantie: Verlaagt de drempel om Copilot naast BC (en dus 4PS Construct) in te zetten en verandert de licentiegesprekken met klanten vanaf januari 2027.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">radar-bc-copilot-business-bundel-prijzen</guid>
+</item>
+<item>
+<title>BC-Bench: AL MCP verbetert bugfixing door AI-codeeragents</title>
+<link>https://thinkaboutit.be/2026/10/business-central-29-whats-new-in-bc-bench/</link>
+<description>BC-Bench is Microsofts open-source benchmark voor AI-codeeragents op echte Business Central-ontwikkeltaken (bugfixing, testgeneratie, code review). Volgens Microsofts bevindingen gaf AL MCP, dat agents laat compileren, publiceren en zoeken, bijna 10% verbetering in pass@5 bij bugfixing, wel met langere doorlooptijd.
+
+Relevantie: Geeft BC/4PS-ontwikkelteams een meetbare basis om AI-codeerhulpen en MCP-tooling voor AL te kiezen.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-bench-al-mcp-resultaten</guid>
+</item>
 <item>
 <title>Samenwerkende BC-agents voor inkoopaanvragen, onderhoudsplanning en e-facturen (EOS Solutions)</title>
 <link>https://eos-solutions.it/en/directions-emea-2026.html</link>
