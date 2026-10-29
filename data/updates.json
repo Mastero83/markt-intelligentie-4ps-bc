@@ -1934,5 +1934,112 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-dammers-bouw-servicebonnen-ai-collega-erp",
+    "datum": "2026-10-17",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Servicebonnen uit e-mail automatisch in het bouw-ERP (Dammers Bouw, AgentsLab), ook mogelijk op 4PS",
+    "samenvatting": "Probleem: Dammers Bouw (service en onderhoud) kreeg duizenden servicebonnen per jaar van opdrachtgevers zoals woningcorporaties per e-mail, vaak als pdf in wisselende formaten, en het kantoorteam voerde elke bon met de hand in Bouwworks in (gemiddeld zo'n 10 minuten per bon, circa 1,5 fte). Oplossing: een AI-collega van AgentsLab bewaakt de mailbox, herkent servicebonnen, haalt werkzaamheden, materialen, uren en klantgegevens uit pdf en mail, vult het ERP direct en stuurt een bevestiging; alleen bij afwijkingen kijkt een medewerker mee. AgentsLab schrijft dat hetzelfde in 4PS Construct kan via de Business Central-koppeling (serviceorders uit meldingen, projectboekingen, inkoopfacturen). Resultaat: volgens de bron van ongeveer 10 minuten naar 10 seconden per bon (98% minder verwerkingstijd), gemeten over 462 cases, met handmatige aanvulling bij minder dan 5%.",
+    "relevantie": "Sterk voor 4PS-klanten met een service- of onderhoudsafdeling die meldingen van corporaties of VvE's krijgen: vraag hoeveel servicemeldingen er per week binnenkomen en hoe lang het duurt voordat er een serviceorder in 4PS staat.",
+    "categorie": "use_case",
+    "tags": [
+      "4ps",
+      "bouw",
+      "service-en-onderhoud",
+      "documentverwerking",
+      "agents",
+      "e-mail",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Dammers Bouw: servicebonnen van 10 minuten naar 10 seconden (AgentsLab)",
+        "url": "https://www.agentslab.eu/customers/dammers-bouw"
+      },
+      {
+        "titel": "AI koppelen aan 4PS, BouwWorks, Bouw7 en meer (AgentsLab)",
+        "url": "https://www.agentslab.eu/news/ai-koppelen-bouwsoftware-4ps-bouwworks-bouw7-metacom-acto"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-kd-construction-inspectielog-uit-e-mail-procore",
+    "datum": "2026-10-29",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "Inspectieverzoeken uit e-mail automatisch als registratie vastleggen (KD Construction, Procore AI)",
+    "samenvatting": "Probleem: projectteams van de Amerikaanse ruwbouw- en droogbouwaannemer KD Construction stuurden dagelijks inspectieverzoeken per e-mail en voerden diezelfde informatie daarna nog eens met de hand in het inspectielog in, net als RFI's die tussen Autodesk en Procore werden overgetypt. Oplossing: met Procore AI bouwde KD agents die geplakte inspectie-e-mails omzetten in inspectieregistraties (het team keurt ze goed), RFI's van Autodesk naar Procore omzetten en projectdocumenten doorzoekbaar maken. Resultaat: volgens KD gaat het inspectielog van 30 tot 45 minuten per dag naar ongeveer drie minuten.",
+    "relevantie": "Inspiratie voor uitvoerende bouwbedrijven op 4PS waar uitvoerders info uit mail overtypen (meldingen, keuringen, meerwerk): vraag welke registratie nu dubbel gebeurt, eerst in de mail en daarna in het ERP, en of een agent met goedkeuringsstap in Business Central dat kan overnemen.",
+    "categorie": "use_case",
+    "tags": [
+      "procore",
+      "concurrentie",
+      "bouw",
+      "agents",
+      "e-mail",
+      "inspecties",
+      "rfi"
+    ],
+    "bronnen": [
+      {
+        "titel": "Building a more intelligent construction business with AI (Procore)",
+        "url": "https://www.procore.com/casestudies/kd-construction-agents"
+      },
+      {
+        "titel": "KD Construction cuts inspection logging to 3 minutes (CaseStudies.com)",
+        "url": "https://www.casestudies.com/company/procore/case-study/kd-construction-cuts-inspection-logging-from-30-45-minutes-to-3-minutes-with-procore"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-pivot-ai-orderinvoer-bc-deterministische-prijscheck",
+    "datum": "2026-10-07",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "AI-orderinvoer op Business Central met harde prijscontroles (Pivot Partners)",
+    "samenvatting": "Probleem: een Zuid-Afrikaanse distributeur van wijn en gedistilleerd kreeg inkooporders van klanten in allerlei formaten, die met de hand als verkooporder in Business Central werden ingevoerd. Oplossing: Pivot Partners bouwde een tool waarin een taalmodel het document leest, vaste (deterministische) controles elke regel prijzen op basis van Business Central-data en elke afwijking markeren, waarna een medewerker bevestigt; de data komt via Microsoft Fabric binnen en conceptverkooporders gaan via de BC-API terug. Resultaat: sinds 2 oktober 2026 in beperkt live gebruik; cijfers volgen later, maar tijdens tests ving de controle op doos versus fles al een regel op die per fles was geprijsd bij een aantal in dozen.",
+    "relevantie": "Handig bij groothandels of bouwtoeleveranciers op BC die twijfelen aan AI-betrouwbaarheid: vraag welke orderfouten nu het duurst zijn (eenheden, prijzen) en leg uit dat AI het lezen doet terwijl vaste BC-regels de controle doen, als aanvulling op of alternatief voor de Sales Order Agent.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "orderinvoer",
+      "documentverwerking",
+      "fabric",
+      "human-in-the-loop",
+      "groothandel"
+    ],
+    "bronnen": [
+      {
+        "titel": "AI Order Intake on Business Central (Pivot AI Lab)",
+        "url": "https://pivot-partners.co/ai-lab/ai-order-intake/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-werkvoorbereiding-ai-bestekcontrole-opleverlijst",
+    "datum": "2026-10-15",
+    "gemeld_op": "2026-10-29",
+    "onderwerp": "AI in de werkvoorbereiding: van bestekcontrole tot opleverlijst (praktijk installatiebedrijf, Bouwend Nederland)",
+    "samenvatting": "Probleem: bestekken doornemen, offertes vergelijken en informatie verzamelen kost werkvoorbereiders veel tijd. Oplossing: een werkvoorbereider van Megens Installaties liet op een UTA-bijeenkomst van Bouwend Nederland zien hoe AI stukken doorzoekt, aandachtspunten en vragen voor de Nota van Inlichtingen voorbereidt, leveranciersoffertes omzet naar een bestand voor het bedrijfssysteem, ingesproken notities uitwerkt tot een actielijst en foto's met toelichting verwerkt tot een opleverlijst; de vakman blijft beoordelen. Resultaat: de bron noemt geen cijfers; het advies is te beginnen met één terugkerende, tijdrovende klus, duidelijke instructies te geven en de uitkomst te blijven controleren.",
+    "relevantie": "Goede opener bij bouw- en installatiebedrijven op 4PS: vraag welke werkvoorbereidingsklus het meeste tijd kost en of leveranciersoffertes nu worden overgetypt in 4PS, want dat is een concreet startpunt voor een agent of import.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "installatie",
+      "werkvoorbereiding",
+      "bestek",
+      "offertes",
+      "oplevering",
+      "4ps"
+    ],
+    "bronnen": [
+      {
+        "titel": "AI in de bouw: van bestekcontrole tot opleverlijst (Bouwend Nederland)",
+        "url": "https://www.bouwendnederland.nl/nieuws/regio-oost/ai-in-de-bouw-van-bestekcontrole-tot-opleverlijst"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]

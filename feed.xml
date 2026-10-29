@@ -7,6 +7,16 @@
 <language>nl-nl</language>
 <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Inspectieverzoeken uit e-mail automatisch als registratie vastleggen (KD Construction, Procore AI)</title>
+<link>https://www.procore.com/casestudies/kd-construction-agents</link>
+<description>Probleem: projectteams van de Amerikaanse ruwbouw- en droogbouwaannemer KD Construction stuurden dagelijks inspectieverzoeken per e-mail en voerden diezelfde informatie daarna nog eens met de hand in het inspectielog in, net als RFI's die tussen Autodesk en Procore werden overgetypt. Oplossing: met Procore AI bouwde KD agents die geplakte inspectie-e-mails omzetten in inspectieregistraties (het team keurt ze goed), RFI's van Autodesk naar Procore omzetten en projectdocumenten doorzoekbaar maken. Resultaat: volgens KD gaat het inspectielog van 30 tot 45 minuten per dag naar ongeveer drie minuten.
+
+Relevantie: Inspiratie voor uitvoerende bouwbedrijven op 4PS waar uitvoerders info uit mail overtypen (meldingen, keuringen, meerwerk): vraag welke registratie nu dubbel gebeurt, eerst in de mail en daarna in het ERP, en of een agent met goedkeuringsstap in Business Central dat kan overnemen.</description>
+<pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-kd-construction-inspectielog-uit-e-mail-procore</guid>
+</item>
+<item>
 <title>Planera kondigt MCP-integratie aan voor CPM-bouwplanningen</title>
 <link>https://www.planera.io/post/planera-mcp-integration</link>
 <description>Planera, aanbieder van AI-native CPM-planningssoftware voor de bouw, kondigde een komende MCP-integratie aan waarmee AI-assistenten zoals Claude en ChatGPT live bouwplanningen kunnen bevragen. Een releasedatum wordt niet genoemd.
@@ -647,6 +657,16 @@ Relevantie: Toont agentkennis binnen 4PS.</description>
 <guid isPermaLink="false">ba-4ps-areopa-webinar-agent-demo</guid>
 </item>
 <item>
+<title>Servicebonnen uit e-mail automatisch in het bouw-ERP (Dammers Bouw, AgentsLab), ook mogelijk op 4PS</title>
+<link>https://www.agentslab.eu/customers/dammers-bouw</link>
+<description>Probleem: Dammers Bouw (service en onderhoud) kreeg duizenden servicebonnen per jaar van opdrachtgevers zoals woningcorporaties per e-mail, vaak als pdf in wisselende formaten, en het kantoorteam voerde elke bon met de hand in Bouwworks in (gemiddeld zo'n 10 minuten per bon, circa 1,5 fte). Oplossing: een AI-collega van AgentsLab bewaakt de mailbox, herkent servicebonnen, haalt werkzaamheden, materialen, uren en klantgegevens uit pdf en mail, vult het ERP direct en stuurt een bevestiging; alleen bij afwijkingen kijkt een medewerker mee. AgentsLab schrijft dat hetzelfde in 4PS Construct kan via de Business Central-koppeling (serviceorders uit meldingen, projectboekingen, inkoopfacturen). Resultaat: volgens de bron van ongeveer 10 minuten naar 10 seconden per bon (98% minder verwerkingstijd), gemeten over 462 cases, met handmatige aanvulling bij minder dan 5%.
+
+Relevantie: Sterk voor 4PS-klanten met een service- of onderhoudsafdeling die meldingen van corporaties of VvE's krijgen: vraag hoeveel servicemeldingen er per week binnenkomen en hoe lang het duurt voordat er een serviceorder in 4PS staat.</description>
+<pubDate>Sat, 17 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-dammers-bouw-servicebonnen-ai-collega-erp</guid>
+</item>
+<item>
 <title>Payables Agent Known Senders / e-mailreviewbeleid</title>
 <link>https://mc.merill.net/message/RM576777</link>
 <description>Roadmap-item RM576777: Known Senders en een e-mailreviewbeleid voor de Payables Agent.
@@ -675,6 +695,16 @@ Relevantie: De MCP-server is de koppellaag waarmee externe AI-agents BC-data geb
 <pubDate>Fri, 16 Oct 2026 08:30:00 +0000</pubDate>
 <category>ai_features</category>
 <guid isPermaLink="false">radar-bc-mcp-server-standaard-apis-rm576789</guid>
+</item>
+<item>
+<title>AI in de werkvoorbereiding: van bestekcontrole tot opleverlijst (praktijk installatiebedrijf, Bouwend Nederland)</title>
+<link>https://www.bouwendnederland.nl/nieuws/regio-oost/ai-in-de-bouw-van-bestekcontrole-tot-opleverlijst</link>
+<description>Probleem: bestekken doornemen, offertes vergelijken en informatie verzamelen kost werkvoorbereiders veel tijd. Oplossing: een werkvoorbereider van Megens Installaties liet op een UTA-bijeenkomst van Bouwend Nederland zien hoe AI stukken doorzoekt, aandachtspunten en vragen voor de Nota van Inlichtingen voorbereidt, leveranciersoffertes omzet naar een bestand voor het bedrijfssysteem, ingesproken notities uitwerkt tot een actielijst en foto's met toelichting verwerkt tot een opleverlijst; de vakman blijft beoordelen. Resultaat: de bron noemt geen cijfers; het advies is te beginnen met één terugkerende, tijdrovende klus, duidelijke instructies te geven en de uitkomst te blijven controleren.
+
+Relevantie: Goede opener bij bouw- en installatiebedrijven op 4PS: vraag welke werkvoorbereidingsklus het meeste tijd kost en of leveranciersoffertes nu worden overgetypt in 4PS, want dat is een concreet startpunt voor een agent of import.</description>
+<pubDate>Thu, 15 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-werkvoorbereiding-ai-bestekcontrole-opleverlijst</guid>
 </item>
 <item>
 <title>Agent Launchpad-sessie Directions EMEA (Qezaro)</title>
@@ -715,6 +745,16 @@ Relevantie: Publiek moment waarop 4PS zijn AI-visie voor de bouw presenteert.</d
 <pubDate>Wed, 14 Oct 2026 08:30:00 +0000</pubDate>
 <category>events</category>
 <guid isPermaLink="false">radar-4ps-cobouw-live-ai-sessie</guid>
+</item>
+<item>
+<title>AI-orderinvoer op Business Central met harde prijscontroles (Pivot Partners)</title>
+<link>https://pivot-partners.co/ai-lab/ai-order-intake/</link>
+<description>Probleem: een Zuid-Afrikaanse distributeur van wijn en gedistilleerd kreeg inkooporders van klanten in allerlei formaten, die met de hand als verkooporder in Business Central werden ingevoerd. Oplossing: Pivot Partners bouwde een tool waarin een taalmodel het document leest, vaste (deterministische) controles elke regel prijzen op basis van Business Central-data en elke afwijking markeren, waarna een medewerker bevestigt; de data komt via Microsoft Fabric binnen en conceptverkooporders gaan via de BC-API terug. Resultaat: sinds 2 oktober 2026 in beperkt live gebruik; cijfers volgen later, maar tijdens tests ving de controle op doos versus fles al een regel op die per fles was geprijsd bij een aantal in dozen.
+
+Relevantie: Handig bij groothandels of bouwtoeleveranciers op BC die twijfelen aan AI-betrouwbaarheid: vraag welke orderfouten nu het duurst zijn (eenheden, prijzen) en leg uit dat AI het lezen doet terwijl vaste BC-regels de controle doen, als aanvulling op of alternatief voor de Sales Order Agent.</description>
+<pubDate>Wed, 07 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-pivot-ai-orderinvoer-bc-deterministische-prijscheck</guid>
 </item>
 <item>
 <title>4PS Customer Day 2026: AI-agents gedemonstreerd</title>
