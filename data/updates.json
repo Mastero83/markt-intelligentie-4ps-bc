@@ -2041,5 +2041,98 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bc-expense-agent-creditcardfeeds-rm573256",
+    "datum": "2026-10-29",
+    "gemeld_op": "2026-10-30",
+    "onderwerp": "BC Expense Agent maakt declaraties aan uit creditcardfeeds (RM573256)",
+    "samenvatting": "De Expense Agent in Business Central kan straks uit geïmporteerde creditcardtransacties automatisch concept-declaraties aanmaken en transacties matchen met eerder ingediende declaraties om dubbele invoer te voorkomen. Transacties worden handmatig uit een bestand geïmporteerd en zijn te bekijken in de web- en mobiele app. Preview en GA staan gepland voor december 2026.",
+    "relevantie": "Bouw- en installatiebedrijven met veel buitendienstmedewerkers en bedrijfscreditcards kunnen declaratieverwerking in BC/4PS verder automatiseren.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "business-central",
+      "expense-agent",
+      "agents",
+      "declaraties"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM573256 - Expense Agent - Create expenses from credit card feeds",
+        "url": "https://mc.merill.net/message/RM573256"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-directions-emea-dag2-agentic-al-development",
+    "datum": "2026-10-29",
+    "gemeld_op": "2026-10-30",
+    "onderwerp": "Directions EMEA dag 2: AI-agents in de hele AL-ontwikkelcyclus en Cowork die BC-agents aanstuurt",
+    "samenvatting": "Microsoft liet op Directions EMEA zien hoe AI-agents meewerken in de AL-ontwikkelcyclus: performanceproblemen onderzoeken, implementatieplannen maken, wijzigingen doorvoeren en pull requests reviewen. Ook werd gedemonstreerd hoe Cowork processen over Microsoft 365 en Business Central orkestreert en ERP-taken delegeert aan BC-agents binnen hun rechten; partnertoegang wordt beoogd voor november-december 2026 (geen bevestigde releasedatum).",
+    "relevantie": "Relevant voor ISV's als 4PS en BC-partners: agentisch ontwikkelen kan de bouw van maatwerk en extensies versnellen, en Cowork-integratie bepaalt hoe agents over systemen heen samenwerken.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "business-central",
+      "directions-emea",
+      "al-development",
+      "cowork",
+      "agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026, Day 2: Cowork, Agentic Development and Fabric (think about IT)",
+        "url": "https://thinkaboutit.be/2026/10/directions-emea-2026-day-2-cowork-agentic-development-and-fabric/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-procore-ai-amazon-bedrock-ga",
+    "datum": "2026-10-29",
+    "gemeld_op": "2026-10-30",
+    "onderwerp": "Procore AI op Amazon Bedrock algemeen beschikbaar",
+    "samenvatting": "Procore heeft Procore AI op Amazon Bedrock algemeen beschikbaar gemaakt. Het combineert de beheerde modelinfrastructuur van Amazon Bedrock met Procores bouwkennis, zodat grote bouwbedrijven AI-agents kunnen inzetten op tekeningen, RFI's en dagrapporten binnen hun eigen beveiligings- en governance-eisen.",
+    "relevantie": "Concurrentiesignaal: bouwsoftware positioneert AI-agents nadrukkelijk op data-privacy en governance, hetzelfde argument dat voor BC/4PS met Copilot en Azure geldt.",
+    "categorie": "concurrentie",
+    "tags": [
+      "procore",
+      "aws",
+      "bouw",
+      "agents",
+      "governance"
+    ],
+    "bronnen": [
+      {
+        "titel": "Announcing Procore AI on Amazon Bedrock",
+        "url": "https://www.procore.com/blog/announcing-procore-ai-on-amazon-bedrock"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bobyard-takeoff-estimate-bid-submittal",
+    "datum": "2026-10-29",
+    "gemeld_op": "2026-10-30",
+    "onderwerp": "Bobyard: AI van hoeveelheidsbepaling tot calculatie, offerte en submittals in één product",
+    "samenvatting": "Bobyard kondigde AI-voorbereide submittals aan en een gekoppelde workflow waarmee aannemers vanuit bouwtekeningen in één product komen tot een geprijsde calculatie, een klantklare offerte en submittals, in plaats van te schakelen tussen takeoff-software, spreadsheets en offertesjablonen.",
+    "relevantie": "Laat zien dat AI-spelers de hele calculatie- en aanbestedingsketen opschuiven, het domein waar 4PS met calculatie en aanbesteding ook zit.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bobyard",
+      "bouw",
+      "calculatie",
+      "takeoff",
+      "offertes"
+    ],
+    "bronnen": [
+      {
+        "titel": "Bobyard Moves AI Beyond the Takeoff (Business Wire)",
+        "url": "https://www.businesswire.com/news/home/20261029078327/en/Bobyard-Moves-AI-Beyond-the-Takeoff-Carrying-Contractors-From-Drawings-to-Estimate-Bid-and-Submittal"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
