@@ -57,6 +57,16 @@ Relevantie: Inspiratie voor uitvoerende bouwbedrijven op 4PS waar uitvoerders in
 <guid isPermaLink="false">uc-kd-construction-inspectielog-uit-e-mail-procore</guid>
 </item>
 <item>
+<title>NCC Building Nordics: AI-voortgangsbewaking op de bouwplaats met Buildots</title>
+<link>https://www.prnewswire.com/news-releases/buildots-named-an-ncc-preferred-supplier-to-leverage-ai-driven-construction-intelligence-302922262.html</link>
+<description>Probleem: afwijkingen in bouwtempo en volgorde komen vaak pas laat aan het licht. Oplossing: NCC Building Nordics gebruikt Buildots, dat met AI en computer vision de activiteit op de bouwplaats vergelijkt met de planning en het 3D-model en risico's vroeg signaleert; na jaren gebruik in Finland en Denemarken is Buildots nu voorkeursleverancier. Resultaat: volgens de bron konden projecten bijsturen voordat de planning geraakt werd, haalde één project een stijging van 230% in Percent Plan Complete, en levert het data voor risicorapportage aan de directie.
+
+Relevantie: Goed voor grotere aannemers op 4PS die met projectplanning werken: vraag hoe ze nu weten of de werkelijke voortgang op de bouwplaats overeenkomt met de planning en of die voortgang terugkomt in de projectprognose in het ERP.</description>
+<pubDate>Wed, 28 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-ncc-buildots-voortgang-ai-computer-vision</guid>
+</item>
+<item>
 <title>Planera kondigt MCP-integratie aan voor CPM-bouwplanningen</title>
 <link>https://www.planera.io/post/planera-mcp-integration</link>
 <description>Planera, aanbieder van AI-native CPM-planningssoftware voor de bouw, kondigde een komende MCP-integratie aan waarmee AI-assistenten zoals Claude en ChatGPT live bouwplanningen kunnen bevragen. Een releasedatum wordt niet genoemd.
@@ -137,6 +147,16 @@ Relevantie: Interessant voor bouw-, installatie- en servicebedrijven met monteur
 <guid isPermaLink="false">uc-companial-frontline-mobiele-app-bc-copilot-studio</guid>
 </item>
 <item>
+<title>Expense Agent in Business Central: onkostendeclaraties volledig met AI (demo Directions EMEA)</title>
+<link>https://msdynamicsworld.com/story/directions-emea-2026-why-copilot-key-future-dynamics-365-business-central</link>
+<description>Probleem: onkostendeclaraties verzamelen, rubriceren en beoordelen is handwerk. Oplossing: Microsoft liet op Directions EMEA 2026 de Expense Agent voor Business Central zien, die een declaratie verzamelt, categoriseert, samenstelt en beoordeelt met AI in plaats van klassieke OCR; op de roadmap staan creditcardkoppeling en het automatisch verdelen van kosten over medewerkers op basis van wie bij een afspraak aanwezig was. Resultaat: nog geen klantresultaten; de agent is wereldwijd in preview en gepland voor algemene beschikbaarheid in december 2026.
+
+Relevantie: Interessant voor bouw- en installatiebedrijven met veel uitvoerders en monteurs die bonnetjes inleveren: vraag hoe declaraties nu binnenkomen en op project worden geboekt, en of ze willen meedoen met de preview vóór de GA in december.</description>
+<pubDate>Tue, 27 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-bc-expense-agent-declaraties-demo</guid>
+</item>
+<item>
 <title>Copilot in BC adviseert over kredietlimiet en leveringsverstoring (Microsoft-demo, Directions EMEA)</title>
 <link>https://msdynamicsworld.com/story/directions-emea-2026-microsoft-demonstrates-how-copilot-will-impact-future-dynamics-365</link>
 <description>Probleem: beslissingen zoals een hogere kredietlimiet of de aanpak van een leveringsverstoring vragen dat een gebruiker zelf gegevens bij elkaar zoekt. Oplossing: in de keynote van Directions EMEA (27 okt) liet Microsoft zien hoe Copilot in Business Central op basis van de recente verkooporders van een klant adviseert over een hogere kredietlimiet (in de demo: nog niet verhogen) en bij een leveringsverstoring zowel een schriftelijk advies als een PowerPoint-presentatie voor het management maakt. Resultaat: het gaat om een demo; er worden geen klantresultaten of cijfers genoemd.
@@ -195,6 +215,16 @@ Relevantie: Goed voor projectgedreven bouw- en installatiebedrijven op 4PS of BC
 <pubDate>Tue, 27 Oct 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-companial-agent-projectfacturatie-mijlpaal</guid>
+</item>
+<item>
+<title>Aannemers zetten AI in op administratie: inkoopfacturen automatisch aan project koppelen</title>
+<link>https://underthehardhat.org/ai-and-technology/ai-for-admin-work/</link>
+<description>Probleem: bij installateur Bitting Electric werd elke inkoopfactuur drie keer behandeld: in een spreadsheet, in het boekhoudpakket en nog eens tegen het papieren origineel. Oplossing: Field Materials haalt facturen automatisch binnen, koppelt ze aan het juiste project en de juiste projectleider en stuurt ze door ter goedkeuring; het artikel noemt ook AI voor contractreview en tekeningcontrole. Resultaat: volgens de casestudy van de leverancier zelf 67% minder verwerkingstijd per factuur; goedkeuren blijft mensenwerk.
+
+Relevantie: Sterke opener bij 4PS-klanten met veel inkoopfacturen van leveranciers en onderaannemers: vraag hoe vaak een factuur nu wordt aangeraakt voordat hij op project en bestelling staat, want dat is precies wat een agent of de Payables Agent kan verkorten.</description>
+<pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-bouw-inkoopfacturen-op-project-ai-admin</guid>
 </item>
 <item>
 <title>ProjectPro (bouw-ERP op Business Central) positioneert zich als basis voor AI-agents</title>
