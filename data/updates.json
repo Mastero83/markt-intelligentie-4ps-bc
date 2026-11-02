@@ -2228,5 +2228,77 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-bouw-tyce-ai-bidreview-eastern-construction",
+    "datum": "2026-11-01",
+    "gemeld_op": "2026-11-02",
+    "onderwerp": "Eastern Construction: AI-review van aanbestedingsstukken verkort werkvoorbereiding (Tyce)",
+    "samenvatting": "Probleem: calculators moeten tekeningen, bestekken, nota's van inlichtingen en offertes van onderaannemers handmatig doorlezen, scopebladen per discipline maken en offertes vergelijken. Oplossing: Tyce koppelt die stukken (uit Procore, Autodesk Construction Cloud of upload) tot één projectmodel dat je in gewone taal bevraagt; het signaleert scopegaten, uitsluitingen en risicovolle contractbepalingen met verwijzing naar de bronpagina, helpt bij offertevergelijking en maakt een conceptvoorstel. Resultaat: volgens Tyce en de Canadese aannemer Eastern Construction minstens 40% minder tijd aan tenderen en projectbeheer, en taken van vijf uur nu in 15 minuten; nauwkeurigheidscijfers zijn nog niet openbaar.",
+    "relevantie": "Goede vraag voor 4PS-aannemers met een eigen calculatie- en tenderafdeling: hoeveel uur gaat er per tender zitten in bestek- en offertevergelijking, en zouden ze een agent willen die scopegaten signaleert vóórdat de calculatie in 4PS wordt overgenomen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "tenders",
+      "calculatie",
+      "werkvoorbereiding",
+      "ai-agents",
+      "procore",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Eastern Construction says Tyce's AI bid review cut its preconstruction time at least 40% (Construction Metrics)",
+        "url": "https://constructionmetrics.com/2026/11/01/tyce-ai-bid-review-eastern-construction/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-exact-online-bouw-nga-van-beek-kantoor-bouwplaats",
+    "datum": "2026-11-01",
+    "gemeld_op": "2026-11-02",
+    "onderwerp": "NGA van Beek: kantoor en bouwplaats verbonden met Exact Online Bouw (concurrent)",
+    "samenvatting": "Probleem: het bouwbedrijf (15 medewerkers) werkte met Word-documenten per e-mail en een uitgeprinte personeelsplanning op een matrixbord, waardoor medewerkers niet vooruit konden kijken. Oplossing: overstap van Exact AEC naar Exact Online Bouw, met calculatie in Ibis en import van de begroting voor projectbewaking, een mobiele omgeving voor buitenmensen met planning en urenregistratie die direct op het project boekt, en meerwerk dat vanuit het project ter goedkeuring naar de opdrachtgever gaat. Resultaat: volgens het bedrijf efficiënter werken, tijdsbesparing en betere communicatie intern en met onderaannemers en opdrachtgevers; geen cijfers genoemd. Het artikel is gemaakt in samenwerking met Exact.",
+    "relevantie": "Bruikbaar bij kleinere aannemers die Exact overwegen: vraag waar hun grootste administratieve knelpunt zit (planning, uren of meerwerk) en laat zien hoe 4PS en BC hetzelfde dekken, met daarbovenop Copilot en agents.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "exact-online-bouw",
+      "concurrentie",
+      "planning",
+      "urenregistratie",
+      "meerwerk"
+    ],
+    "bronnen": [
+      {
+        "titel": "NGA van Beek groeit zonder grip te verliezen (Aannemer)",
+        "url": "https://www.aannemervak.nl/bouwpraktijk/bouwtrends/datagedreven-bouwen/nga-van-beek-groeit-zonder-grip-te-verliezen/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-hibin-ai-offertetool-concordia-bouwmaatje",
+    "datum": "2026-10-26",
+    "gemeld_op": "2026-11-02",
+    "onderwerp": "Bouwmaterialenhandel: AI-offertetool voor deuren (Concordia) en adviesagent aan de balie (Bouwmaat)",
+    "samenvatting": "Probleem: offreren van deuren is repeterend werk, en baliemedewerkers met minder bouwkennis vinden het lastig klanten goed te adviseren. Oplossing: Bouwcenter Concordia ontwikkelde met HelloNewDay en Dol op Data een AI-offertetool; Bouwmaat gebruikt AI-agents zoals 'Bouwmaatje', dat medewerkers helpt de juiste vragen over de klus te stellen. Resultaat: volgens Concordia kan de tool bij standaardproducten tot circa 90% van het werk overnemen; bij maatwerk blijft de medewerker nodig, en productdata en de koppeling met het eigen ERP zijn de grootste uitdagingen. Bouwmaat kreeg groen licht om verder op te schalen.",
+    "relevantie": "Inspiratie voor klanten met veel offertes voor standaardproducten of kozijnen en deuren: vraag welk deel van hun offertes standaard is en of hun artikel- en prijsdata in BC of 4PS goed genoeg zijn voor een offerteagent.",
+    "categorie": "use_case",
+    "tags": [
+      "bouwmaterialen",
+      "offertes",
+      "ai-agents",
+      "productdata",
+      "groothandel"
+    ],
+    "bronnen": [
+      {
+        "titel": "Verslag AI-sessie: leren over de offertetool en AI-scenario's (Koninklijke Hibin)",
+        "url": "https://hibin.nl/nieuws/nieuwsbericht/verslag-ai-sessie-leren-over-de-offerte-tool-en-ai-scenarios"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
