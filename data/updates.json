@@ -2204,5 +2204,29 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-pronovos-build-with-nova-claude-chatgpt",
+    "datum": "2026-10-30",
+    "gemeld_op": "2026-11-02",
+    "onderwerp": "ProNovos koppelt Claude en ChatGPT aan project- en financiële bouwdata (Build with Nova)",
+    "samenvatting": "ProNovos, software voor project- en financiële data van aannemers, maakt het mogelijk Claude of ChatGPT via een begeleide setup aan een ProNovos-account te koppelen. Gebruikers stellen vragen over projecten en financiën en laten in gewone taal dashboards, trackers, rapporten en what-if-modellen bouwen op live data; de AI volgt de bestaande ProNovos-rechten van de gebruiker.",
+    "relevantie": "Weer een bouwsoftwareleverancier die zijn data openstelt voor algemene AI-assistenten in plaats van een eigen AI-platform te bouwen; dat is hetzelfde patroon als de MCP-server in BC en een vergelijkingspunt voor wat 4PS-klanten gaan verwachten.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bouw",
+      "concurrentie",
+      "claude",
+      "chatgpt",
+      "mcp",
+      "rapportage"
+    ],
+    "bronnen": [
+      {
+        "titel": "Connect Claude or ChatGPT to ProNovos | Build with Nova",
+        "url": "https://pronovos.com/connect-to-claude-or-chatgpt-to-build-with-nova"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

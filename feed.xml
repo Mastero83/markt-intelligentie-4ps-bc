@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>ProNovos koppelt Claude en ChatGPT aan project- en financiële bouwdata (Build with Nova)</title>
+<link>https://pronovos.com/connect-to-claude-or-chatgpt-to-build-with-nova</link>
+<description>ProNovos, software voor project- en financiële data van aannemers, maakt het mogelijk Claude of ChatGPT via een begeleide setup aan een ProNovos-account te koppelen. Gebruikers stellen vragen over projecten en financiën en laten in gewone taal dashboards, trackers, rapporten en what-if-modellen bouwen op live data; de AI volgt de bestaande ProNovos-rechten van de gebruiker.
+
+Relevantie: Weer een bouwsoftwareleverancier die zijn data openstelt voor algemene AI-assistenten in plaats van een eigen AI-platform te bouwen; dat is hetzelfde patroon als de MCP-server in BC en een vergelijkingspunt voor wat 4PS-klanten gaan verwachten.</description>
+<pubDate>Fri, 30 Oct 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-pronovos-build-with-nova-claude-chatgpt</guid>
+</item>
 <item>
 <title>Procore AI op Amazon Bedrock algemeen beschikbaar</title>
 <link>https://www.procore.com/blog/announcing-procore-ai-on-amazon-bedrock</link>
