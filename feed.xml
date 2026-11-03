@@ -17,6 +17,56 @@ Relevantie: Raakt de finance-gebruikers van BC- en 4PS-klanten direct en sluit a
 <guid isPermaLink="false">radar-m365-copilot-accounting-excel-cowork-mc1536053</guid>
 </item>
 <item>
+<title>Swinerton: AI-personeelsplanning over vestigingen heen (Bridgit)</title>
+<link>https://gobridgit.com/press/swinerton-selects-bridgit-to-power-cross-region-workforce-planning/</link>
+<description>Probleem: bij een aannemer met 24 vestigingen zit informatie over mensen, projecten en de orderpijplijn verspreid, waardoor het lastig is de juiste mensen op het juiste project te zetten. Oplossing: Swinerton kiest Bridgit, dat ervaring, vaardigheden, certificeringen en beschikbaarheid samenbrengt met projecten en pijplijn, met AI-functies en agents die mensen voorstellen per kans. Resultaat: nog geen cijfers; Swinerton noemt beter onderbouwde beslissingen en het delen van mensen en expertise tussen vestigingen als doel.
+
+Relevantie: Voor bouw- en installatiebedrijven met meerdere vestigingen of krappe capaciteit: vraag hoe ze nu bepalen wie op welk project komt en of certificaten en ervaring al vastliggen in de resourceplanning van 4PS.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-swinerton-bridgit-ai-personeelsplanning</guid>
+</item>
+<item>
+<title>Payables Agent in Business Central in de praktijk: Zweedse bakkerij en Britse partner</title>
+<link>https://tharangac.com/2026/11/directions-emea-2026-what-is-new-for-business-central-and-what-we-learned.html</link>
+<description>Probleem: inkoopfacturen komen als pdf binnen in een mailbox en moeten handmatig in Business Central worden ingevoerd. Oplossing: de Payables Agent leest de facturen uit, zoekt de leverancier, koppelt regels aan inkooporders of stelt grootboekrekeningen voor en maakt een concept dat een medewerker controleert; via een lijst met bekende afzenders gaan vaste leveranciers sneller door. Resultaat: volgens een Directions EMEA-verslag meldt de Zweedse familiebakkerij Stödebröd ongeveer 30% minder administratie. Partner Infinity Group meldt over het eigen finance-team 50% snellere maandafsluiting en één persoon die 250 tot 350 facturen per maand verwerkt, waarbij vooral leveranciersstamdata en inkoopdiscipline vooraf werk vroegen.
+
+Relevantie: Goed voor klanten met veel terugkerende pdf-facturen van vaste leveranciers: vraag hoeveel inkoopfacturen ze per maand handmatig inboeken en hoe schoon hun leverancierskaarten en inkooporderdiscipline zijn.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-payables-agent-stodebrod-infinity-group</guid>
+</item>
+<item>
+<title>KENCOPA: bouwplanning opvragen en aanpassen vanuit Copilot via een MCP-server</title>
+<link>https://prtimes.jp/main/html/rd/p/000000033.000166783.html</link>
+<description>Probleem: planning en voortgangsdata zitten in een aparte bouwapplicatie, dus medewerkers moeten schermen openen en gegevens overtypen in hun AI-assistent. Oplossing: de Japanse leverancier KENCOPA biedt een officiële MCP-server, zodat Microsoft Copilot, Claude of ChatGPT vertraagde activiteiten en voortgang per project kunnen opvragen en de planning kunnen aanpassen, bijvoorbeeld een activiteit drie dagen opschuiven inclusief vervolgactiviteiten. Beheerders zetten lezen en schrijven per gegevenssoort aan of uit. Resultaat: volgens KENCOPA zijn handmatige dag- en maandrapportages van voortgang niet meer nodig; er zijn geen klantcijfers genoemd.
+
+Relevantie: Laat projectleiders zien wat de MCP-server van Business Central met 4PS-projectdata kan: vraag welke voortgangsvragen ze wekelijks handmatig uitzoeken en of ze eerst alleen leesrechten zouden willen geven.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-kencopa-mcp-planning-via-copilot</guid>
+</item>
+<item>
+<title>Haskell: AI-agent zet gevalideerde constructieberekeningen achter elkaar (VIKTOR)</title>
+<link>https://www.haskell.com/insights/how-haskell-viktor-partner-for-agentic-structural-design-assistance/</link>
+<description>Probleem: bij Haskell vergde het ontwerp van een eenvoudige hal soms meer dan 20 Excel- en Mathcad-bestanden, met handmatige overdracht van invoer en uitkomsten, en bij elke ontwerpwijziging moest veel opnieuw. Oplossing: berekeningen zijn omgezet naar vaste, gevalideerde apps in VIKTOR; een AI-agent rekent zelf niet, maar kiest per project de juiste apps en geeft de gegevens van stap naar stap door, waarna engineers alles controleren en goedkeuren. Resultaat: in de eerste tests ging het ontwerp per wandstramien ongeveer vier keer sneller en worden wijzigingen in seconden doorgerekend.
+
+Relevantie: Sterk voorbeeld voor calculatie- en werkvoorbereidingsafdelingen: vraag welke vaste rekenregels nu in losse Excel-bestanden zitten, en laat zien dat een agent die regels in BC of 4PS kan aanroepen zonder zelf te gaan rekenen.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-haskell-viktor-agent-constructieberekeningen</guid>
+</item>
+<item>
+<title>Coastal Construction: AI leest bouwtekeningen voor hoeveelheden en ramingen (Togal.AI)</title>
+<link>https://www.wconline.com/articles/98821-togalai-wins-national-ai-innovation-award</link>
+<description>Probleem: hoeveelheden uit bouwtekeningen halen en grove ramingen maken kost veel uren per project. Oplossing: Togal.AI gebruikt beeldherkenningsmodellen die specifiek zijn getraind op bouwtekeningen voor hoeveelhedenstaten en ramingen. Resultaat: volgens Togal.AI daalde de totale inspanning in de voorcalculatie bij Coastal Construction met 50 tot 65% en kostte een grove raming voor een toren van 28 tot 30 verdiepingen nog circa 13 tot 20 uur in plaats van 32 tot 40 uur; Consigli Construction leidde bijna 100 calculatoren op met de tool.
+
+Relevantie: Inspiratie voor aannemers die veel tijd in de voorcalculatie stoppen: vraag hoeveel uur een gemiddelde hoeveelhedenstaat kost en of uitkomsten van zo'n tool direct in de 4PS-calculatie terecht zouden moeten komen.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-coastal-construction-togal-ai-hoeveelheden</guid>
+</item>
+<item>
 <title>CMiC lanceert NexusAI in bouw-ERP NEXUS (CONNECT 2026)</title>
 <link>https://www.globenewswire.com/news-release/2026/11/02/3393271/0/en/cmic-unveils-nexusai-and-expanded-learning-opportunities-at-connect-2026.html</link>
 <description>CMiC introduceert NexusAI, een AI-launchpad in zijn bouw-ERP NEXUS: gebruikers starten AI-agents en halen ERP-informatie op in gewone taal. Het draait op de CMiC MCP Server binnen bestaande rechten en biedt realtime KPI's en alerts, begeleide workflows vanuit documenten en het aanmaken van projecten, budgetten en facturen via aanvragen, controleren en bevestigen.

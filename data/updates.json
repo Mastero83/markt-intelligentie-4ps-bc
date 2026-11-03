@@ -2371,5 +2371,124 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-payables-agent-stodebrod-infinity-group",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "Payables Agent in Business Central in de praktijk: Zweedse bakkerij en Britse partner",
+    "samenvatting": "Probleem: inkoopfacturen komen als pdf binnen in een mailbox en moeten handmatig in Business Central worden ingevoerd. Oplossing: de Payables Agent leest de facturen uit, zoekt de leverancier, koppelt regels aan inkooporders of stelt grootboekrekeningen voor en maakt een concept dat een medewerker controleert; via een lijst met bekende afzenders gaan vaste leveranciers sneller door. Resultaat: volgens een Directions EMEA-verslag meldt de Zweedse familiebakkerij Stödebröd ongeveer 30% minder administratie. Partner Infinity Group meldt over het eigen finance-team 50% snellere maandafsluiting en één persoon die 250 tot 350 facturen per maand verwerkt, waarbij vooral leveranciersstamdata en inkoopdiscipline vooraf werk vroegen.",
+    "relevantie": "Goed voor klanten met veel terugkerende pdf-facturen van vaste leveranciers: vraag hoeveel inkoopfacturen ze per maand handmatig inboeken en hoe schoon hun leverancierskaarten en inkooporderdiscipline zijn.",
+    "categorie": "use_case",
+    "tags": [
+      "payables-agent",
+      "inkoopfacturen",
+      "business-central",
+      "copilot",
+      "finance"
+    ],
+    "bronnen": [
+      {
+        "titel": "Directions EMEA 2026: What Is New for Business Central and What We Learned (TharangaC)",
+        "url": "https://tharangac.com/2026/11/directions-emea-2026-what-is-new-for-business-central-and-what-we-learned.html"
+      },
+      {
+        "titel": "Infinity Group runs Business Central's Payables Agent on its own supplier invoices (Agents Finance)",
+        "url": "https://agentsfinance.io/entries/case-infinity-group-business-central-payables-agent-ap-invoices-2026/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-haskell-viktor-agent-constructieberekeningen",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "Haskell: AI-agent zet gevalideerde constructieberekeningen achter elkaar (VIKTOR)",
+    "samenvatting": "Probleem: bij Haskell vergde het ontwerp van een eenvoudige hal soms meer dan 20 Excel- en Mathcad-bestanden, met handmatige overdracht van invoer en uitkomsten, en bij elke ontwerpwijziging moest veel opnieuw. Oplossing: berekeningen zijn omgezet naar vaste, gevalideerde apps in VIKTOR; een AI-agent rekent zelf niet, maar kiest per project de juiste apps en geeft de gegevens van stap naar stap door, waarna engineers alles controleren en goedkeuren. Resultaat: in de eerste tests ging het ontwerp per wandstramien ongeveer vier keer sneller en worden wijzigingen in seconden doorgerekend.",
+    "relevantie": "Sterk voorbeeld voor calculatie- en werkvoorbereidingsafdelingen: vraag welke vaste rekenregels nu in losse Excel-bestanden zitten, en laat zien dat een agent die regels in BC of 4PS kan aanroepen zonder zelf te gaan rekenen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "engineering",
+      "ai-agents",
+      "calculatie",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "How Haskell, VIKTOR Partner for Agentic Structural Design Assistance (Haskell)",
+        "url": "https://www.haskell.com/insights/how-haskell-viktor-partner-for-agentic-structural-design-assistance/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-coastal-construction-togal-ai-hoeveelheden",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "Coastal Construction: AI leest bouwtekeningen voor hoeveelheden en ramingen (Togal.AI)",
+    "samenvatting": "Probleem: hoeveelheden uit bouwtekeningen halen en grove ramingen maken kost veel uren per project. Oplossing: Togal.AI gebruikt beeldherkenningsmodellen die specifiek zijn getraind op bouwtekeningen voor hoeveelhedenstaten en ramingen. Resultaat: volgens Togal.AI daalde de totale inspanning in de voorcalculatie bij Coastal Construction met 50 tot 65% en kostte een grove raming voor een toren van 28 tot 30 verdiepingen nog circa 13 tot 20 uur in plaats van 32 tot 40 uur; Consigli Construction leidde bijna 100 calculatoren op met de tool.",
+    "relevantie": "Inspiratie voor aannemers die veel tijd in de voorcalculatie stoppen: vraag hoeveel uur een gemiddelde hoeveelhedenstaat kost en of uitkomsten van zo'n tool direct in de 4PS-calculatie terecht zouden moeten komen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "hoeveelheden",
+      "bouwtekeningen",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Togal.AI Wins National AI Innovation Award (Walls & Ceilings)",
+        "url": "https://www.wconline.com/articles/98821-togalai-wins-national-ai-innovation-award"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-swinerton-bridgit-ai-personeelsplanning",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "Swinerton: AI-personeelsplanning over vestigingen heen (Bridgit)",
+    "samenvatting": "Probleem: bij een aannemer met 24 vestigingen zit informatie over mensen, projecten en de orderpijplijn verspreid, waardoor het lastig is de juiste mensen op het juiste project te zetten. Oplossing: Swinerton kiest Bridgit, dat ervaring, vaardigheden, certificeringen en beschikbaarheid samenbrengt met projecten en pijplijn, met AI-functies en agents die mensen voorstellen per kans. Resultaat: nog geen cijfers; Swinerton noemt beter onderbouwde beslissingen en het delen van mensen en expertise tussen vestigingen als doel.",
+    "relevantie": "Voor bouw- en installatiebedrijven met meerdere vestigingen of krappe capaciteit: vraag hoe ze nu bepalen wie op welk project komt en of certificaten en ervaring al vastliggen in de resourceplanning van 4PS.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "resourceplanning",
+      "personeelsplanning",
+      "ai-agents",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Swinerton Selects Bridgit to Power Cross-Region Workforce Planning (Bridgit)",
+        "url": "https://gobridgit.com/press/swinerton-selects-bridgit-to-power-cross-region-workforce-planning/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-kencopa-mcp-planning-via-copilot",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "KENCOPA: bouwplanning opvragen en aanpassen vanuit Copilot via een MCP-server",
+    "samenvatting": "Probleem: planning en voortgangsdata zitten in een aparte bouwapplicatie, dus medewerkers moeten schermen openen en gegevens overtypen in hun AI-assistent. Oplossing: de Japanse leverancier KENCOPA biedt een officiële MCP-server, zodat Microsoft Copilot, Claude of ChatGPT vertraagde activiteiten en voortgang per project kunnen opvragen en de planning kunnen aanpassen, bijvoorbeeld een activiteit drie dagen opschuiven inclusief vervolgactiviteiten. Beheerders zetten lezen en schrijven per gegevenssoort aan of uit. Resultaat: volgens KENCOPA zijn handmatige dag- en maandrapportages van voortgang niet meer nodig; er zijn geen klantcijfers genoemd.",
+    "relevantie": "Laat projectleiders zien wat de MCP-server van Business Central met 4PS-projectdata kan: vraag welke voortgangsvragen ze wekelijks handmatig uitzoeken en of ze eerst alleen leesrechten zouden willen geven.",
+    "categorie": "use_case",
+    "tags": [
+      "mcp",
+      "bouwplanning",
+      "copilot",
+      "voortgang",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Kencopa工程AIエージェント 公式MCPサーバー (PR TIMES)",
+        "url": "https://prtimes.jp/main/html/rd/p/000000033.000166783.html"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
