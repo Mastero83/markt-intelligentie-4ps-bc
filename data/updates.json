@@ -2300,5 +2300,76 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-cmic-nexusai-connect-2026",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "CMiC lanceert NexusAI in bouw-ERP NEXUS (CONNECT 2026)",
+    "samenvatting": "CMiC introduceert NexusAI, een AI-launchpad in zijn bouw-ERP NEXUS: gebruikers starten AI-agents en halen ERP-informatie op in gewone taal. Het draait op de CMiC MCP Server binnen bestaande rechten en biedt realtime KPI's en alerts, begeleide workflows vanuit documenten en het aanmaken van projecten, budgetten en facturen via aanvragen, controleren en bevestigen.",
+    "relevantie": "Directe concurrent in de bouw-ERP-hoek die hetzelfde patroon (MCP plus agents met menselijke bevestiging) neerzet als BC en 4PS, nuttig als vergelijking in klantgesprekken.",
+    "categorie": "concurrentie",
+    "tags": [
+      "cmic",
+      "bouw-erp",
+      "ai-agents",
+      "mcp",
+      "concurrent"
+    ],
+    "bronnen": [
+      {
+        "titel": "CMiC Unveils NexusAI and Expanded Learning Opportunities at CONNECT 2026 (GlobeNewswire)",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3393271/0/en/cmic-unveils-nexusai-and-expanded-learning-opportunities-at-connect-2026.html"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-m365-copilot-accounting-excel-cowork-mc1536053",
+    "datum": "2026-11-03",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "Microsoft 365 Copilot: accountingfuncties in Excel en Cowork (MC1536053, GA 13 nov)",
+    "samenvatting": "Copilot in Excel en Cowork krijgt accountingfuncties: rekeningen afletteren, memoriaalboekingen voorbereiden (accruals, herclassificaties, allocaties), afwijkingsanalyses en financiële rapportages, plus ondersteuning voor budgettering, forecasting, audit en belasting. Niets wordt zonder goedkeuring in een ERP geboekt; connectors kunnen naar ERP-systemen lezen en schrijven. Public preview vanaf eind oktober, GA vanaf 13 november 2026.",
+    "relevantie": "Raakt de finance-gebruikers van BC- en 4PS-klanten direct en sluit aan op de BC-in-Cowork-roadmap; relevant voor gesprekken over maandafsluiting en Copilot-licenties.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "copilot",
+      "cowork",
+      "excel",
+      "finance",
+      "maandafsluiting"
+    ],
+    "bronnen": [
+      {
+        "titel": "MC1536053 - Microsoft 365 Copilot: New accounting capabilities in Excel and Cowork",
+        "url": "https://mc.merill.net/message/MC1536053"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc29-copilot-chat-mcp-extensies-thinkaboutit",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-03",
+    "onderwerp": "BC29: nieuwe Microsoft Copilot-chat gebruikt BC MCP-server, ook voor extensiedata",
+    "samenvatting": "Een analyse van de launch-sessies laat zien dat de nieuwe Copilot-chat in BC29 BC-data, webinformatie en Microsoft 365-context (via Work IQ) combineert in een agentic loop. Copilot haalt BC-data op via de BC MCP-server, inclusief data van geïnstalleerde extensies en maatwerktabellen, zonder aparte API's; rechten van de gebruiker blijven gelden en antwoorden bevatten bronvermeldingen naar records.",
+    "relevantie": "Voor 4PS als ISV op BC betekent dit dat 4PS-tabellen in principe bevraagbaar worden via Copilot, waardoor goede metadata en beschrijvingen in extensies belangrijker worden.",
+    "categorie": "product_release",
+    "tags": [
+      "business-central",
+      "bc29",
+      "copilot",
+      "mcp",
+      "extensies",
+      "isv"
+    ],
+    "bronnen": [
+      {
+        "titel": "Business Central 29: Exploring the New Microsoft Copilot Chat (think about IT)",
+        "url": "https://thinkaboutit.be/2026/11/business-central-29-exploring-the-new-microsoft-copilot-chat/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

@@ -5,7 +5,37 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Mon, 02 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Microsoft 365 Copilot: accountingfuncties in Excel en Cowork (MC1536053, GA 13 nov)</title>
+<link>https://mc.merill.net/message/MC1536053</link>
+<description>Copilot in Excel en Cowork krijgt accountingfuncties: rekeningen afletteren, memoriaalboekingen voorbereiden (accruals, herclassificaties, allocaties), afwijkingsanalyses en financiële rapportages, plus ondersteuning voor budgettering, forecasting, audit en belasting. Niets wordt zonder goedkeuring in een ERP geboekt; connectors kunnen naar ERP-systemen lezen en schrijven. Public preview vanaf eind oktober, GA vanaf 13 november 2026.
+
+Relevantie: Raakt de finance-gebruikers van BC- en 4PS-klanten direct en sluit aan op de BC-in-Cowork-roadmap; relevant voor gesprekken over maandafsluiting en Copilot-licenties.</description>
+<pubDate>Tue, 03 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-m365-copilot-accounting-excel-cowork-mc1536053</guid>
+</item>
+<item>
+<title>CMiC lanceert NexusAI in bouw-ERP NEXUS (CONNECT 2026)</title>
+<link>https://www.globenewswire.com/news-release/2026/11/02/3393271/0/en/cmic-unveils-nexusai-and-expanded-learning-opportunities-at-connect-2026.html</link>
+<description>CMiC introduceert NexusAI, een AI-launchpad in zijn bouw-ERP NEXUS: gebruikers starten AI-agents en halen ERP-informatie op in gewone taal. Het draait op de CMiC MCP Server binnen bestaande rechten en biedt realtime KPI's en alerts, begeleide workflows vanuit documenten en het aanmaken van projecten, budgetten en facturen via aanvragen, controleren en bevestigen.
+
+Relevantie: Directe concurrent in de bouw-ERP-hoek die hetzelfde patroon (MCP plus agents met menselijke bevestiging) neerzet als BC en 4PS, nuttig als vergelijking in klantgesprekken.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-cmic-nexusai-connect-2026</guid>
+</item>
+<item>
+<title>BC29: nieuwe Microsoft Copilot-chat gebruikt BC MCP-server, ook voor extensiedata</title>
+<link>https://thinkaboutit.be/2026/11/business-central-29-exploring-the-new-microsoft-copilot-chat/</link>
+<description>Een analyse van de launch-sessies laat zien dat de nieuwe Copilot-chat in BC29 BC-data, webinformatie en Microsoft 365-context (via Work IQ) combineert in een agentic loop. Copilot haalt BC-data op via de BC MCP-server, inclusief data van geïnstalleerde extensies en maatwerktabellen, zonder aparte API's; rechten van de gebruiker blijven gelden en antwoorden bevatten bronvermeldingen naar records.
+
+Relevantie: Voor 4PS als ISV op BC betekent dit dat 4PS-tabellen in principe bevraagbaar worden via Copilot, waardoor goede metadata en beschrijvingen in extensies belangrijker worden.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc29-copilot-chat-mcp-extensies-thinkaboutit</guid>
+</item>
 <item>
 <title>NGA van Beek: kantoor en bouwplaats verbonden met Exact Online Bouw (concurrent)</title>
 <link>https://www.aannemervak.nl/bouwpraktijk/bouwtrends/datagedreven-bouwen/nga-van-beek-groeit-zonder-grip-te-verliezen/</link>
