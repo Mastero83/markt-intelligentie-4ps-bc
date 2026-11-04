@@ -2490,5 +2490,32 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bc-expense-agent-roadmap-nov-2026",
+    "datum": "2026-11-04",
+    "gemeld_op": "2026-11-04",
+    "onderwerp": "Expense Agent in Business Central: negen nieuwe roadmapfuncties (preview dec 2026)",
+    "samenvatting": "Microsoft heeft op 4 november 2026 negen nieuwe roadmapitems voor de Expense Agent in Business Central gepubliceerd (RM573602 t/m RM573610), onder meer declaraties splitsen over projecten, afdelingen of klanten, goedkeuringslimieten met vervangende goedkeurders, bestedingslimieten, declaraties zonder bon of bij verloren bon, en gasten uit de agenda als deelnemers. De preview staat gepland voor december 2026; GA tussen februari en april 2027.",
+    "relevantie": "Declaraties splitsen over projecten en goedkeuringslimieten sluiten direct aan op projectgedreven bouwbedrijven die op 4PS/BC werken.",
+    "categorie": "product_release",
+    "tags": [
+      "microsoft",
+      "expense-agent",
+      "agents",
+      "declaraties",
+      "roadmap"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM573602 - Expense Agent: Split your expenses",
+        "url": "https://mc.merill.net/message/RM573602"
+      },
+      {
+        "titel": "RM573605 - Expense Agent: approving limits and alternate approvers",
+        "url": "https://mc.merill.net/message/RM573605"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

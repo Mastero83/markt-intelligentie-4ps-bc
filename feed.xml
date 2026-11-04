@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Expense Agent in Business Central: negen nieuwe roadmapfuncties (preview dec 2026)</title>
+<link>https://mc.merill.net/message/RM573602</link>
+<description>Microsoft heeft op 4 november 2026 negen nieuwe roadmapitems voor de Expense Agent in Business Central gepubliceerd (RM573602 t/m RM573610), onder meer declaraties splitsen over projecten, afdelingen of klanten, goedkeuringslimieten met vervangende goedkeurders, bestedingslimieten, declaraties zonder bon of bij verloren bon, en gasten uit de agenda als deelnemers. De preview staat gepland voor december 2026; GA tussen februari en april 2027.
+
+Relevantie: Declaraties splitsen over projecten en goedkeuringslimieten sluiten direct aan op projectgedreven bouwbedrijven die op 4PS/BC werken.</description>
+<pubDate>Wed, 04 Nov 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc-expense-agent-roadmap-nov-2026</guid>
+</item>
 <item>
 <title>Microsoft 365 Copilot: accountingfuncties in Excel en Cowork (MC1536053, GA 13 nov)</title>
 <link>https://mc.merill.net/message/MC1536053</link>
