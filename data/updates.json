@@ -2517,5 +2517,101 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-cordeel-neuron-factory-calculatie-3x-sneller",
+    "datum": "2026-11-03",
+    "gemeld_op": "2026-11-04",
+    "onderwerp": "Cordeel: calculatiecycli 3x sneller met AI-kennisgraaf over projectdocumenten (Neuron Factory)",
+    "samenvatting": "Probleem: de calculatieteams van de Belgische aannemer Cordeel moesten enorme documentensets (tekeningen, bestekken, staten van hoeveelheden) in het Nederlands, Frans en Engels handmatig naast elkaar leggen; gewone zoekfuncties en eenvoudige AI-zoekoplossingen haakten af bij meer dan 10.000 pagina's. Oplossing: Neuron Factory bouwde een meertalige kennisgraaf over het projectarchief, met agents die tekeningrevisies tegen bestekhoofdstukken leggen, scopegaten en tegenstrijdigheden signaleren en bij overdracht naar uitvoering alle besluiten en risico's beschikbaar houden. Resultaat volgens de bron: calculatiecycli 3x sneller en scopegaten worden gevonden voordat aanneemsommen getekend worden.",
+    "relevantie": "Breng dit in bij aannemers die op aanneemsom inschrijven en vraag: hoe vaak ontdekken jullie pas tijdens de uitvoering een scopegat of bestekconflict, en hoeveel tijd zit er in het vergelijken van tekeningrevisies?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "aanbesteding",
+      "ai-agents",
+      "kennisgraaf",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Neuron Factory: How Cordeel Cut Estimation Time 3x",
+        "url": "https://neuronfactory.ai/press-media/connected-knowledge-graph"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-hibin-sig-verdouw-ai-calculators",
+    "datum": "2026-11-03",
+    "gemeld_op": "2026-11-04",
+    "onderwerp": "SIG en Verdouw: AI-calculators voor plafonds en dakpannen in de bouwmaterialenhandel (Hibin)",
+    "samenvatting": "Probleem: medewerkers rekenden benodigde materialen met eigen Excel-sheets uit, en bij dakpancalculaties werden hulpstukken regelmatig vergeten of verkeerd berekend. Oplossing: SIG bouwde met hulp van Claude in ongeveer twaalf geraamde uren een plafondcalculator die een materiaallijst oplevert voor verdere verwerking richting het ERP; Verdouw ontwikkelde een chattoepassing met een taalmodel en een product- en prijsdatabase voor dakpancalculaties inclusief prijs. Resultaat volgens de bron: een eerste werkende versie was snel gebouwd, maar betrouwbare fabrikantdata, testen, beheer en de ERP-koppeling bepalen hoe bruikbaar het wordt; SIG wil de calculator intern uitrollen en onderzoekt beschikbaarheid via de webshop.",
+    "relevantie": "Gebruik dit bij groothandels en installateurs met veel rekenwerk in Excel en vraag: welke calculatie- of offerteregels zitten nu in losse spreadsheets, en hoe komt de materiaallijst daarna in het ERP terecht?",
+    "categorie": "use_case",
+    "tags": [
+      "bouwmaterialen",
+      "groothandel",
+      "calculatie",
+      "offertes",
+      "erp-koppeling",
+      "productdata"
+    ],
+    "bronnen": [
+      {
+        "titel": "Hibin: Verslag van de AI-sessie deel II bij SIG en Verdouw",
+        "url": "https://hibin.nl/nieuws/nieuwsbericht/verslag-van-de-ai-sessie-deel-ii-bij-sig-en-verdouw"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-loan-vision-lv-luna-isv-agent-bc",
+    "datum": "2026-11-04",
+    "gemeld_op": "2026-11-04",
+    "onderwerp": "Loan Vision: ISV op Business Central zet productagent LV Luna in voor bijna 300 klanten (Volt Technologies)",
+    "samenvatting": "Probleem: Loan Vision, een branche-oplossing op Business Central, had productkennis verspreid over een paar specialisten; een supportteam van drie personen behandelde zo'n 4.200 cases per jaar en moest vaak experts van implementatieprojecten weghalen. Oplossing: Volt Technologies bouwde in ruim vier maanden LV Luna, een Copilot Studio-agent met een gestructureerde kennisbank (documentatie, productlogica en BC-broncode via een Azure Function), ingebouwd als chat in Business Central en Teams, met een adoptiedashboard en een uitrolwizard. Resultaat volgens de bron: supportmedewerkers kunnen alle onderwerpen aan, sales beantwoordt vragen live, en bètaklanten waren overwegend positief; een vervolgversie moet ook handelingen in de BC-omgeving van klanten uitvoeren.",
+    "relevantie": "Interessant als parallel voor branche-oplossingen op BC zoals 4PS; vraag klanten: waar zoeken jullie medewerkers nu het vaakst hulp bij het systeem, en zou een ingebouwde assistent die jullie eigen werkwijze kent supportvragen kunnen afvangen?",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "isv",
+      "copilot-studio",
+      "kennisbank",
+      "support",
+      "agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Volt Technologies: Loan Vision AI Agent case study",
+        "url": "https://volt-technologies.com/case-study/loan-vision-ai-agent-business-central/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-tki-ai-voor-woningbouw-vouchers-ronde-2",
+    "datum": "2026-11-03",
+    "gemeld_op": "2026-11-04",
+    "onderwerp": "AI voor Woningbouw: twaalf nieuwe praktijkprojecten, van bouwtekening naar database tot vertragingscheck (TKI Bouw en Techniek)",
+    "samenvatting": "Probleem: in de woningbouw typen ketenpartners maten uit tekeningen opnieuw over en komen risico's uit bodem- en conditioneringsonderzoek vaak laat boven. Oplossing: twaalf projecten krijgen elk een voucher tot 30.000 euro om AI in de praktijk te testen, waaronder een tool die 2D-tekeningen omzet in een 3D-model en bevraagbare database, een VertragingsCheck die vertragingsrisico's in weken inschat, en AI-interpretatie van bodemonderzoek. Resultaat: de projecten lopen tot en met 31 maart 2027 en moeten de besparing nog aantonen; het tekeningproject mikt op 80% minder werkvoorbereidingstijd.",
+    "relevantie": "Bruikbaar bij woningbouwers en werkvoorbereiders als gespreksopener: vraag waar in de werkvoorbereiding gegevens uit tekeningen nu handmatig worden overgenomen en of ze willen meedoen aan of leren van zulke praktijkpilots.",
+    "categorie": "use_case",
+    "tags": [
+      "woningbouw",
+      "werkvoorbereiding",
+      "tekeningen",
+      "planning",
+      "subsidie",
+      "pilots"
+    ],
+    "bronnen": [
+      {
+        "titel": "TKI Bouw en Techniek: Twaalf nieuwe AI-projecten van start om woningbouw te versnellen",
+        "url": "https://tki-bouwentechniek.nl/twaalf-nieuwe-ai-projecten-van-start-om-woningbouw-te-versnellen/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
