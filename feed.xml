@@ -7,6 +7,26 @@
 <language>nl-nl</language>
 <lastBuildDate>Thu, 05 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Wisconsin Built: AI-tekeningreview vindt achteraf het verlies op een afgerond project (Nomic)</title>
+<link>https://www.nomic.ai/case-studies/wisconsin-built</link>
+<description>Probleem: bij aannemer Wisconsin Built (ook interieurbouw) werden marge-lekken op projecten pas zichtbaar als het werk klaar was. Oplossing: het bedrijf liet Nomic los op een afgerond project waarop het geld had verloren, met de bouwtekeningen, de werkplaatstekeningen en de houtbouwnormen, en liet het in fasen de scope uitlichten, een RFI-log maken en de werkplaatstekeningen toetsen. Resultaat: volgens de case vond de AI de problemen die tot circa 17.000 dollar verlies leidden, markeerde hij 20 RFI's met hoge prioriteit en ging de scope-extractie van ongeveer 47 uur naar 18 minuten.
+
+Relevantie: Sterk voor bouwbedrijven met calculatie en werkvoorbereiding in 4PS: stel voor om AI eerst te testen op een afgerond verliesproject en vraag waar in hun nacalculatie de verschillen met de begroting vandaan kwamen.</description>
+<pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-wisconsin-built-nomic-tekeningreview</guid>
+</item>
+<item>
+<title>DJX Construction: meer inschrijvingen zonder extra personeel door AI-hoeveelhedenstaten (Beam AI)</title>
+<link>https://www.ibeam.ai/case-study/djx-construction</link>
+<description>Probleem: het GWW-bedrijf DJX Construction besteedde het grootste deel van de tijd aan handmatige hoeveelheden uit tekeningen; grondwerk kostte drie keer zoveel tijd en wijzigingen in bestek en nota's van inlichtingen werden gemist. Oplossing: geautomatiseerde hoeveelhedenstaten met Beam AI, dat ook wijzigingen in bestek en addenda signaleert. Resultaat: volgens de case meer dan 20 uur per week bespaard en meer inschrijvingen zonder het team uit te breiden.
+
+Relevantie: Relevant voor GWW- en infra-klanten die met 4PS calculeren: vraag hoeveel inschrijvingen ze nu laten liggen door capaciteit en hoe hoeveelheden uit tekeningen nu in de begroting terechtkomen.</description>
+<pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-djx-construction-beam-ai-hoeveelheden</guid>
+</item>
+<item>
 <title>Shackleton AI: agentic operating system voor bouw, $5M seed (Battery Ventures)</title>
 <link>https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html</link>
 <description>Shackleton AI komt uit stealth met een platform dat development- en bouwprocessen van site selection tot oplevering in één systeem brengt. AI-agents doen administratief projectwerk (RFI's opstellen, achterstallige submittals naleven, budgetafwijkingen signaleren, dagrapporten uit veldnotities). Seed van $5 miljoen geleid door Battery Ventures; het platform zegt meer dan $1 miljard projectwaarde te beheren in 15+ staten.
@@ -105,6 +125,16 @@ Relevantie: Raakt de finance-gebruikers van BC- en 4PS-klanten direct en sluit a
 <pubDate>Tue, 03 Nov 2026 08:30:00 +0000</pubDate>
 <category>ai_features</category>
 <guid isPermaLink="false">radar-m365-copilot-accounting-excel-cowork-mc1536053</guid>
+</item>
+<item>
+<title>J&amp;J Construction: van opgenomen locatiebezoek naar conceptbegroting, 3 naar 10 begrotingen per week (Field24)</title>
+<link>https://ontarioconstructionnews.com/from-jobsite-recordings-to-takeoffs-how-jj-constructions-hunter-is-putting-ai-to-work</link>
+<description>Probleem: na een locatiebezoek kost het meerdere rondes werk om notities, tekeningen en hoeveelheden om te zetten in een prijs. Oplossing: de eigenaar neemt zijn locatiebezoeken op met een AI-recorder en voert die samen met de tekeningen in Field24 in, dat de scope bepaalt, hoeveelheden uittrekt met gemarkeerde tekeningen als bewijs en aannames laat controleren. Resultaat: volgens de case maakt hij nu 10 in plaats van 3 begrotingen per week; de mens vult zelf aan waar de AI geen hoeveelheden levert.
+
+Relevantie: Goed voor installatie- en onderhoudsbedrijven met veel kleine offertes: vraag hoeveel tijd er zit tussen opname op locatie en offerte, en schets hoe een spraakmemo plus tekening via AI als concept in de 4PS- of BC-offerte kan landen.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-jj-construction-field24-locatiebezoek-naar-begroting</guid>
 </item>
 <item>
 <title>Swinerton: AI-personeelsplanning over vestigingen heen (Bridgit)</title>

@@ -2706,5 +2706,77 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-wisconsin-built-nomic-tekeningreview",
+    "datum": "2026-11-05",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "Wisconsin Built: AI-tekeningreview vindt achteraf het verlies op een afgerond project (Nomic)",
+    "samenvatting": "Probleem: bij aannemer Wisconsin Built (ook interieurbouw) werden marge-lekken op projecten pas zichtbaar als het werk klaar was. Oplossing: het bedrijf liet Nomic los op een afgerond project waarop het geld had verloren, met de bouwtekeningen, de werkplaatstekeningen en de houtbouwnormen, en liet het in fasen de scope uitlichten, een RFI-log maken en de werkplaatstekeningen toetsen. Resultaat: volgens de case vond de AI de problemen die tot circa 17.000 dollar verlies leidden, markeerde hij 20 RFI's met hoge prioriteit en ging de scope-extractie van ongeveer 47 uur naar 18 minuten.",
+    "relevantie": "Sterk voor bouwbedrijven met calculatie en werkvoorbereiding in 4PS: stel voor om AI eerst te testen op een afgerond verliesproject en vraag waar in hun nacalculatie de verschillen met de begroting vandaan kwamen.",
+    "categorie": "use_case",
+    "tags": [
+      "calculatie",
+      "werkvoorbereiding",
+      "tekeningen",
+      "rfi",
+      "nacalculatie",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Nomic case study: Wisconsin Built",
+        "url": "https://www.nomic.ai/case-studies/wisconsin-built"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-jj-construction-field24-locatiebezoek-naar-begroting",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "J&J Construction: van opgenomen locatiebezoek naar conceptbegroting, 3 naar 10 begrotingen per week (Field24)",
+    "samenvatting": "Probleem: na een locatiebezoek kost het meerdere rondes werk om notities, tekeningen en hoeveelheden om te zetten in een prijs. Oplossing: de eigenaar neemt zijn locatiebezoeken op met een AI-recorder en voert die samen met de tekeningen in Field24 in, dat de scope bepaalt, hoeveelheden uittrekt met gemarkeerde tekeningen als bewijs en aannames laat controleren. Resultaat: volgens de case maakt hij nu 10 in plaats van 3 begrotingen per week; de mens vult zelf aan waar de AI geen hoeveelheden levert.",
+    "relevantie": "Goed voor installatie- en onderhoudsbedrijven met veel kleine offertes: vraag hoeveel tijd er zit tussen opname op locatie en offerte, en schets hoe een spraakmemo plus tekening via AI als concept in de 4PS- of BC-offerte kan landen.",
+    "categorie": "use_case",
+    "tags": [
+      "offertes",
+      "calculatie",
+      "spraak",
+      "tekeningen",
+      "hoeveelheden",
+      "mkb-bouw"
+    ],
+    "bronnen": [
+      {
+        "titel": "Ontario Construction News: From jobsite recordings to takeoffs at J&J Construction",
+        "url": "https://ontarioconstructionnews.com/from-jobsite-recordings-to-takeoffs-how-jj-constructions-hunter-is-putting-ai-to-work"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-djx-construction-beam-ai-hoeveelheden",
+    "datum": "2026-11-05",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "DJX Construction: meer inschrijvingen zonder extra personeel door AI-hoeveelhedenstaten (Beam AI)",
+    "samenvatting": "Probleem: het GWW-bedrijf DJX Construction besteedde het grootste deel van de tijd aan handmatige hoeveelheden uit tekeningen; grondwerk kostte drie keer zoveel tijd en wijzigingen in bestek en nota's van inlichtingen werden gemist. Oplossing: geautomatiseerde hoeveelhedenstaten met Beam AI, dat ook wijzigingen in bestek en addenda signaleert. Resultaat: volgens de case meer dan 20 uur per week bespaard en meer inschrijvingen zonder het team uit te breiden.",
+    "relevantie": "Relevant voor GWW- en infra-klanten die met 4PS calculeren: vraag hoeveel inschrijvingen ze nu laten liggen door capaciteit en hoe hoeveelheden uit tekeningen nu in de begroting terechtkomen.",
+    "categorie": "use_case",
+    "tags": [
+      "gww",
+      "infra",
+      "calculatie",
+      "aanbestedingen",
+      "hoeveelheden",
+      "tekeningen"
+    ],
+    "bronnen": [
+      {
+        "titel": "Beam AI case study: DJX Construction",
+        "url": "https://www.ibeam.ai/case-study/djx-construction"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
