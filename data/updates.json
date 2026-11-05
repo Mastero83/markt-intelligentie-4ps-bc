@@ -2613,5 +2613,98 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-shackleton-ai-5m-agentic-os-bouw",
+    "datum": "2026-11-04",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "Shackleton AI: agentic operating system voor bouw, $5M seed (Battery Ventures)",
+    "samenvatting": "Shackleton AI komt uit stealth met een platform dat development- en bouwprocessen van site selection tot oplevering in één systeem brengt. AI-agents doen administratief projectwerk (RFI's opstellen, achterstallige submittals naleven, budgetafwijkingen signaleren, dagrapporten uit veldnotities). Seed van $5 miljoen geleid door Battery Ventures; het platform zegt meer dan $1 miljard projectwaarde te beheren in 15+ staten.",
+    "relevantie": "Concurrentiesignaal in bouwsoftware: agentic projectbeheer naast ERP's zoals 4PS/BC, relevant voor klantgesprekken over AI-agents op projectadministratie.",
+    "categorie": "concurrentie",
+    "tags": [
+      "shackleton",
+      "bouw",
+      "ai-agents",
+      "funding",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Shackleton AI unveils agentic OS for construction, raises $5M (PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-autom8labs-22-aec-mcp-skills",
+    "datum": "2026-11-03",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "Autom8Labs: 22 gratis AEC MCP Skills voor AI-agents (Revit, AutoCAD e.a.)",
+    "samenvatting": "Autom8Labs publiceert 22 gratis MCP Skills die AI-agents stap-voor-stap door AEC-taken leiden in o.a. Revit, AutoCAD, Navisworks, Grasshopper, MicroStation, 3ds Max, Rhino, Civil 3D en Advance Steel. De skills zitten bovenop MCP-connectors: connectors geven tools, skills geven de werkwijze en controle.",
+    "relevantie": "Toont hoe MCP in de bouw/design-hoek verder gaat dan alleen koppelingen; relevant naast BC MCP-server en agent-skills-denkwerk bij 4PS/BC-implementaties.",
+    "categorie": "concurrentie",
+    "tags": [
+      "autom8labs",
+      "mcp",
+      "aec",
+      "revit",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Autom8Labs launches AEC skills for AI agents (AEC Magazine)",
+        "url": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-autodesk-aps-mcp-rcw-migratie",
+    "datum": "2026-11-04",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "Autodesk APS: Revit Cloud Worksharing-migratie via MCP voor AI-assistenten",
+    "samenvatting": "Autodesk Platform Services publiceert een sample waarbij een MCP-server Revit Cloud Worksharing-modellen laat ontdekken, migreren en monitoren via natuurlijke taal (o.a. GitHub Copilot). Tools als migrate-rcw-model, status en cancel koppelen Design Automation for Revit aan MCP Apps voor voortgang in de AI-client.",
+    "relevantie": "Bouw/BIM-ecosysteem beweegt parallel aan BC naar MCP als standaard voor AI-agents; bruikbaar in gesprekken over AI-koppelingen rond 4PS/BC en projectdata.",
+    "categorie": "concurrentie",
+    "tags": [
+      "autodesk",
+      "mcp",
+      "revit",
+      "bim",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Bringing Revit Cloud Worksharing migration to AI assistants with APS and MCP",
+        "url": "https://aps.autodesk.com/blog/bringing-revit-cloud-worksharing-migration-ai-assistants-aps-and-mcp"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-archiboost-6-2m-drawing-qaqc-ai",
+    "datum": "2026-11-03",
+    "gemeld_op": "2026-11-05",
+    "onderwerp": "Archiboost haalt $6,2M op voor AI QA/QC op bouwtekeningen",
+    "samenvatting": "Archiboost (San Francisco) haalt $6,2 miljoen pre-seed/seed op (Hanabi Capital en Marathon Venture Capital) voor AI die fouten, omissies en coördinatieconflicten in construction documents flagt. Het platform zegt meer dan 550.000 drawing sheets over $3,5 miljard projectwaarde te hebben beoordeeld; suite omvat QA/QC, code-copilot Rus, CA-agent (beta) en kennis/detailbibliotheek.",
+    "relevantie": "Concurrentie in AI voor bouwdocumenten en coördinatie; relevant als klanten vragen naar AI op tekeningen/RFI's naast ERP-processen in 4PS/BC.",
+    "categorie": "concurrentie",
+    "tags": [
+      "archiboost",
+      "bouw",
+      "qaqc",
+      "tekeningen",
+      "funding",
+      "ai"
+    ],
+    "bronnen": [
+      {
+        "titel": "Archiboost Raises $6.2 Million (Archiboost)",
+        "url": "https://archiboost.ai/blogs/archiboost-raises-6-2-million"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
