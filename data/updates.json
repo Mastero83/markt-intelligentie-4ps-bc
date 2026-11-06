@@ -2822,5 +2822,71 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-pamarco-agents-maandafsluiting",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-06",
+    "onderwerp": "Pamarco: agents voeren ongeveer 40% van de maandafsluitingstaken uit in Dynamics 365",
+    "samenvatting": "Pamarco (producent van componenten voor druk en verpakking, zeven juridische entiteiten) wilde de handmatige financiële afsluiting verlichten. Autonome AI-agents in Dynamics 365 controleren elk uur openstaande afsluitingstaken, voeren taken uit waarvan de afhankelijkheden klaar zijn en mailen het resultaat; medewerkers behandelen uitzonderingen en goedkeuringen. Volgens de bron is ongeveer 40% van de afsluitingstaken geautomatiseerd en worden vrachtfacturen met circa 95% succes automatisch gecodeerd. Let op: 40% van de taken is niet 40% van de arbeid.",
+    "relevantie": "Breng dit in bij financieel gedreven klanten met meerdere entiteiten met de vraag: welke terugkerende afsluitingstaken hebben een vaste eigenaar, deadline en afhankelijkheden, en zouden dus door een agent met beperkte rechten kunnen lopen?",
+    "categorie": "use_case",
+    "tags": [
+      "agents",
+      "financiele-afsluiting",
+      "dynamics-365",
+      "factuurcodering"
+    ],
+    "bronnen": [
+      {
+        "titel": "PYMNTS: AI Agents Take the Grunt Work Out of Pamarco's Close",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-the-grunt-work-out-of-pamarcos-close/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-halloy-copilot-chat-maakindustrie",
+    "datum": "2026-11-04",
+    "gemeld_op": "2026-11-06",
+    "onderwerp": "Halloy: Copilot-chat in Business Central voor orders, voorraad en kortingen",
+    "samenvatting": "Het probleem is dat gebruikers door meerdere schermen moeten zoeken naar orders die aandacht nodig hebben of voorraad die blijft liggen. Halloy laat zien hoe de vernieuwde Copilot-chat in Business Central 29 vragen in gewone taal beantwoordt, zoals welke verkooporders binnenkort geleverd moeten worden, welke artikelen de afgelopen drie maanden weinig verkocht zijn maar nog op voorraad liggen en welke klanten de meeste korting kregen. De bron noemt geen meetbare resultaten.",
+    "relevantie": "Gebruik dit bij maak- en handelsbedrijven met de vraag: welke overzichtsvragen stellen planners en verkopers nu elke week aan een collega of via een export, en wil je die gewoon kunnen vragen?",
+    "categorie": "use_case",
+    "tags": [
+      "copilot",
+      "business-central-29",
+      "voorraad",
+      "verkooporders"
+    ],
+    "bronnen": [
+      {
+        "titel": "Halloy: Copilot in Halloy Manufacturing",
+        "url": "https://www.halloy.nl/blog/copilot-business-central-maakindustrie/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-bc29-copilot-chat-klantgesprek-voorbereiding",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-06",
+    "onderwerp": "BC 29 Copilot-chat: klantgesprek voorbereiden met BC-, agenda- en M365-gegevens",
+    "samenvatting": "In de demo van het Business Central 2026 release wave 2 Launch Event vond Copilot het geplande klantgesprek in de agenda, haalde klantinformatie en verkoopcijfers uit Business Central en maakte een salesbrief met accountrisico's en gespreksonderwerpen. Ook analyseerde Copilot langzaam lopende artikelen en stelde acties voor, zoals bundelen of cross-selling. Volgens de bron blijven de adviezen afhankelijk van menselijk oordeel. Resultaten zijn niet gemeten.",
+    "relevantie": "Laat dit zien aan klanten met accountmanagers of projectleiders met de vraag: hoeveel tijd kost het nu om voor een klantafspraak cijfers, openstaande orders en risico's bij elkaar te zoeken?",
+    "categorie": "use_case",
+    "tags": [
+      "copilot",
+      "business-central-29",
+      "microsoft-365",
+      "sales"
+    ],
+    "bronnen": [
+      {
+        "titel": "think about IT: Business Central 29, the new Microsoft Copilot Chat",
+        "url": "https://thinkaboutit.be/2026/11/business-central-29-exploring-the-new-microsoft-copilot-chat/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]

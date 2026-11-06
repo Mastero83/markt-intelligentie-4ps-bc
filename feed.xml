@@ -47,6 +47,16 @@ Relevantie: Relevant voor GWW- en infra-klanten die met 4PS calculeren: vraag ho
 <guid isPermaLink="false">uc-djx-construction-beam-ai-hoeveelheden</guid>
 </item>
 <item>
+<title>Halloy: Copilot-chat in Business Central voor orders, voorraad en kortingen</title>
+<link>https://www.halloy.nl/blog/copilot-business-central-maakindustrie/</link>
+<description>Het probleem is dat gebruikers door meerdere schermen moeten zoeken naar orders die aandacht nodig hebben of voorraad die blijft liggen. Halloy laat zien hoe de vernieuwde Copilot-chat in Business Central 29 vragen in gewone taal beantwoordt, zoals welke verkooporders binnenkort geleverd moeten worden, welke artikelen de afgelopen drie maanden weinig verkocht zijn maar nog op voorraad liggen en welke klanten de meeste korting kregen. De bron noemt geen meetbare resultaten.
+
+Relevantie: Gebruik dit bij maak- en handelsbedrijven met de vraag: welke overzichtsvragen stellen planners en verkopers nu elke week aan een collega of via een export, en wil je die gewoon kunnen vragen?</description>
+<pubDate>Wed, 04 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-halloy-copilot-chat-maakindustrie</guid>
+</item>
+<item>
 <title>Shackleton AI: agentic operating system voor bouw, $5M seed (Battery Ventures)</title>
 <link>https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html</link>
 <description>Shackleton AI komt uit stealth met een platform dat development- en bouwprocessen van site selection tot oplevering in één systeem brengt. AI-agents doen administratief projectwerk (RFI's opstellen, achterstallige submittals naleven, budgetafwijkingen signaleren, dagrapporten uit veldnotities). Seed van $5 miljoen geleid door Battery Ventures; het platform zegt meer dan $1 miljard projectwaarde te beheren in 15+ staten.
@@ -145,6 +155,26 @@ Relevantie: Raakt de finance-gebruikers van BC- en 4PS-klanten direct en sluit a
 <pubDate>Tue, 03 Nov 2026 08:30:00 +0000</pubDate>
 <category>ai_features</category>
 <guid isPermaLink="false">radar-m365-copilot-accounting-excel-cowork-mc1536053</guid>
+</item>
+<item>
+<title>Pamarco: agents voeren ongeveer 40% van de maandafsluitingstaken uit in Dynamics 365</title>
+<link>https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-the-grunt-work-out-of-pamarcos-close/</link>
+<description>Pamarco (producent van componenten voor druk en verpakking, zeven juridische entiteiten) wilde de handmatige financiële afsluiting verlichten. Autonome AI-agents in Dynamics 365 controleren elk uur openstaande afsluitingstaken, voeren taken uit waarvan de afhankelijkheden klaar zijn en mailen het resultaat; medewerkers behandelen uitzonderingen en goedkeuringen. Volgens de bron is ongeveer 40% van de afsluitingstaken geautomatiseerd en worden vrachtfacturen met circa 95% succes automatisch gecodeerd. Let op: 40% van de taken is niet 40% van de arbeid.
+
+Relevantie: Breng dit in bij financieel gedreven klanten met meerdere entiteiten met de vraag: welke terugkerende afsluitingstaken hebben een vaste eigenaar, deadline en afhankelijkheden, en zouden dus door een agent met beperkte rechten kunnen lopen?</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-pamarco-agents-maandafsluiting</guid>
+</item>
+<item>
+<title>BC 29 Copilot-chat: klantgesprek voorbereiden met BC-, agenda- en M365-gegevens</title>
+<link>https://thinkaboutit.be/2026/11/business-central-29-exploring-the-new-microsoft-copilot-chat/</link>
+<description>In de demo van het Business Central 2026 release wave 2 Launch Event vond Copilot het geplande klantgesprek in de agenda, haalde klantinformatie en verkoopcijfers uit Business Central en maakte een salesbrief met accountrisico's en gespreksonderwerpen. Ook analyseerde Copilot langzaam lopende artikelen en stelde acties voor, zoals bundelen of cross-selling. Volgens de bron blijven de adviezen afhankelijk van menselijk oordeel. Resultaten zijn niet gemeten.
+
+Relevantie: Laat dit zien aan klanten met accountmanagers of projectleiders met de vraag: hoeveel tijd kost het nu om voor een klantafspraak cijfers, openstaande orders en risico's bij elkaar te zoeken?</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-bc29-copilot-chat-klantgesprek-voorbereiding</guid>
 </item>
 <item>
 <title>J&amp;J Construction: van opgenomen locatiebezoek naar conceptbegroting, 3 naar 10 begrotingen per week (Field24)</title>
