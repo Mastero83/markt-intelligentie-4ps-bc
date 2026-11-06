@@ -5,7 +5,27 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Thu, 05 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>4PS toont AI-agents voor bouw, infra en installatie op DigiBouw (25-26 nov)</title>
+<link>https://www.4ps.nl/actueel/digibouw/</link>
+<description>4PS geeft op DigiBouw 2026 in Utrecht een sessie over AI-agents die repetitieve taken automatiseren in de bouw-, infra- en installatiesector, met concrete voorbeelden. Publicatiedatum van de aankondiging is onbekend.
+
+Relevantie: Directe signalen van 4PS zelf over hun AI-agentroadmap; handig om klanten naar door te verwijzen of zelf bij te wonen.</description>
+<pubDate>Fri, 06 Nov 2026 08:30:00 +0000</pubDate>
+<category>events</category>
+<guid isPermaLink="false">radar-4ps-digibouw-ai-agents-sessie</guid>
+</item>
+<item>
+<title>Copilot in Business Central: welke licenties zijn nodig (TSO)</title>
+<link>https://www.tso.de/en/news/news/copilot-in-business-central-what-is-included-and-what-is-not/</link>
+<description>Volgens TSO blijven de ingebouwde Copilot-functies en vragen over Business Central-data zonder extra Microsoft 365 Copilot-licentie beschikbaar. Voor Microsoft 365-data via Work IQ is wel een Copilot-licentie nodig en autonome BC-agents verbruiken Copilot Credits. Vanaf 1 januari 2027 komt via CSP een bundel BC plus Microsoft 365 Copilot voor bedrijven tot 300 gebruikers.
+
+Relevantie: Helpt in klantgesprekken om uit te leggen wat Copilot in BC (en daarmee 4PS Construct) kost en wanneer extra licenties of credits nodig zijn.</description>
+<pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">radar-tso-copilot-licentie-bc-20261105</guid>
+</item>
 <item>
 <title>Wisconsin Built: AI-tekeningreview vindt achteraf het verlies op een afgerond project (Nomic)</title>
 <link>https://www.nomic.ai/case-studies/wisconsin-built</link>

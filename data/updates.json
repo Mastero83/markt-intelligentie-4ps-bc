@@ -2778,5 +2778,49 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-tso-copilot-licentie-bc-20261105",
+    "datum": "2026-11-05",
+    "gemeld_op": "2026-11-06",
+    "onderwerp": "Copilot in Business Central: welke licenties zijn nodig (TSO)",
+    "samenvatting": "Volgens TSO blijven de ingebouwde Copilot-functies en vragen over Business Central-data zonder extra Microsoft 365 Copilot-licentie beschikbaar. Voor Microsoft 365-data via Work IQ is wel een Copilot-licentie nodig en autonome BC-agents verbruiken Copilot Credits. Vanaf 1 januari 2027 komt via CSP een bundel BC plus Microsoft 365 Copilot voor bedrijven tot 300 gebruikers.",
+    "relevantie": "Helpt in klantgesprekken om uit te leggen wat Copilot in BC (en daarmee 4PS Construct) kost en wanneer extra licenties of credits nodig zijn.",
+    "categorie": "prijzen_licenties",
+    "tags": [
+      "copilot",
+      "licenties",
+      "copilot-credits",
+      "work-iq",
+      "bundel"
+    ],
+    "bronnen": [
+      {
+        "titel": "TSO: Copilot in Business Central, what is included and what is not",
+        "url": "https://www.tso.de/en/news/news/copilot-in-business-central-what-is-included-and-what-is-not/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-4ps-digibouw-ai-agents-sessie",
+    "datum": "2026-11-06",
+    "gemeld_op": "2026-11-06",
+    "onderwerp": "4PS toont AI-agents voor bouw, infra en installatie op DigiBouw (25-26 nov)",
+    "samenvatting": "4PS geeft op DigiBouw 2026 in Utrecht een sessie over AI-agents die repetitieve taken automatiseren in de bouw-, infra- en installatiesector, met concrete voorbeelden. Publicatiedatum van de aankondiging is onbekend.",
+    "relevantie": "Directe signalen van 4PS zelf over hun AI-agentroadmap; handig om klanten naar door te verwijzen of zelf bij te wonen.",
+    "categorie": "events",
+    "tags": [
+      "4ps",
+      "digibouw",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "4PS: DigiBouw 2026",
+        "url": "https://www.4ps.nl/actueel/digibouw/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
