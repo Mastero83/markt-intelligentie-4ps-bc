@@ -2888,5 +2888,98 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-4ps-directions-emea-copilot-business-skills",
+    "datum": "2026-11-02",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "4PS: lessen uit Directions EMEA over Copilot en Business Skills",
+    "samenvatting": "4PS meldt op LinkedIn dat het met 28 collega's op Directions for Partners EMEA in Parijs was. Volgens 4PS schuift AI op van ondersteuning naar een actieve rol in bedrijfsprocessen, met Copilot in Business Central en Business Skills, en onderzoekt 4PS hoe dit naar toepassingen in 4PS Construct vertaald kan worden.",
+    "relevantie": "Eerste publieke signaal dat 4PS Copilot in BC en Business Skills actief onderzoekt voor 4PS Construct.",
+    "categorie": "ai_features",
+    "tags": [
+      "4ps",
+      "copilot",
+      "business-skills",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "4PS op LinkedIn: AI moet werken",
+        "url": "https://nl.linkedin.com/posts/4ps_3_4psbyhilti-businesscentral-copilot-activity-7522996249235488769-0lu0"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-edit-with-copilot-partner-ea-solution-builder",
+    "datum": "2026-11-08",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "Edit with Copilot: partner early access alleen in US/UK/DE-sandboxes; MCP-gatewayapp Solution Builder",
+    "samenvatting": "Volgens een Directions EMEA-recap van partner Equerra kan Copilot in BC met Edit with Copilot records aanmaken, wijzigen en verwijderen en acties uitvoeren als de ingelogde gebruiker, binnen diens rechten. Early access voor partners draait alleen op partnersandboxes in de VS, het VK en Duitsland; public preview is gepland voor april 2027. Equerra noemt ook zijn BC-app Elevate Solution Builder, een laag tussen BC en MCP-clients met beheer van tabellen en operaties, policycontrole en logging van writes.",
+    "relevantie": "Partners hebben ongeveer vijf maanden om te testen hoe schrijvende Copilot omgaat met eigen extensies zoals 4PS Construct.",
+    "categorie": "ai_features",
+    "tags": [
+      "copilot",
+      "edit-with-copilot",
+      "mcp",
+      "partners",
+      "directions-emea"
+    ],
+    "bronnen": [
+      {
+        "titel": "Equerra: Directions EMEA 2026 recap",
+        "url": "https://equerra.com/blog/directions-emea-2026-recap"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-buildops-service-agents",
+    "datum": "2026-11-05",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "BuildOps Service Agents voor installateurs: Revenue, Service Coordinator en Billing",
+    "samenvatting": "BuildOps introduceerde op Forge 2026 drie AI-agents voor commerciële installateurs: een agent die niet-geoffreerd werk en stilgevallen offertes vindt, een die vastgelopen werkorders signaleert en een die facturen opbouwt volgens klantafspraken. Niets gaat naar de klant zonder menselijke goedkeuring. De Revenue Agent is in early access, de rest volgt in januari 2027.",
+    "relevantie": "Concurrerend voorbeeld van agents in service- en installatiesoftware, een domein waar 4PS Construct ook service en onderhoud afdekt.",
+    "categorie": "concurrentie",
+    "tags": [
+      "buildops",
+      "installatie",
+      "service",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "BuildOps: Welcome Service Agents",
+        "url": "https://buildops.com/resources/welcome-buildops-service-agents-revenue-service-coordinator-and-billing"
+      },
+      {
+        "titel": "citybiz: BuildOps launches AI agents",
+        "url": "https://www.citybiz.co/article/930562/buildops-launches-ai-agents-for-contractors-with-more-work-than-workers/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-sage-intacct-partner-agents-wipfli-job-insights",
+    "datum": "2026-11-05",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "Sage Intacct: partner-agents, waaronder Wipfli Job Insights Agent voor bouw",
+    "samenvatting": "Op Sage Future for Partners toonde Sage partner-gebouwde finance-agents voor Sage Intacct. Wipfli's Job Insights Agent voor bouw- en projectbedrijven toont via Sage Copilot projectwinstgevendheid, cost to complete en facturatie uit Intacct- en Procore-data. Sage plant AI Workspaces als hub voor agents; de eerste (crediteuren) start in november in beperkte uitrol.",
+    "relevantie": "Concurrerende ERP met een agent-marketplace en een bouwspecifieke projectagent, vergelijkbaar met wat partners op BC/4PS kunnen bouwen.",
+    "categorie": "concurrentie",
+    "tags": [
+      "sage-intacct",
+      "ai-agents",
+      "bouw",
+      "projectcontrol"
+    ],
+    "bronnen": [
+      {
+        "titel": "ERP Today: Sage details partner-built Intacct finance agents",
+        "url": "https://erp.today/sage-details-partner-built-intacct-finance-agents/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

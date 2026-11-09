@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Fri, 06 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Edit with Copilot: partner early access alleen in US/UK/DE-sandboxes; MCP-gatewayapp Solution Builder</title>
+<link>https://equerra.com/blog/directions-emea-2026-recap</link>
+<description>Volgens een Directions EMEA-recap van partner Equerra kan Copilot in BC met Edit with Copilot records aanmaken, wijzigen en verwijderen en acties uitvoeren als de ingelogde gebruiker, binnen diens rechten. Early access voor partners draait alleen op partnersandboxes in de VS, het VK en Duitsland; public preview is gepland voor april 2027. Equerra noemt ook zijn BC-app Elevate Solution Builder, een laag tussen BC en MCP-clients met beheer van tabellen en operaties, policycontrole en logging van writes.
+
+Relevantie: Partners hebben ongeveer vijf maanden om te testen hoe schrijvende Copilot omgaat met eigen extensies zoals 4PS Construct.</description>
+<pubDate>Sun, 08 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-edit-with-copilot-partner-ea-solution-builder</guid>
+</item>
 <item>
 <title>4PS toont AI-agents voor bouw, infra en installatie op DigiBouw (25-26 nov)</title>
 <link>https://www.4ps.nl/actueel/digibouw/</link>
@@ -15,6 +25,26 @@ Relevantie: Directe signalen van 4PS zelf over hun AI-agentroadmap; handig om kl
 <pubDate>Fri, 06 Nov 2026 08:30:00 +0000</pubDate>
 <category>events</category>
 <guid isPermaLink="false">radar-4ps-digibouw-ai-agents-sessie</guid>
+</item>
+<item>
+<title>Sage Intacct: partner-agents, waaronder Wipfli Job Insights Agent voor bouw</title>
+<link>https://erp.today/sage-details-partner-built-intacct-finance-agents/</link>
+<description>Op Sage Future for Partners toonde Sage partner-gebouwde finance-agents voor Sage Intacct. Wipfli's Job Insights Agent voor bouw- en projectbedrijven toont via Sage Copilot projectwinstgevendheid, cost to complete en facturatie uit Intacct- en Procore-data. Sage plant AI Workspaces als hub voor agents; de eerste (crediteuren) start in november in beperkte uitrol.
+
+Relevantie: Concurrerende ERP met een agent-marketplace en een bouwspecifieke projectagent, vergelijkbaar met wat partners op BC/4PS kunnen bouwen.</description>
+<pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-sage-intacct-partner-agents-wipfli-job-insights</guid>
+</item>
+<item>
+<title>BuildOps Service Agents voor installateurs: Revenue, Service Coordinator en Billing</title>
+<link>https://buildops.com/resources/welcome-buildops-service-agents-revenue-service-coordinator-and-billing</link>
+<description>BuildOps introduceerde op Forge 2026 drie AI-agents voor commerciële installateurs: een agent die niet-geoffreerd werk en stilgevallen offertes vindt, een die vastgelopen werkorders signaleert en een die facturen opbouwt volgens klantafspraken. Niets gaat naar de klant zonder menselijke goedkeuring. De Revenue Agent is in early access, de rest volgt in januari 2027.
+
+Relevantie: Concurrerend voorbeeld van agents in service- en installatiesoftware, een domein waar 4PS Construct ook service en onderhoud afdekt.</description>
+<pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-buildops-service-agents</guid>
 </item>
 <item>
 <title>Copilot in Business Central: welke licenties zijn nodig (TSO)</title>
@@ -155,6 +185,16 @@ Relevantie: Raakt de finance-gebruikers van BC- en 4PS-klanten direct en sluit a
 <pubDate>Tue, 03 Nov 2026 08:30:00 +0000</pubDate>
 <category>ai_features</category>
 <guid isPermaLink="false">radar-m365-copilot-accounting-excel-cowork-mc1536053</guid>
+</item>
+<item>
+<title>4PS: lessen uit Directions EMEA over Copilot en Business Skills</title>
+<link>https://nl.linkedin.com/posts/4ps_3_4psbyhilti-businesscentral-copilot-activity-7522996249235488769-0lu0</link>
+<description>4PS meldt op LinkedIn dat het met 28 collega's op Directions for Partners EMEA in Parijs was. Volgens 4PS schuift AI op van ondersteuning naar een actieve rol in bedrijfsprocessen, met Copilot in Business Central en Business Skills, en onderzoekt 4PS hoe dit naar toepassingen in 4PS Construct vertaald kan worden.
+
+Relevantie: Eerste publieke signaal dat 4PS Copilot in BC en Business Skills actief onderzoekt voor 4PS Construct.</description>
+<pubDate>Mon, 02 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-4ps-directions-emea-copilot-business-skills</guid>
 </item>
 <item>
 <title>Pamarco: agents voeren ongeveer 40% van de maandafsluitingstaken uit in Dynamics 365</title>
