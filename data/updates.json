@@ -2981,5 +2981,129 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-hollema-bouw-ai-agents-exact-bouw7-sterc",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "Hollema Bouw: vier AI-agents voor reisuren, materieel, inkoopcontrole en bouwvergaderingen (Exact Bouw7)",
+    "samenvatting": "Probleem: de administratie van Hollema Bouw was veel tijd kwijt aan het uitrekenen van reisuren volgens de CAO Bouw & Infra, het koppelen van machines aan projecten, het regel voor regel vergelijken van offertes en facturen en het uitwerken van bouwvergaderingen. Oplossing: Sterc bouwde op zijn platform Sterc.ONE vier assistenten en agents, gekoppeld aan Exact Bouw7 en Geotrack: een reisurenagent (rittijden plus gewerkte uren, met onderscheid chauffeur en bijrijder), een materieelagent (GPS-posities van machines vergeleken met projectlocaties), een inkoopcontroleassistent (verschillen tussen offerte en factuur plus conceptmail aan de leverancier) en een vergaderassistent (transcript, notulen en actiepunten). Resultaat volgens de bron: minder handmatig uitzoekwerk en meer overzicht, met menselijke controle op uren en financiële gegevens; harde cijfers noemt de bron niet.",
+    "relevantie": "Sterk voorbeeld voor een aannemer met eigen materieel en buitendienstploegen: vraag hoe ze nu reisuren en materieelkosten aan projecten toerekenen, want hetzelfde kan op 4PS Construct met uren-, materieel- en projectdata uit BC.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "exact-bouw7",
+      "concurrentie",
+      "ai-agents",
+      "reisuren",
+      "materieel",
+      "inkoopcontrole",
+      "notulen"
+    ],
+    "bronnen": [
+      {
+        "titel": "Sterc: Hollema Bouw, slimmer bouwen met AI-assistenten",
+        "url": "https://sterc.com/nl/werc/hollema-bouw"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-khaab-7-agents-business-central-groothandel",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "Importeur/groothandel: zeven AI-agents op Business Central, offertes via chat met vaste prijsengine (Khaab AI)",
+    "samenvatting": "Probleem: bij een import- en distributiebedrijf (omzet volgens de bron meer dan 40 miljoen dollar) wachtten verkopers op het management voor prijzen, werden offertes in spreadsheets nagerekend en lagen certificaten verspreid in mailboxen. Oplossing: Khaab AI bouwde zeven agents op live Business Central-data, onder meer voor inkoopadvies (voorraad, valuta en grondstofprijzen), offertes, datakwaliteit en certificaatverloop, kennisvragen en backoffice. De offerte-agent werkt vanuit een Slack-DM en rekent prijzen met een deterministische engine, zodat het taalmodel nooit zelf een getal verzint; een mens dient de offerte in en keurt goed. Alles draait in de eigen Azure-omgeving met rolgebaseerde toegang en audittrail. Resultaat volgens de bron: verkopers krijgen conceptoffertes in hun chattool, het management keurt goed in plaats van na te rekenen, en elke actie met geld erin blijft door een mens goedgekeurd.",
+    "relevantie": "Handig voor groothandels en bouwtoeleveranciers op BC die bang zijn dat AI verkeerde prijzen geeft: vraag wie bij hen nu de prijzen in een offerte controleert en leg uit dat de prijs uit BC-regels komt en de AI alleen voorbereidt.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "ai-agents",
+      "offertes",
+      "groothandel",
+      "human-in-the-loop",
+      "azure",
+      "prijzen"
+    ],
+    "bronnen": [
+      {
+        "titel": "Khaab AI: 7-agent AI ecosystem on Business Central",
+        "url": "https://khaab.ai/projects/ai-agent-ecosystem-business-central-distributor"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-ac-scotland-trimble-projectsight-ai-tekeningen",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "AC Scotland: AI leest titelblokken van tekeningen, 250 tekeningen in minuten (Trimble ProjectSight)",
+    "samenvatting": "Probleem: het grond- en civieltechnische bedrijf AC Scotland verwerkt zo'n 200 bouwplaatsen per jaar met gemiddeld 250 tekeningen per plaats; tekeningen kwamen per e-mail binnen en werden met de hand in een Excel-register overgetypt, wat zes tot acht uur en soms twee dagen per bouwplaats kostte. Oplossing: Trimble ProjectSight, waarvan de AI titelblokken van tekeningen automatisch uitleest en invult, plus een PDF-vergelijking die revisies over elkaar legt. Resultaat volgens de bron: uploaden en verdelen van 250 tekeningen kost nu 5 tot 10 minuten in plaats van tot twee dagen, en uitvoerders werken op hun telefoon, tablet of Trimble-controller met actuele tekeningen.",
+    "relevantie": "Goed voor infra- en grondwerkbedrijven die met veel tekeningrevisies werken: vraag hoe ze nu tekeningen registreren en verdelen, en verken of documentherkenning met AI dit binnen het 4PS-documentbeheer of via Power Automate kan oppakken.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "infra",
+      "trimble",
+      "concurrentie",
+      "tekeningen",
+      "documentbeheer",
+      "ai-documentherkenning"
+    ],
+    "bronnen": [
+      {
+        "titel": "Trimble: AC Scotland boosts efficiency with ProjectSight",
+        "url": "https://www.trimble.com/en/resources/construction/case-study/ac-scotland-boosts-efficiency-projectsight"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-hofman-kozijnen-calculator-agent-goodzo",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "Hofman Kozijnen: calculatie-agent leest bouwtekeningen uit, van e-mail tot calculatieklaar project (Goodzo)",
+    "samenvatting": "Probleem: kozijnenmaker Hofman Kozijnen kon de groei aan aanvragen niet bijbenen; per aanvraag ging één tot drie uur op aan downloaden, sorteren en overtypen, waardoor volgens de bron maar 10% van de aanvragen behandeld werd en 25% van de productiecapaciteit benut werd. Oplossing: Goodzo by Alistar bouwde op Microsoft Azure een platform dat binnenkomende e-mails met AI classificeert, bestanden van verschillende deelplatforms ophaalt en per document analyseert; een calculatie-agent leest met vision-AI tekeningen uit (kozijnen, maten, glassoorten, materialen) en levert een dataset die de calculator controleert. Resultaat volgens de bron: de stap van binnengekomen e-mail tot kunnen rekenen gaat van uren naar minuten, en Hofman verwerkt merkbaar meer aanvragen met hetzelfde team.",
+    "relevantie": "Herkenbaar voor bouwtoeleveranciers en prefab-producenten met een volle calculatie-afdeling: vraag hoeveel aanvragen ze laten liggen door voorwerk, en schets hoe zo'n voorbewerking kan uitmonden in een calculatie of verkoopofferte in BC of 4PS.",
+    "categorie": "use_case",
+    "tags": [
+      "bouwtoelevering",
+      "calculatie",
+      "offertes",
+      "vision-ai",
+      "azure",
+      "e-mailverwerking",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Computable Awards 2026: Calculator Agent (Goodzo by Alistar en Hofman Kozijnen)",
+        "url": "https://www.computable.nl/awards/2026/inzendingen/digitale-innovatie/goodzo-by-alistar-calculator-agent-hofman-kozijnen-2/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-avista-oil-claude-code-al-ontwikkeling-pexon",
+    "datum": "2026-10-29",
+    "gemeld_op": "2026-11-09",
+    "onderwerp": "Avista Oil: kleine BC-aanpassingen zelf bouwen met Claude Code op de AL-code (Pexon)",
+    "samenvatting": "Probleem: bij Avista Oil was elke aanpassing aan Business Central een externe opdracht met offerte, planning en meerdere mandagen, waardoor kleine wensen bleven liggen. Oplossing: Pexon Consulting zette Claude Code in als agentische ontwikkeltool op de AL-code van de BC-extensies, gecontroleerd door de compiler en een menselijke review, en legde tegelijk regels vast voor gebruik (zakelijke accounts, grenzen aan welke bedrijfsdata in een prompt mag). Resultaat volgens de bron: wensen die eerder meerdere mandagen externe hulp vroegen, regelt het team nu zelf in ongeveer 30 minuten; de genoemde drievoudige productiviteit is een eigen inschatting van het team, niet gemeten.",
+    "relevantie": "Bruikbaar bij klanten met een eigen IT-afdeling en een lange lijst kleine BC-wensen: vraag hoeveel van die wensen blijven liggen en bespreek welke governance (code-review, dataregels) nodig is voordat AI-ondersteund ontwikkelen kan.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "al-ontwikkeling",
+      "ai-coding",
+      "governance",
+      "maatwerk"
+    ],
+    "bronnen": [
+      {
+        "titel": "Pexon Consulting: Claude Code für Dynamics 365 Business Central bei Avista Oil",
+        "url": "https://pexon-consulting.de/casestudie/avista-oil-claude-code-dynamics-365-business-central/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
