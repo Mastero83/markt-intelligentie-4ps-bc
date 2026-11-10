@@ -3105,5 +3105,33 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-trimble-connect-ai-agent-studio-scheduling",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-10",
+    "onderwerp": "Trimble Connect krijgt AI-laag: Trimble Assist, Agent Studio, factuurmatching en agentische planning",
+    "samenvatting": "Trimble kondigde op Trimble Dimensions nieuwe AI-functies voor het bouwplatform Trimble Connect aan: Trimble Assist als conversationele interface, Agent Studio waarmee klanten eigen agents en skills bouwen, AI-factuurmatching tegen inkooporders en ontvangstbonnen, en Trimble Connect Scheduling met een agentische planningsengine die risico's signaleert en aanpassingen voorstelt ter goedkeuring. Change Order Automation, met ERP-gesynchroniseerde meerwerkvoorstellen, is nog in ontwikkeling; Scheduling is beschikbaar in Noord-Amerika.",
+    "relevantie": "Een grote bouwsoftwareconcurrent zet agents op inkoop, facturen, meerwerk en planning, precies de processen waar 4PS Construct op BC sterk in is, inclusief ERP-koppeling.",
+    "categorie": "concurrentie",
+    "tags": [
+      "trimble",
+      "bouw",
+      "ai-agents",
+      "factuurmatching",
+      "planning",
+      "meerwerk"
+    ],
+    "bronnen": [
+      {
+        "titel": "Trimble: New Trimble Connect Platform AI Capabilities",
+        "url": "https://news.trimble.com/2026-11-09-Trimble-Launches-New-Trimble-Connect-Platform-AI-Capabilities-Aimed-at-De-Risking-Construction"
+      },
+      {
+        "titel": "Trimble: AI-Accelerated Scheduling Solution",
+        "url": "https://news.trimble.com/2026-11-09-Trimble-Launches-New-AI-Accelerated-Scheduling-Solution-to-Help-Contractors-Protect-Project-Milestones"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

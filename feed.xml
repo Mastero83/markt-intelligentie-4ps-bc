@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Mon, 09 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Trimble Connect krijgt AI-laag: Trimble Assist, Agent Studio, factuurmatching en agentische planning</title>
+<link>https://news.trimble.com/2026-11-09-Trimble-Launches-New-Trimble-Connect-Platform-AI-Capabilities-Aimed-at-De-Risking-Construction</link>
+<description>Trimble kondigde op Trimble Dimensions nieuwe AI-functies voor het bouwplatform Trimble Connect aan: Trimble Assist als conversationele interface, Agent Studio waarmee klanten eigen agents en skills bouwen, AI-factuurmatching tegen inkooporders en ontvangstbonnen, en Trimble Connect Scheduling met een agentische planningsengine die risico's signaleert en aanpassingen voorstelt ter goedkeuring. Change Order Automation, met ERP-gesynchroniseerde meerwerkvoorstellen, is nog in ontwikkeling; Scheduling is beschikbaar in Noord-Amerika.
+
+Relevantie: Een grote bouwsoftwareconcurrent zet agents op inkoop, facturen, meerwerk en planning, precies de processen waar 4PS Construct op BC sterk in is, inclusief ERP-koppeling.</description>
+<pubDate>Mon, 09 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-trimble-connect-ai-agent-studio-scheduling</guid>
+</item>
 <item>
 <title>Importeur/groothandel: zeven AI-agents op Business Central, offertes via chat met vaste prijsengine (Khaab AI)</title>
 <link>https://khaab.ai/projects/ai-agent-ecosystem-business-central-distributor</link>
