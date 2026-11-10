@@ -3133,5 +3133,125 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-trimble-connect-scheduling-agentische-planning",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-10",
+    "onderwerp": "Trimble Connect Scheduling: agent koppelt bouwplanning aan RFI's, weer en weekplanning (DILFO Mechanical, Consolidated Construction)",
+    "samenvatting": "Probleem: planningen in de bouw lopen achter de werkelijkheid aan doordat kantoor en uitvoering met losse spreadsheets, whiteboards, mail en telefoon werken, waardoor vertragingsrisico's laat zichtbaar worden. Oplossing: Trimble Connect Scheduling koppelt de hoofdplanning met een agentische planningsengine aan actuele projectdata zoals weekplanningen van de uitvoering, RFI's, weersverwachtingen, dagrapporten en submittals, berekent doorlopend risico en stelt aanpassingen voor die het team beoordeelt en goedkeurt. Resultaat volgens de bron: ontwikkeld en getest met aannemers in de afgelopen maanden; DILFO Mechanical noemt het gebruiksvriendelijk genoeg voor de uitvoering en Consolidated Construction prijst de flexibiliteit van mijlpalen tot details. Harde cijfers noemt de bron niet; beschikbaar in Noord-Amerika.",
+    "relevantie": "Inbrengen bij bouw- en installatiebedrijven die projecten in 4PS Construct plannen: vraag hoe uitvoering en kantoor nu planningswijzigingen delen en of een agent die openstaande vragen en weer naast de 4PS-planning legt hen eerder zou waarschuwen.",
+    "categorie": "use_case",
+    "tags": [
+      "trimble",
+      "concurrentie",
+      "planning",
+      "agents",
+      "bouw",
+      "installatie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Trimble: Trimble Launches New AI-Accelerated Scheduling Solution (9 nov 2026)",
+        "url": "https://news.trimble.com/2026-11-09-Trimble-Launches-New-AI-Accelerated-Scheduling-Solution-to-Help-Contractors-Protect-Project-Milestones"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-trimble-connect-factuurmatching-meerwerk-erp",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-10",
+    "onderwerp": "Trimble Connect: AI matcht leveranciersfacturen met inkooporder en afleverbon, en maakt meerwerkvoorstellen voor het ERP",
+    "samenvatting": "Probleem: verschillen tussen leveranciersfacturen, bestellingen en wat er werkelijk op de bouwplaats is geleverd worden laat ontdekt, en meerwerk uit contractstukken moet handmatig worden uitgezocht. Oplossing: Trimble kondigde op Trimble Dimensions AI-inkoop- en factuurmatching aan die facturen automatisch vergelijkt met inkooporders en afleverbonnen uit het veld en afwijkingen markeert, plus contractrisico-analyse die conceptmeerwerkorders met arbeid, materiaal en opslag klaarzet in het ERP voor menselijke beoordeling. Resultaat volgens de bron: factuurmatching is nu beschikbaar, de meerwerkautomatisering is nog in ontwikkeling; klantresultaten worden niet genoemd.",
+    "relevantie": "Goed voor het gesprek met financieel managers van aannemers op 4PS of BC: vraag hoe vaak facturen niet kloppen met wat er geleverd is en laat zien dat de Payables Agent met inkoopordermatching in BC dezelfde driehoek (factuur, order, ontvangst) kan bewaken.",
+    "categorie": "use_case",
+    "tags": [
+      "trimble",
+      "concurrentie",
+      "inkoopfacturen",
+      "meerwerk",
+      "payables-agent",
+      "bouw"
+    ],
+    "bronnen": [
+      {
+        "titel": "Trimble: New Trimble Connect Platform AI Capabilities (9 nov 2026)",
+        "url": "https://news.trimble.com/2026-11-09-Trimble-Launches-New-Trimble-Connect-Platform-AI-Capabilities-Aimed-at-De-Risking-Construction"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-cleveland-construction-submittal-review-trunk-tools",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-10",
+    "onderwerp": "Cleveland Construction: AI controleert submittals tegen het bestek, van 2+ uur naar ongeveer 10 minuten (Trunk Tools)",
+    "samenvatting": "Probleem: projecten met duizenden submittals en bestekken van duizenden pagina's zorgden dat medewerkers uren kwijt waren aan zoeken en dat minder ervaren mensen details misten, met risico op herstelwerk. Oplossing: Trunk Tools als AI-laag op Autodesk Forma; TrunkSubmittal vergelijkt een binnenkomende submittal met bestek en RFI-antwoorden en markeert afwijkende regels, TrunkText beantwoordt vragen over projectdocumenten in gewone taal vanaf de telefoon op de bouwplaats. Resultaat volgens de bron: eerste beoordeling van 2+ uur naar circa 10 minuten, volledige doorlooptijd van meerdere dagen naar 2-3 uur, zoeken in het veld van 20+ naar 2 minuten, en naar schatting 790+ uur en $60K+ bespaard over vier projecten.",
+    "relevantie": "Inbrengen bij aannemers en installateurs die veel tijd kwijt zijn aan controle van leveranciersdocumentatie: vraag wie nu productinformatie toetst aan het bestek en hoeveel herstelwerk door gemiste details ontstaat, en verken of dat met Copilot Studio naast 4PS-projectdocumenten kan.",
+    "categorie": "use_case",
+    "tags": [
+      "autodesk",
+      "concurrentie",
+      "bestek",
+      "documentcontrole",
+      "bouwplaats",
+      "agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Trunk Tools: Case Study Cleveland Construction x ACC x Trunk Tools",
+        "url": "https://trunktools.com/content/customers/pdfs/cleveland.pdf"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-haskell-datagrid-procore-agents",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-10",
+    "onderwerp": "Haskell: AI-agents op Procore-data, submittal-review van een week naar 10 minuten (Datagrid)",
+    "samenvatting": "Probleem: ondanks gestandaardiseerde projectdata in Procore bleven teams veel tijd kwijt aan zoeken in tekeningen, RFI's en submittals. Oplossing: Haskell zette Datagrid als agentisch AI-platform bovenop Procore, met standaardagents zoals Deep Search, Submittal Reviewer en RFI Checker plus eigen agents, zodat gebruikers vragen in gewone taal stellen en controleerbare antwoorden met bron krijgen; de uitrol begon met eenvoudige zoekfuncties. Resultaat volgens de bron: een submittal-review die normaal een week kost, duurde 10 minuten; minder administratieve last en snellere beslissingen, met snelle adoptie op meerdere projecten.",
+    "relevantie": "Gebruik dit bij bouwbedrijven die hun data in 4PS al goed vastleggen: vraag waar medewerkers nog het meest zoeken en benadruk dat gestructureerde data de basis is voor agents, met de tip om klein te beginnen met zoeken in gewone taal.",
+    "categorie": "use_case",
+    "tags": [
+      "procore",
+      "concurrentie",
+      "agents",
+      "datakwaliteit",
+      "bouw",
+      "adoptie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Procore: Turning years of data into smarter decisions with Agentic AI (Haskell)",
+        "url": "https://www.procore.com/en-au/casestudies/haskell"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-jarola-orderverwerking-genai-ax-naar-bc-entr",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-10",
+    "onderwerp": "Jarola Groep: AI-orderverwerking live midden in de migratie van Dynamics AX naar Business Central (ENTR)",
+    "samenvatting": "Probleem: de technische groothandel (onder meer Wildkamp) verwerkt naast EDI een groot volume verkooporders in veel varianten en zat midden in de overstap van Dynamics AX naar Business Central, terwijl wachten op die migratie geen optie was. Oplossing: ENTR koppelde GenAI-extractie van inkomende orders aan het ERP met mapping van klanten en artikelen, validaties, review door een mens en een audittrail, zonder per klant een template; draaiend op AX en voorbereid op BC. Resultaat volgens de bron: live in 2,5 week na de kick-off, meer dan 30.000 orders per jaar buiten EDI om, en direct uitgerold naar een tweede bedrijf binnen de groep.",
+    "relevantie": "Inbrengen bij groothandels en toeleveranciers voor de bouw die een BC-migratie plannen: vraag of ze automatisering willen uitstellen tot na de migratie en laat zien dat orderinvoer met AI (ook via de Sales Order Agent) al tijdens de overstap kan starten.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "migratie",
+      "orderverwerking",
+      "groothandel",
+      "genai",
+      "nederland"
+    ],
+    "bronnen": [
+      {
+        "titel": "ENTR: Orderverwerking live midden in een ERP-migratie (Jarola Groep)",
+        "url": "https://entr.solutions/nl/cases/jarola-groep"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
