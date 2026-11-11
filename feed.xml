@@ -7,6 +7,16 @@
 <language>nl-nl</language>
 <lastBuildDate>Wed, 11 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Imperial Heritage Caviar: orders uit WhatsApp, mail, sms en telefoon via agents op de BC MCP-server (Deltanexx)</title>
+<link>https://www.microsoft.com/en/customers/story/27606-imperial-heritage-caviar-dynamics-365-business-central</link>
+<description>Probleem: orders kwamen binnen via WhatsApp, e-mail, sms en telefoon en het overtypen in Business Central kostte dagelijks één tot twee uur, met regelmatig correcties bij complexe orders met speciale prijzen. Oplossing: partner Deltanexx bouwde in enkele weken twee eigen agents (één in Copilot Studio, één met Claude) die via de Business Central MCP-server verkooporders aanmaken, nieuwe klanten aanleggen (met dubbelcheck) en een wekelijks klantopvolgingsrapport maken; de medewerker bevestigt altijd voordat er iets wordt geboekt. De standaard Sales Order Agent werd overwogen, maar die werkt vanuit e-mail en de klant wilde meerdere kanalen. Resultaat volgens de bron: orderinvoer kost minder dan 30 minuten per dag in plaats van één tot twee uur, en invoerfouten zijn vrijwel verdwenen.
+
+Relevantie: Goed voor groothandels en bedrijven die orders via losse kanalen zoals WhatsApp of telefoon krijgen; vraag: via welke kanalen komen uw orders binnen, en hoeveel tijd gaat er dagelijks op aan het overtypen in BC?</description>
+<pubDate>Wed, 11 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-imperial-heritage-caviar-bc-mcp-agents-2026-11-11</guid>
+</item>
+<item>
 <title>Work IQ Business Skills GA (nov 2026) en Business Applications in Copilot Cowork (GA dec 2026)</title>
 <link>https://mc.merill.net/message/RM573290</link>
 <description>Microsoft heeft roadmap-items gepubliceerd voor Business Skills in Work IQ MCP: natuurlijke-taalinstructies die processen, beleid en domeinkennis vastleggen, zodat agents ze tijdens runtime vinden en volgen (GA november 2026). Daarnaast krijgen gebruikers via Work IQ in Copilot Cowork toegang tot Business Applications om met Business Skills end-to-end processen af te ronden (GA december 2026).
@@ -25,6 +35,16 @@ Relevantie: Creditnota's waren een gat in de AI-verwerking van inkoopfacturen; d
 <pubDate>Wed, 11 Nov 2026 08:30:00 +0000</pubDate>
 <category>product_release</category>
 <guid isPermaLink="false">radar-bc-29-1-payables-agent-creditnotas-ga</guid>
+</item>
+<item>
+<title>Towne Millwork en E.M. Duggan: AI-assistent in de calculatie en hoeveelheden (Bluebeam Max)</title>
+<link>https://press.bluebeam.com/2026/11/while-most-construction-firms-are-still-piloting-ai-contractors-are-finding-real-world-results-with-bluebeam-max/</link>
+<description>Probleem: bij interieurbouwprojecten wijzigen materialen en afwerkingen vaak tijdens de calculatie, wat veel handwerk geeft in markeringen, hoeveelheden en het zoeken van projectinformatie. Oplossing: beide bedrijven gebruiken de AI-functies in Bluebeam Revu (Max-abonnement) direct in hun bestaande calculatieproces, zonder extra tool. Resultaat volgens de bron: Towne Millwork verwerkt revisies eenvoudiger en werkt consistenter in hoeveelheden; E.M. Duggan gebruikt het om basisgetallen te controleren en fouten te vangen die vroeger door de mand vielen, en komt sneller tot een betrouwbare begroting. Bluebeam noemt daarbij eigen onderzoek waarin maar 28% van de AEC-bedrijven AI in productie heeft.
+
+Relevantie: Interessant voor 4PS-klanten met een calculatieafdeling (bouw, installatie, interieurbouw); vraag: hoeveel tijd kost een revisie van tekeningen u nu in de calculatie, en hoe komen hoeveelheden uit uw tekentool in de 4PS-calculatie terecht?</description>
+<pubDate>Tue, 10 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-bluebeam-max-ai-calculatie-towne-millwork-em-duggan-2026-11-10</guid>
 </item>
 <item>
 <title>Asite lanceert vijf AI-agents in zijn bouw-CDE</title>
@@ -65,6 +85,16 @@ Relevantie: Inbrengen bij aannemers en installateurs die veel tijd kwijt zijn aa
 <pubDate>Tue, 10 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-cleveland-construction-submittal-review-trunk-tools</guid>
+</item>
+<item>
+<title>Infra-aannemer: AI-codering van rioolinspecties geeft 20% meer productie zonder extra ploeg (SewerAI)</title>
+<link>https://www.sewerai.com/resources/three-extra-months-production-without-adding-a-crew</link>
+<description>Probleem: een familiebedrijf in de infra (Midwest, VS) stond voor de keuze om ongeveer 1,6 miljoen dollar te investeren in een extra camerawagen en ploeg, of meer te halen uit de vijf bestaande wagens. Oplossing: zes maanden lang liet het één ploeg de inspectiebeelden met AI coderen (SewerAI AutoCode), met resultaten binnen 24 uur en alle beelden centraal doorzoekbaar. Resultaat volgens de bron: over 7.634 velduren steeg de dagproductie met 20%, ongeveer drie maanden extra output per jaar, de achterstand in handmatige codering verdween en 1,7 miljoen dollar aan investering werd vermeden.
+
+Relevantie: Bruikbaar bij GWW- en infraklanten op 4PS (riolering, inspectie, onderhoud); vraag: waar zit bij u de achterstand tussen het werk in het veld en de verwerking op kantoor, en wat zou 20% meer output per ploeg betekenen voor uw planning?</description>
+<pubDate>Mon, 09 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-sewerai-ai-codering-rioolinspectie-2026-11-09</guid>
 </item>
 <item>
 <title>Trimble Connect Scheduling: agent koppelt bouwplanning aan RFI's, weer en weekplanning (DILFO Mechanical, Consolidated Construction)</title>

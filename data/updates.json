@@ -3327,5 +3327,78 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-imperial-heritage-caviar-bc-mcp-agents-2026-11-11",
+    "datum": "2026-11-11",
+    "gemeld_op": "2026-11-11",
+    "onderwerp": "Imperial Heritage Caviar: orders uit WhatsApp, mail, sms en telefoon via agents op de BC MCP-server (Deltanexx)",
+    "samenvatting": "Probleem: orders kwamen binnen via WhatsApp, e-mail, sms en telefoon en het overtypen in Business Central kostte dagelijks één tot twee uur, met regelmatig correcties bij complexe orders met speciale prijzen. Oplossing: partner Deltanexx bouwde in enkele weken twee eigen agents (één in Copilot Studio, één met Claude) die via de Business Central MCP-server verkooporders aanmaken, nieuwe klanten aanleggen (met dubbelcheck) en een wekelijks klantopvolgingsrapport maken; de medewerker bevestigt altijd voordat er iets wordt geboekt. De standaard Sales Order Agent werd overwogen, maar die werkt vanuit e-mail en de klant wilde meerdere kanalen. Resultaat volgens de bron: orderinvoer kost minder dan 30 minuten per dag in plaats van één tot twee uur, en invoerfouten zijn vrijwel verdwenen.",
+    "relevantie": "Goed voor groothandels en bedrijven die orders via losse kanalen zoals WhatsApp of telefoon krijgen; vraag: via welke kanalen komen uw orders binnen, en hoeveel tijd gaat er dagelijks op aan het overtypen in BC?",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "mcp",
+      "copilot-studio",
+      "claude",
+      "orderinvoer",
+      "sales-order-agent",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "Microsoft Customer Story: Imperial Heritage Caviar",
+        "url": "https://www.microsoft.com/en/customers/story/27606-imperial-heritage-caviar-dynamics-365-business-central"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-bluebeam-max-ai-calculatie-towne-millwork-em-duggan-2026-11-10",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-11",
+    "onderwerp": "Towne Millwork en E.M. Duggan: AI-assistent in de calculatie en hoeveelheden (Bluebeam Max)",
+    "samenvatting": "Probleem: bij interieurbouwprojecten wijzigen materialen en afwerkingen vaak tijdens de calculatie, wat veel handwerk geeft in markeringen, hoeveelheden en het zoeken van projectinformatie. Oplossing: beide bedrijven gebruiken de AI-functies in Bluebeam Revu (Max-abonnement) direct in hun bestaande calculatieproces, zonder extra tool. Resultaat volgens de bron: Towne Millwork verwerkt revisies eenvoudiger en werkt consistenter in hoeveelheden; E.M. Duggan gebruikt het om basisgetallen te controleren en fouten te vangen die vroeger door de mand vielen, en komt sneller tot een betrouwbare begroting. Bluebeam noemt daarbij eigen onderzoek waarin maar 28% van de AEC-bedrijven AI in productie heeft.",
+    "relevantie": "Interessant voor 4PS-klanten met een calculatieafdeling (bouw, installatie, interieurbouw); vraag: hoeveel tijd kost een revisie van tekeningen u nu in de calculatie, en hoe komen hoeveelheden uit uw tekentool in de 4PS-calculatie terecht?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "hoeveelheden",
+      "bluebeam",
+      "concurrentie",
+      "4ps-construct"
+    ],
+    "bronnen": [
+      {
+        "titel": "Bluebeam: contractors finding real-world results with Bluebeam Max",
+        "url": "https://press.bluebeam.com/2026/11/while-most-construction-firms-are-still-piloting-ai-contractors-are-finding-real-world-results-with-bluebeam-max/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-sewerai-ai-codering-rioolinspectie-2026-11-09",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-11",
+    "onderwerp": "Infra-aannemer: AI-codering van rioolinspecties geeft 20% meer productie zonder extra ploeg (SewerAI)",
+    "samenvatting": "Probleem: een familiebedrijf in de infra (Midwest, VS) stond voor de keuze om ongeveer 1,6 miljoen dollar te investeren in een extra camerawagen en ploeg, of meer te halen uit de vijf bestaande wagens. Oplossing: zes maanden lang liet het één ploeg de inspectiebeelden met AI coderen (SewerAI AutoCode), met resultaten binnen 24 uur en alle beelden centraal doorzoekbaar. Resultaat volgens de bron: over 7.634 velduren steeg de dagproductie met 20%, ongeveer drie maanden extra output per jaar, de achterstand in handmatige codering verdween en 1,7 miljoen dollar aan investering werd vermeden.",
+    "relevantie": "Bruikbaar bij GWW- en infraklanten op 4PS (riolering, inspectie, onderhoud); vraag: waar zit bij u de achterstand tussen het werk in het veld en de verwerking op kantoor, en wat zou 20% meer output per ploeg betekenen voor uw planning?",
+    "categorie": "use_case",
+    "tags": [
+      "gww",
+      "infra",
+      "riolering",
+      "inspectie",
+      "ai",
+      "productiviteit"
+    ],
+    "bronnen": [
+      {
+        "titel": "SewerAI: three extra months of production without adding a crew",
+        "url": "https://www.sewerai.com/resources/three-extra-months-production-without-adding-a-crew"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
