@@ -5,7 +5,37 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Tue, 10 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Work IQ Business Skills GA (nov 2026) en Business Applications in Copilot Cowork (GA dec 2026)</title>
+<link>https://mc.merill.net/message/RM573290</link>
+<description>Microsoft heeft roadmap-items gepubliceerd voor Business Skills in Work IQ MCP: natuurlijke-taalinstructies die processen, beleid en domeinkennis vastleggen, zodat agents ze tijdens runtime vinden en volgen (GA november 2026). Daarnaast krijgen gebruikers via Work IQ in Copilot Cowork toegang tot Business Applications om met Business Skills end-to-end processen af te ronden (GA december 2026).
+
+Relevantie: Business Skills en BC in Cowork zijn de bouwstenen die Microsoft voor Business Central heeft aangekondigd en die 4PS noemt als basis voor AI in 4PS Construct.</description>
+<pubDate>Wed, 11 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-work-iq-business-skills-ga-cowork-business-apps</guid>
+</item>
+<item>
+<title>Business Central update 29.1: Payables Agent verwerkt creditnota's (GA), Expense Agent-uitbreidingen (preview)</title>
+<link>https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-29-1</link>
+<description>Volgens de what's new-pagina van update 29.1 is het verwerken van leverancierscreditnota's door de Payables Agent nu algemeen beschikbaar. De Expense Agent krijgt in public preview een tussentijdse goedkeurder bij het indienen en automatische declaratierapporten per reis.
+
+Relevantie: Creditnota's waren een gat in de AI-verwerking van inkoopfacturen; dit is direct bruikbaar voor de crediteurenadministratie bij BC- en 4PS-klanten.</description>
+<pubDate>Wed, 11 Nov 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc-29-1-payables-agent-creditnotas-ga</guid>
+</item>
+<item>
+<title>Asite lanceert vijf AI-agents in zijn bouw-CDE</title>
+<link>https://www.asite.com/news/5-new-asite-ai-agents</link>
+<description>Asite heeft op 10 november 2026 vijf AI-agents gelanceerd in zijn Common Data Environment: een metadata-reviewer voor documenten, een generator voor formuliertemplates, een workflowontwerper vanuit gewone taal, een validator voor keuringsaanvragen (WIR) en een bid-evaluator die inschrijvingen toetst aan de eisen. De agents signaleren en doen voorstellen; mensen nemen de beslissingen.
+
+Relevantie: Laat zien hoe bouwplatforms naast het ERP agents inzetten voor documentcontrole en aanbestedingen, processen die raken aan werkvoorbereiding en inkoop in 4PS Construct.</description>
+<pubDate>Tue, 10 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-asite-vijf-ai-agents-cde</guid>
+</item>
 <item>
 <title>Jarola Groep: AI-orderverwerking live midden in de migratie van Dynamics AX naar Business Central (ENTR)</title>
 <link>https://entr.solutions/nl/cases/jarola-groep</link>

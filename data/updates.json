@@ -3253,5 +3253,79 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-work-iq-business-skills-ga-cowork-business-apps",
+    "datum": "2026-11-11",
+    "gemeld_op": "2026-11-11",
+    "onderwerp": "Work IQ Business Skills GA (nov 2026) en Business Applications in Copilot Cowork (GA dec 2026)",
+    "samenvatting": "Microsoft heeft roadmap-items gepubliceerd voor Business Skills in Work IQ MCP: natuurlijke-taalinstructies die processen, beleid en domeinkennis vastleggen, zodat agents ze tijdens runtime vinden en volgen (GA november 2026). Daarnaast krijgen gebruikers via Work IQ in Copilot Cowork toegang tot Business Applications om met Business Skills end-to-end processen af te ronden (GA december 2026).",
+    "relevantie": "Business Skills en BC in Cowork zijn de bouwstenen die Microsoft voor Business Central heeft aangekondigd en die 4PS noemt als basis voor AI in 4PS Construct.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "work-iq",
+      "business-skills",
+      "copilot-cowork",
+      "mcp",
+      "roadmap"
+    ],
+    "bronnen": [
+      {
+        "titel": "RM573290 - Work IQ: Business Skills in Work IQ MCP",
+        "url": "https://mc.merill.net/message/RM573290"
+      },
+      {
+        "titel": "RM573293 - Copilot Cowork: Access Business Applications with Work IQ",
+        "url": "https://mc.merill.net/message/RM573293"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-29-1-payables-agent-creditnotas-ga",
+    "datum": "2026-11-11",
+    "gemeld_op": "2026-11-11",
+    "onderwerp": "Business Central update 29.1: Payables Agent verwerkt creditnota's (GA), Expense Agent-uitbreidingen (preview)",
+    "samenvatting": "Volgens de what's new-pagina van update 29.1 is het verwerken van leverancierscreditnota's door de Payables Agent nu algemeen beschikbaar. De Expense Agent krijgt in public preview een tussentijdse goedkeurder bij het indienen en automatische declaratierapporten per reis.",
+    "relevantie": "Creditnota's waren een gat in de AI-verwerking van inkoopfacturen; dit is direct bruikbaar voor de crediteurenadministratie bij BC- en 4PS-klanten.",
+    "categorie": "product_release",
+    "tags": [
+      "business-central",
+      "payables-agent",
+      "expense-agent",
+      "bc29",
+      "release"
+    ],
+    "bronnen": [
+      {
+        "titel": "Microsoft Learn: What's new in Business Central update 29.1",
+        "url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/whatsnew-update-29-1"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-asite-vijf-ai-agents-cde",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-11",
+    "onderwerp": "Asite lanceert vijf AI-agents in zijn bouw-CDE",
+    "samenvatting": "Asite heeft op 10 november 2026 vijf AI-agents gelanceerd in zijn Common Data Environment: een metadata-reviewer voor documenten, een generator voor formuliertemplates, een workflowontwerper vanuit gewone taal, een validator voor keuringsaanvragen (WIR) en een bid-evaluator die inschrijvingen toetst aan de eisen. De agents signaleren en doen voorstellen; mensen nemen de beslissingen.",
+    "relevantie": "Laat zien hoe bouwplatforms naast het ERP agents inzetten voor documentcontrole en aanbestedingen, processen die raken aan werkvoorbereiding en inkoop in 4PS Construct.",
+    "categorie": "concurrentie",
+    "tags": [
+      "asite",
+      "bouw",
+      "cde",
+      "ai-agents",
+      "aanbesteding"
+    ],
+    "bronnen": [
+      {
+        "titel": "Asite: AI Agents Take on Construction's Information Workload",
+        "url": "https://www.asite.com/news/5-new-asite-ai-agents"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
