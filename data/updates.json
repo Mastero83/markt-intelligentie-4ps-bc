@@ -3476,5 +3476,102 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-asite-wir-validator-bid-evaluator-2026-11-10",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "Asite: AI-agents controleren keuringsverzoeken en inschrijvingen voordat er fouten ontstaan",
+    "samenvatting": "Probleem: op bouwprojecten worden fouten in documenten (verkeerde revisiecode, ontbrekende tekeningverwijzing, gemiste scopegap bij aanbesteding) vaak pas weken later ontdekt, als herstel het duurst is; documenten worden één voor één met de hand gecontroleerd. Oplossing: Asite lanceerde op 10 november vijf AI-agents in zijn common data environment, waaronder een Work Inspection Request Validator die keuringsverzoeken vóór indiening controleert op ontbrekende velden, bijlagen en afwijkende omschrijvingen, vergelijkt met eerdere goedkeuringen en een gereedheidsscore met verbetervoorstellen geeft, en een Bid Evaluator die inschrijvingen naast de projecteisen legt en scopegaps, ontbrekende informatie en non-compliance markeert. Resultaat: de bron noemt geen klantresultaten; de agents markeren en stellen voor, mensen beslissen.",
+    "relevantie": "Bruikbaar bij aannemers op 4PS met veel onderaanneming en keuringen; vraag: hoe vaak wordt bij u een keuring of inkoopofferte teruggestuurd omdat er iets ontbreekt, en zou een controle-agent vóór indiening of vóór gunning tijd en meerwerk schelen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "ai-agents",
+      "keuringen",
+      "aanbesteding",
+      "onderaanneming",
+      "documentcontrole",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Asite AI Agents Take on Construction's Information Workload",
+        "url": "https://www.asite.com/news/5-new-asite-ai-agents"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-ageiro-ark-watcher-claimsignalering-2026-11-10",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "Ageiro Ark Watcher: AI bewaakt projectinformatie en waarschuwt vroeg voor claims en prijsgaten",
+    "samenvatting": "Probleem: projectteams moeten handmatig meerdere systemen nalopen om wijzigingen en risico's te vinden, waardoor issues erdoorheen glippen. Oplossing: Ageiro lanceerde op 10 november Ark Watcher, dat projectinformatie in onder meer Autodesk Forma, Oracle Aconex, Procore, SharePoint en Dropbox continu bewaakt: het vergelijkt bestekwijzigingen, signaleert inconsistenties in begrotingen en verschillen tussen aanbestedings- en onderaannemersprijzen, beoordeelt RFI's en submittals en geeft vroege waarschuwingen voor mogelijke claims. Elke melding linkt naar de bron en bevat een voorgestelde actie; de aannemer stelt zelf in wat bewaakt wordt. Resultaat: de bron noemt geen klantresultaten.",
+    "relevantie": "Bruikbaar bij middelgrote en grote aannemers op 4PS die worstelen met meerwerk en marge; vraag: hoe ontdekt u nu dat een bestekwijziging of onderaannemersprijs afwijkt van uw calculatie, en zou een dagelijkse signalering op uw 4PS-projectdata (calculatie versus inkoop) helpen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "ai-agents",
+      "meerwerk",
+      "claims",
+      "calculatie",
+      "risicobeheer",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "AEC Magazine: Ageiro launches Ark Watcher",
+        "url": "https://aecmag.com/project-management/ageiro-launches-ark-watcher/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-buildxact-blu-ai-calculatie-2026-11-10",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "Buildxact Blu: AI-assistent werkt de calculatie mee door voor kleinere woningbouwers",
+    "samenvatting": "Probleem: voor veel bouwers gaan de avonden op aan het maken van een kloppende begroting. Oplossing: Buildxact breidde op 10 november zijn AI Blu uit: vanuit projectgegevens of een bestaande begroting kan Blu met tekeningen en documenten als context scope, hoeveelheden of prijzen aanpassen, de begroting controleren op vergeten posten en projectdocumenten maken; elke wijziging wacht op goedkeuring van de gebruiker. Volgende stappen zijn onder meer geautomatiseerde hoeveelheden uit tekeningen en vakspecifieke pakketten. Resultaat: gebruikers zeggen in de bron dat het de tijd voor begrotingen verkort en items vangt die ze anders hadden gemist; er worden geen cijfers genoemd.",
+    "relevantie": "Bruikbaar bij kleinere aannemers en woningbouwers die calculeren in 4PS of Excel; vraag: hoeveel uur zit er in een gemiddelde begroting en hoe vaak vergeet u posten, zodat een AI-controle op basis van eerdere calculaties de moeite waard is?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "woningbouw",
+      "calculatie",
+      "ai-assistent",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Buildxact: Blu is taking on more of the work",
+        "url": "https://news.buildxact.com/162941-blu-is-taking-on-more-of-the-work"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-12build-ai-offertes-vergelijken-2026-11-11",
+    "datum": "2026-11-11",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "12Build: AI vat uitvragen samen en vergelijkt offertes, met de mens als controleur",
+    "samenvatting": "Probleem: uitvragen van aannemers en ontvangen offertes zijn lijvige documenten die veel tijd kosten om te beoordelen en te vergelijken. Oplossing: volgens Roy Welink (12Build) laat je AI deze documenten samenvatten en vergelijken, waarbij het model alleen naar de aangeleverde documenten kijkt en niet op internet zoekt, zodat het resultaat zo betrouwbaar mogelijk is. Resultaat en kanttekening uit de bron: een goed model zit er volgens Welink in ongeveer 70 procent van de gevallen goed; met marges rond 10 procent moet de gebruiker de uitkomst altijd zelf verifiëren.",
+    "relevantie": "Bruikbaar bij aannemers en installateurs op 4PS die veel onderaannemersoffertes uitvragen; vraag: hoe vergelijkt u nu offertes van onderaannemers, en zou een AI-samenvatting naast uw inkoopaanvraag in 4PS helpen als uw inkoper de eindcontrole houdt?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "inkoop",
+      "offertes",
+      "onderaanneming",
+      "ai",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "Bouw en Installatie Hub: De échte winst van AI in de bouw",
+        "url": "https://www.bouweninstallatiehub.nl/artikelen/de-echte-winst-van-ai-in-de-bouw-geen-vervanging-maar-handig-hulpmiddel/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
