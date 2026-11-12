@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Wed, 11 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Expense Agent: verbruik per bon gehalveerd naar 25 Copilot Credits plus gratis trial van 50 uitgaven (BC 29.1)</title>
+<link>https://mohana-dynamicsnav.blogspot.com/2026/11/</link>
+<description>Volgens een BC-blog (11 nov) daalt het verbruik van de Expense Agent met versie 29.1 van 50 naar 25 Copilot Credits per verwerkte bon (ca. $0,25 bij pay-as-you-go) en komt er een gratis trial van 50 uitgaven per omgeving, vergelijkbaar met de trial van de Payables Agent. De trial is ook terug te zien in de BCApps-code; de Microsoft-documentatie noemt op dit moment nog 50 credits per bon. De Expense Agent gaat naar verwachting in december GA.
+
+Relevantie: Lagere kosten en een gratis proefperiode verlagen de drempel om declaratieverwerking met een BC-agent te testen, ook bij 4PS-klanten met veel buitendienstmedewerkers.</description>
+<pubDate>Wed, 11 Nov 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">radar-expense-agent-prijs-25-credits-trial-2026-11-11</guid>
+</item>
 <item>
 <title>Imperial Heritage Caviar: orders uit WhatsApp, mail, sms en telefoon via agents op de BC MCP-server (Deltanexx)</title>
 <link>https://www.microsoft.com/en/customers/story/27606-imperial-heritage-caviar-dynamics-365-business-central</link>
@@ -35,6 +45,16 @@ Relevantie: Creditnota's waren een gat in de AI-verwerking van inkoopfacturen; d
 <pubDate>Wed, 11 Nov 2026 08:30:00 +0000</pubDate>
 <category>product_release</category>
 <guid isPermaLink="false">radar-bc-29-1-payables-agent-creditnotas-ga</guid>
+</item>
+<item>
+<title>Praktijktest BC MCP-server: data query tools versus alleen dynamic tool mode in Copilot Studio</title>
+<link>https://dev.to/deanfachrie/mcp-server-data-query-tools-against-dynamic-tool-mode-in-dynamics-365-business-central-2iki</link>
+<description>Een partnertest op BC 29.0 liet een Copilot Studio-agent via de Business Central MCP-server dezelfde voorraadvraag tien keer beantwoorden. Met alleen de 3 tools van dynamic tool mode kwam de voorraad per magazijn in 0 van 5 runs terug, met de 4 extra (alleen-lezen) data query tools in 4 van 5 runs. Data query tools stellen zelf AL-queries samen en kunnen geen data wijzigen.
+
+Relevantie: Concreet advies voor wie agents (bijv. Copilot Studio of Foundry) op BC/4PS-data bouwt: zet data query tools aan voor analysevragen die over meerdere tabellen of dimensies gaan.</description>
+<pubDate>Tue, 10 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-mcp-data-query-tools-test-2026-11-10</guid>
 </item>
 <item>
 <title>Towne Millwork en E.M. Duggan: AI-assistent in de calculatie en hoeveelheden (Bluebeam Max)</title>
@@ -85,6 +105,16 @@ Relevantie: Inbrengen bij aannemers en installateurs die veel tijd kwijt zijn aa
 <pubDate>Tue, 10 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-cleveland-construction-submittal-review-trunk-tools</guid>
+</item>
+<item>
+<title>Provision lanceert RFI Agent: tegenstrijdigheden tussen tekeningen en bestek vóór de inschrijving</title>
+<link>https://provision.com/announcements/provision-launches-rfi-agent</link>
+<description>Provision heeft op 9 november een RFI Agent beschikbaar gemaakt die tekeningen en bestek met elkaar vergelijkt en conflicten, omissies en onduidelijkheden markeert, telkens met verwijzing naar de bronpagina. Volgens Provision levert dat binnen een uur meer dan 100 mogelijke issues op; de calculator beslist per bevinding wat ermee gebeurt (RFI, voorbehoud, verduidelijking). De agent sluit aan op de bestaande Scope-, Risk Review- en Chat-agents.
+
+Relevantie: Laat zien waar AI in de bouw-calculatie en tenderfase heen gaat; een relevant voorbeeld voor 4PS-klanten die werkvoorbereiding en calculatie vóór de prijsvorming willen versnellen.</description>
+<pubDate>Mon, 09 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-provision-rfi-agent-2026-11-09</guid>
 </item>
 <item>
 <title>Infra-aannemer: AI-codering van rioolinspecties geeft 20% meer productie zonder extra ploeg (SewerAI)</title>

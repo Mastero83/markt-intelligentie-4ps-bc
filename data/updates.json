@@ -3400,5 +3400,81 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-expense-agent-prijs-25-credits-trial-2026-11-11",
+    "datum": "2026-11-11",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "Expense Agent: verbruik per bon gehalveerd naar 25 Copilot Credits plus gratis trial van 50 uitgaven (BC 29.1)",
+    "samenvatting": "Volgens een BC-blog (11 nov) daalt het verbruik van de Expense Agent met versie 29.1 van 50 naar 25 Copilot Credits per verwerkte bon (ca. $0,25 bij pay-as-you-go) en komt er een gratis trial van 50 uitgaven per omgeving, vergelijkbaar met de trial van de Payables Agent. De trial is ook terug te zien in de BCApps-code; de Microsoft-documentatie noemt op dit moment nog 50 credits per bon. De Expense Agent gaat naar verwachting in december GA.",
+    "relevantie": "Lagere kosten en een gratis proefperiode verlagen de drempel om declaratieverwerking met een BC-agent te testen, ook bij 4PS-klanten met veel buitendienstmedewerkers.",
+    "categorie": "prijzen_licenties",
+    "tags": [
+      "microsoft",
+      "business-central",
+      "expense-agent",
+      "copilot-credits",
+      "prijzen",
+      "trial"
+    ],
+    "bronnen": [
+      {
+        "titel": "Mohana: Expense Agent just got half as expensive, and you can now try it for free",
+        "url": "https://mohana-dynamicsnav.blogspot.com/2026/11/"
+      },
+      {
+        "titel": "BCApps PR #13311: Expense Agent consumption V2 and trial support",
+        "url": "https://github.com/microsoft/BCApps/pull/13311"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-mcp-data-query-tools-test-2026-11-10",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "Praktijktest BC MCP-server: data query tools versus alleen dynamic tool mode in Copilot Studio",
+    "samenvatting": "Een partnertest op BC 29.0 liet een Copilot Studio-agent via de Business Central MCP-server dezelfde voorraadvraag tien keer beantwoorden. Met alleen de 3 tools van dynamic tool mode kwam de voorraad per magazijn in 0 van 5 runs terug, met de 4 extra (alleen-lezen) data query tools in 4 van 5 runs. Data query tools stellen zelf AL-queries samen en kunnen geen data wijzigen.",
+    "relevantie": "Concreet advies voor wie agents (bijv. Copilot Studio of Foundry) op BC/4PS-data bouwt: zet data query tools aan voor analysevragen die over meerdere tabellen of dimensies gaan.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "business-central",
+      "mcp",
+      "copilot-studio",
+      "agents",
+      "data-query"
+    ],
+    "bronnen": [
+      {
+        "titel": "MCP Server: Data Query Tools Against Dynamic Tool Mode in Dynamics 365 Business Central",
+        "url": "https://dev.to/deanfachrie/mcp-server-data-query-tools-against-dynamic-tool-mode-in-dynamics-365-business-central-2iki"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-provision-rfi-agent-2026-11-09",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-12",
+    "onderwerp": "Provision lanceert RFI Agent: tegenstrijdigheden tussen tekeningen en bestek vóór de inschrijving",
+    "samenvatting": "Provision heeft op 9 november een RFI Agent beschikbaar gemaakt die tekeningen en bestek met elkaar vergelijkt en conflicten, omissies en onduidelijkheden markeert, telkens met verwijzing naar de bronpagina. Volgens Provision levert dat binnen een uur meer dan 100 mogelijke issues op; de calculator beslist per bevinding wat ermee gebeurt (RFI, voorbehoud, verduidelijking). De agent sluit aan op de bestaande Scope-, Risk Review- en Chat-agents.",
+    "relevantie": "Laat zien waar AI in de bouw-calculatie en tenderfase heen gaat; een relevant voorbeeld voor 4PS-klanten die werkvoorbereiding en calculatie vóór de prijsvorming willen versnellen.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "tender",
+      "rfi",
+      "ai-agent",
+      "preconstruction"
+    ],
+    "bronnen": [
+      {
+        "titel": "Provision: RFI Agent Is Now Available",
+        "url": "https://provision.com/announcements/provision-launches-rfi-agent"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
