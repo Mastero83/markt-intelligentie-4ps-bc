@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Thu, 12 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Ibis Calculeren: AI leest en zet begrotingen op via MCP, de calculator beslist</title>
+<link>https://www.digibouw.nl/artikelen/digibouw-2026-ibis-calculeren-brengt-ai-in-de-calculatie-de-vakman-houdt-de-regie</link>
+<description>Probleem: een calculatie is de basis voor de projectmarge; een fout in een hoeveelheid of opslag werkt door tot in de nacalculatie, terwijl de bouw volgens het EIB tot en met 2029 circa 75.000 extra arbeidsjaren nodig heeft. Oplossing: Ibis (onderdeel van Aceve) lanceert voor eind 2026 een cloud-calculatiepakket waarmee AI-assistenten via MCP een begroting kunnen lezen, opzetten en aanpassen, binnen de bestaande calculatiesystematiek. Resultaat: nog geen klantresultaten bekend; het principe volgens Ibis is 'de AI doet een voorstel, wie rekent beslist', zodat elke uitkomst terug te volgen blijft.
+
+Relevantie: Bruikbaar bij aannemers die calculeren en daarna in 4PS of BC hun projectbegroting bewaken; vraag: hoeveel tijd kost het opzetten van een begroting nu, en zou een AI-voorstel via MCP (dat ook BC heeft) helpen als de calculator de eindcontrole en herleidbaarheid houdt?</description>
+<pubDate>Thu, 12 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-ibis-calculeren-ai-mcp-begroting-2026-11-12</guid>
+</item>
 <item>
 <title>12Build: AI vat uitvragen samen en vergelijkt offertes, met de mens als controleur</title>
 <link>https://www.bouweninstallatiehub.nl/artikelen/de-echte-winst-van-ai-in-de-bouw-geen-vervanging-maar-handig-hulpmiddel/</link>
@@ -145,6 +155,16 @@ Relevantie: Inbrengen bij aannemers en installateurs die veel tijd kwijt zijn aa
 <pubDate>Tue, 10 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-cleveland-construction-submittal-review-trunk-tools</guid>
+</item>
+<item>
+<title>NEOO: AI-agent maakt conceptrapport locatieonderzoek in een halve dag</title>
+<link>https://de-ecolutie.nl/een-halfjaar-ai-is-een-lichtjaar-in-de-bouw/</link>
+<description>Probleem: het onderzoeken van een potentiële ontwikkellocatie kostte medewerkers minstens een dag aan gegevens verzamelen en analyseren. Oplossing: NEOO ontwikkelde een AI-agent die zelfstandig bronnen raadpleegt over onder meer bodemgesteldheid, bestemmingsplannen, woningmarkt, gezinssamenstelling en koopkracht. Resultaat volgens de bron: na ongeveer een halve dag levert de agent een conceptrapport van zo'n dertig pagina's met aanklikbare bronverwijzingen op, dat medewerkers daarna controleren.
+
+Relevantie: Bruikbaar bij ontwikkelende bouwers en projectontwikkelaars op 4PS die veel locaties en tenders beoordelen; vraag: hoeveel uur gaat er nu in het voorbereidende uitzoekwerk vóór een go/no-go, en waar zou een agent die een gecontroleerd conceptrapport met bronnen levert het meeste tijd schelen?</description>
+<pubDate>Mon, 09 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-neoo-ai-agent-locatieonderzoek-2026-11-09</guid>
 </item>
 <item>
 <title>Provision lanceert RFI Agent: tegenstrijdigheden tussen tekeningen en bestek vóór de inschrijving</title>

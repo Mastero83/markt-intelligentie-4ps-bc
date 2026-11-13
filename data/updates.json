@@ -3573,5 +3573,53 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-ibis-calculeren-ai-mcp-begroting-2026-11-12",
+    "datum": "2026-11-12",
+    "gemeld_op": "2026-11-13",
+    "onderwerp": "Ibis Calculeren: AI leest en zet begrotingen op via MCP, de calculator beslist",
+    "samenvatting": "Probleem: een calculatie is de basis voor de projectmarge; een fout in een hoeveelheid of opslag werkt door tot in de nacalculatie, terwijl de bouw volgens het EIB tot en met 2029 circa 75.000 extra arbeidsjaren nodig heeft. Oplossing: Ibis (onderdeel van Aceve) lanceert voor eind 2026 een cloud-calculatiepakket waarmee AI-assistenten via MCP een begroting kunnen lezen, opzetten en aanpassen, binnen de bestaande calculatiesystematiek. Resultaat: nog geen klantresultaten bekend; het principe volgens Ibis is 'de AI doet een voorstel, wie rekent beslist', zodat elke uitkomst terug te volgen blijft.",
+    "relevantie": "Bruikbaar bij aannemers die calculeren en daarna in 4PS of BC hun projectbegroting bewaken; vraag: hoeveel tijd kost het opzetten van een begroting nu, en zou een AI-voorstel via MCP (dat ook BC heeft) helpen als de calculator de eindcontrole en herleidbaarheid houdt?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "mcp",
+      "ai",
+      "begroting",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "Digibouw: Ibis Calculeren brengt AI in de calculatie, de vakman houdt de regie",
+        "url": "https://www.digibouw.nl/artikelen/digibouw-2026-ibis-calculeren-brengt-ai-in-de-calculatie-de-vakman-houdt-de-regie"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-neoo-ai-agent-locatieonderzoek-2026-11-09",
+    "datum": "2026-11-09",
+    "gemeld_op": "2026-11-13",
+    "onderwerp": "NEOO: AI-agent maakt conceptrapport locatieonderzoek in een halve dag",
+    "samenvatting": "Probleem: het onderzoeken van een potentiële ontwikkellocatie kostte medewerkers minstens een dag aan gegevens verzamelen en analyseren. Oplossing: NEOO ontwikkelde een AI-agent die zelfstandig bronnen raadpleegt over onder meer bodemgesteldheid, bestemmingsplannen, woningmarkt, gezinssamenstelling en koopkracht. Resultaat volgens de bron: na ongeveer een halve dag levert de agent een conceptrapport van zo'n dertig pagina's met aanklikbare bronverwijzingen op, dat medewerkers daarna controleren.",
+    "relevantie": "Bruikbaar bij ontwikkelende bouwers en projectontwikkelaars op 4PS die veel locaties en tenders beoordelen; vraag: hoeveel uur gaat er nu in het voorbereidende uitzoekwerk vóór een go/no-go, en waar zou een agent die een gecontroleerd conceptrapport met bronnen levert het meeste tijd schelen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "projectontwikkeling",
+      "ai-agent",
+      "locatieonderzoek",
+      "acquisitie",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "De Ecolutie: Een halfjaar AI is een lichtjaar in de bouw",
+        "url": "https://de-ecolutie.nl/een-halfjaar-ai-is-een-lichtjaar-in-de-bouw/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
