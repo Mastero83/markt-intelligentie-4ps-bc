@@ -3736,5 +3736,103 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-davisa-dvproject-ai-assistent-uitvoerder-bc",
+    "datum": "2026-11-16",
+    "gemeld_op": "2026-11-16",
+    "onderwerp": "Davisa: AI-assistent voor de uitvoerder in de bouwapp op Business Central (Copilot Studio)",
+    "samenvatting": "Probleem: de uitvoerder staat op de bouwplaats en kan de informatie die al in Business Central staat (live budget, verbruik per post, onderaannemers met verzekeringen, meerwerk dat nog niet getekend is, contractclausules) moeilijk opvragen, waardoor hij het kantoor belt of beslist op onvolledige info. Oplossing: Davisa (Spaanse BC-partner) bouwt met Copilot Studio en Azure OpenAI een assistent in zijn mobiele bouwapp (BC-extensie dvproject-construccion) die per spraak of tekst live BC-cijfers via de REST API ophaalt en via RAG (Azure AI Search over SharePoint) contractclausules citeert; standaard alleen-lezen, schrijven naar BC alleen na expliciete actie van de uitvoerder. Resultaat: de partner beschrijft dit als aanpak (5 dagen discovery, pilot van 8 weken op 2 tot 4 bouwplaatsen) zonder gemeten klantresultaten.",
+    "relevantie": "Bruikbaar bij bouw- en installatiebedrijven op 4PS met veel uitvoerders buiten; vraag: welke vragen stellen uitvoerders nu dagelijks aan de werkvoorbereiding of projectadministratie, en zou een alleen-lezen assistent op projectdata en contracten dat telefoonverkeer verminderen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "copilot-studio",
+      "business-central",
+      "uitvoerder",
+      "mobiel",
+      "rag",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "Davisa: AI site manager assistant (dvproject construction)",
+        "url": "https://www.davisa.es/en/ia/cases/construction-site-manager-assistant-ai/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-pca-4ps-koppeling-marketplace-2026-11-10",
+    "datum": "2026-11-10",
+    "gemeld_op": "2026-11-16",
+    "onderwerp": "PCA en 4PS: tweerichtingskoppeling voor service en onderhoud nu in de Microsoft Marketplace",
+    "samenvatting": "Probleem: bij service en onderhoud wordt werk dubbel ingevoerd tussen planning, monteur en ERP. Oplossing: PCA haalt werkorders, klant- en objectgegevens uit 4PS, geeft de planner een digitaal planbord en de monteur een app met klanthistorie, installatiegegevens en voorraad, en stuurt na elke klus automatisch uren, materialen en werkbonnen terug naar 4PS; ook orders, prijzen en leveringen met groothandels worden via gedeelde standaarden afgestemd. Resultaat: PCA belooft geen dubbele invoer en een doorlopende flow van werkorder tot factuur; er worden geen gemeten klantresultaten genoemd.",
+    "relevantie": "Bruikbaar bij installateurs en onderhoudsbedrijven op 4PS met een eigen servicedienst; vraag: hoeveel tijd zit er nu tussen het afronden van een werkbon en de factuur, en waar wordt er nog dubbel ingevoerd tussen planning, monteur en 4PS?",
+    "categorie": "use_case",
+    "tags": [
+      "4ps",
+      "installatie",
+      "service-en-onderhoud",
+      "planning",
+      "werkbon",
+      "koppeling",
+      "microsoft-marketplace"
+    ],
+    "bronnen": [
+      {
+        "titel": "PCA: Nieuw in de Microsoft Marketplace, de koppeling tussen PCA en 4PS",
+        "url": "https://pca.nl/blogartikelen/nieuw-in-de-microsoft-marketplace-de-koppeling-tussen-pca-en-4ps/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-van-wijnen-ai-offertevergelijking-2026-11-14",
+    "datum": "2026-11-14",
+    "gemeld_op": "2026-11-16",
+    "onderwerp": "Van Wijnen Gorredijk: AI-applicatie automatiseert offertevergelijking",
+    "samenvatting": "Probleem: het vergelijken van offertes van onderaannemers en leveranciers is bij een bouwer handwerk. Oplossing: UniPartners leverde voor Van Wijnen Gorredijk een AI-applicatie die het offertevergelijkingsproces automatiseert, na een verkennende fase met strategieadvies en een interne testfase waarna de tool is geoptimaliseerd. Resultaat: de bron noemt geen cijfers, alleen dat het project is afgerond en positief is ervaren.",
+    "relevantie": "Bruikbaar bij aannemers op 4PS die per project veel offertes van onderaannemers uitvragen; vraag: hoe worden offertes nu naast elkaar gelegd voordat ze als inkoopcontract in 4PS komen, en hoeveel uur kost dat per project?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "inkoop",
+      "offertevergelijking",
+      "onderaanneming",
+      "ai"
+    ],
+    "bronnen": [
+      {
+        "titel": "UniPartners: AI-offerte vergelijking voor Van Wijnen Gorredijk BV",
+        "url": "https://www.unipartners.nl/projects/ai-offerte-vergelijking-voor-van-wijnen-gorredijk-bv/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-beam-ai-takeoffs-zeven-vakgebieden-2026-11-14",
+    "datum": "2026-11-14",
+    "gemeld_op": "2026-11-16",
+    "onderwerp": "Beam AI: AI-hoeveelhedenstaten nu voor zeven vakgebieden, inclusief elektra en installatie",
+    "samenvatting": "Probleem: calculatoren meten hoeveelheden handmatig uit aanbestedingstekeningen voordat ze kunnen prijzen. Oplossing: Beam AI (Attentive.ai) breidt de self-service AI-takeoff uit naar beton/wapening, elektra, groen en bestrating naast HVAC, sanitair en staal; de calculator uploadt tekeningen en controleert de AI-hoeveelheden, of laat het team van Attentive.ai de takeoff met menselijke QA uitvoeren (24 tot 72 uur, output als Excel-begroting). Resultaat volgens klantcitaten op de site van de leverancier: meer dan 15 uur per project bespaard (Strack Inc.) en 16 uur per week (Axion Specialty Contracting); dit zijn leverancierscijfers.",
+    "relevantie": "Bruikbaar bij installatie- en elektrotechnische bedrijven die met 4PS calculeren; vraag: hoeveel uur gaat er per inschrijving naar het uittrekken van hoeveelheden, en zou een gecontroleerde AI-takeoff die als Excel in de 4PS-calculatie wordt ingelezen helpen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "installatie",
+      "calculatie",
+      "hoeveelheden",
+      "takeoff",
+      "ai",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction Metrics: Beam AI extends instant AI takeoffs to seven trades",
+        "url": "https://constructionmetrics.com/2026/11/14/beam-ai-instant-takeoffs-seven-trades/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
