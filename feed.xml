@@ -5,7 +5,57 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Fri, 13 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Acumatica Close Period Agent (early access) en bouw-agents op roadmap 2027</title>
+<link>https://antonsystems.com/blog/real-estate-development/ai-month-end-close-real-estate-construction/</link>
+<description>Volgens partner Anton Systems, op basis van Acumatica's AI-briefing van november, orkestreert de Close Period Agent (early access) bijna 50 maandafsluittaken over acht modules. Acumatica hanteert vier autonomieniveaus (Advise, Assist, Automate, Orchestrate); verticale agents voor o.a. Construction en MCP-schrijfacties staan op de roadmap voor 2027.
+
+Relevantie: Acumatica (met Construction Edition) is een directe concurrent van BC/4PS; hun maandafsluiting-agent en bouwagent-roadmap zijn een benchmark voor wat klanten van BC gaan vragen.</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-acumatica-close-period-agent-construction-2027</guid>
+</item>
+<item>
+<title>BC29 MCP-server: nieuwe configuratie en data query tools worden betaald bij GA</title>
+<link>https://thinkaboutit.be/2026/11/business-central-29-whats-new-in-the-mcp-server/</link>
+<description>Steven Renders beschrijft de MCP-serverupdates in BC 2026 release wave 2: vier read-only data query tools waarmee agents zelf AL-queries opbouwen, een vernieuwde MCP Server Configuration met Server Features en System Tools, en aan/uitzetten via de pagina Copilot and Agent Capabilities. Volgens hem heeft Microsoft aangekondigd dat de data query-functionaliteit bij GA factureerbaar wordt; prijzen zijn niet genoemd.
+
+Relevantie: Belangrijk voor partners die agents op BC/4PS-data bouwen: krachtig voor ad-hocanalyse, maar governance, performance en toekomstige kosten moeten worden meegewogen.</description>
+<pubDate>Sat, 14 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc29-mcp-server-config-data-query-billable</guid>
+</item>
+<item>
+<title>BC Copilot Auto paste: klembordinhoud automatisch in velden (RM579980)</title>
+<link>https://mc.merill.net/message/RM579980</link>
+<description>Microsoft heeft roadmapitem 579980 gepubliceerd: Auto paste bouwt voort op Autofill en gebruikt AI om relevante informatie uit gekopieerde tekst of HTML te herkennen en aan de juiste velden op een Business Central-pagina te koppelen. Preview gepland december 2026, GA april 2027.
+
+Relevantie: Minder handmatige invoer bij het overnemen van gegevens uit mails, offertes of websites in BC, en daarmee ook in 4PS Construct-pagina's op BC.</description>
+<pubDate>Fri, 13 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-auto-paste-rm579980</guid>
+</item>
+<item>
+<title>Ibis (Aceve) lanceert cloudcalculatiepakket met AI via MCP</title>
+<link>https://www.digibouw.nl/artikelen/digibouw-2026-ibis-calculeren-brengt-ai-in-de-calculatie-de-vakman-houdt-de-regie</link>
+<description>Ibis, onderdeel van Aceve, lanceert voor eind 2026 Ibis Calculeren in de cloud, gebouwd om met AI samen te werken. Via MCP kan AI een begroting lezen, opzetten en aanpassen; de calculator beslist. Ibis toont het op DigiBouw 2026.
+
+Relevantie: Directe concurrentie voor de calculatiemodule van 4PS Construct in de Nederlandse bouw; MCP-toegang tot begrotingen wordt een verwachting bij klanten.</description>
+<pubDate>Thu, 12 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-ibis-calculeren-cloud-mcp</guid>
+</item>
+<item>
+<title>Command Alkon Command Intelligence: read-only Analyst en Assistant met goedkeuring</title>
+<link>https://www.constructionindustry.ai/product/command-alkon-command-intelligence-analyst-read-only-assistant-approval/</link>
+<description>Command Alkon heeft Command Intelligence live gezet voor Command Cloud-klanten (beton-, asfalt- en granulaatproducenten), als twee onderdelen: Analyst beantwoordt vragen over eigen data en is read-only, Assistant neemt routinewerk over (zoals orders bevestigen of foutief geprijsde bonnen signaleren) en pauzeert voor menselijke goedkeuring voordat er iets in het systeem wordt geschreven.
+
+Relevantie: Laat zien hoe vakspecifieke bouwsoftware agents scheidt in lezen en schrijven met goedkeuring; bruikbaar referentiemodel voor agents in 4PS/BC.</description>
+<pubDate>Thu, 12 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-command-alkon-command-intelligence</guid>
+</item>
 <item>
 <title>Ibis Calculeren: AI leest en zet begrotingen op via MCP, de calculator beslist</title>
 <link>https://www.digibouw.nl/artikelen/digibouw-2026-ibis-calculeren-brengt-ai-in-de-calculatie-de-vakman-houdt-de-regie</link>
