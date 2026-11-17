@@ -7,6 +7,26 @@
 <language>nl-nl</language>
 <lastBuildDate>Tue, 17 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>SynkedUP: weekrapport van drie uur naar vijftien minuten via MCP-server en Claude; AI-calculatie uit video</title>
+<link>https://bridgemedia.ca/en/bmp/ai-contractor-admin-job-costing-synkedup/</link>
+<description>Probleem: aannemers verkopen grote klussen zonder te weten wat die werkelijk kosten, en administratie zoals wekelijkse rapportages kost de eigenaar veel tijd. Oplossing: SynkedUP, nacalculatie- en administratiesoftware voor aannemers, biedt een AI-calculatieagent die een begroting opbouwt uit een korte video of een opgenomen gesprek met de opdrachtgever, en een MCP-server waarmee klanten hun eigen data aan Claude koppelen. Resultaat volgens de CEO in een podcast: één hoveniersbedrijf automatiseerde een wekelijks rapport van drie uur tot vijftien minuten via die MCP-koppeling.
+
+Relevantie: Inbrengen bij kleinere aannemers of installateurs op BC of 4PS die veel tijd kwijt zijn aan wekelijkse rapportages; vraag: welk rapport maken jullie elke week handmatig, en zou een AI-assistent die via de Business Central MCP-server direct de project- en nacalculatiedata leest dat kunnen overnemen?</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-synkedup-mcp-weekrapport-claude-2026-11-16</guid>
+</item>
+<item>
+<title>Hensel Phelps (Diverge): pilot met AI-kennisgraaf voor scopechecklists en tekening-bestekconflicten (Neuron Factory)</title>
+<link>https://www.globenewswire.com/news-release/2026/11/16/3403798/0/en/neuron-factory-and-diverge-a-hensel-phelps-company-partner-up-to-pilot-ai-knowledge-graph-technology-in-construction-workflows.html</link>
+<description>Probleem: calculatieteams moeten bij grote inschrijvingen informatie uit tekeningen, bestekken en nota's van inlichtingen handmatig samenbrengen, waardoor risico's laat boven komen en projectkennis verloren gaat. Oplossing: een calculatieteam van Hensel Phelps pilot via innovatietak Diverge het kennisgraafplatform van Neuron Factory op een lopende inschrijving om scopechecklists per vakgebied en offertesamenvattingen in het eigen format te maken, wijzigingen in nota's van inlichtingen te volgen en conflicten tussen tekeningen en bestek te signaleren als vragen vóór de inschrijfdatum; calculatoren controleren elke uitkomst tegen de brondocumenten en houden de eindbeslissing over scope en prijs. Resultaat: het betreft een aangekondigde pilot; de bron noemt nog geen resultaten.
+
+Relevantie: Inbrengen bij aannemers die veel inschrijven en met 4PS calculeren; vraag: hoe vangen jullie nu tegenstrijdigheden tussen tekening en bestek en wijzigingen uit nota's van inlichtingen op, en zou een AI-scopechecklist die als basis voor de 4PS-calculatie dient tijd en risico schelen?</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-hensel-phelps-neuron-factory-precon-pilot-2026-11-16</guid>
+</item>
+<item>
 <title>Unanet Champ Agents: agentisch platform voor AEC-ERP en -CRM, met MCP-koppelingen</title>
 <link>https://unanet.com/news/unanets-ai-first-innovations-drive-govcon-and-aec-firms-to-switch-from-competing-erp-and-crm-systems</link>
 <description>Unanet, leverancier van ERP- en CRM-software voor GovCon en architectuur, engineering en bouw (AEC), meldt dat Champ Agents (powered by Wyatt) nu beschikbaar is voor onder meer AE ERP en AEC CRM. De agents automatiseren workflows en geven antwoorden in gewone taal, werken deterministisch binnen het beveiligingsmodel van de kernsystemen en koppelen met Outlook, Teams, SharePoint en ondersteunde eigen MCP-verbindingen. Volgens Unanet kwam bijna de helft van de nieuwe klanten in 2026 van concurrerende platforms.

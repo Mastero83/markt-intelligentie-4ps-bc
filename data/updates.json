@@ -3906,5 +3906,56 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-hensel-phelps-neuron-factory-precon-pilot-2026-11-16",
+    "datum": "2026-11-16",
+    "gemeld_op": "2026-11-17",
+    "onderwerp": "Hensel Phelps (Diverge): pilot met AI-kennisgraaf voor scopechecklists en tekening-bestekconflicten (Neuron Factory)",
+    "samenvatting": "Probleem: calculatieteams moeten bij grote inschrijvingen informatie uit tekeningen, bestekken en nota's van inlichtingen handmatig samenbrengen, waardoor risico's laat boven komen en projectkennis verloren gaat. Oplossing: een calculatieteam van Hensel Phelps pilot via innovatietak Diverge het kennisgraafplatform van Neuron Factory op een lopende inschrijving om scopechecklists per vakgebied en offertesamenvattingen in het eigen format te maken, wijzigingen in nota's van inlichtingen te volgen en conflicten tussen tekeningen en bestek te signaleren als vragen vóór de inschrijfdatum; calculatoren controleren elke uitkomst tegen de brondocumenten en houden de eindbeslissing over scope en prijs. Resultaat: het betreft een aangekondigde pilot; de bron noemt nog geen resultaten.",
+    "relevantie": "Inbrengen bij aannemers die veel inschrijven en met 4PS calculeren; vraag: hoe vangen jullie nu tegenstrijdigheden tussen tekening en bestek en wijzigingen uit nota's van inlichtingen op, en zou een AI-scopechecklist die als basis voor de 4PS-calculatie dient tijd en risico schelen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "calculatie",
+      "aanbesteding",
+      "kennisgraaf",
+      "ai",
+      "preconstructie",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "GlobeNewswire: Neuron Factory and Diverge, a Hensel Phelps company, partner up to pilot AI knowledge graph technology",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403798/0/en/neuron-factory-and-diverge-a-hensel-phelps-company-partner-up-to-pilot-ai-knowledge-graph-technology-in-construction-workflows.html"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-synkedup-mcp-weekrapport-claude-2026-11-16",
+    "datum": "2026-11-16",
+    "gemeld_op": "2026-11-17",
+    "onderwerp": "SynkedUP: weekrapport van drie uur naar vijftien minuten via MCP-server en Claude; AI-calculatie uit video",
+    "samenvatting": "Probleem: aannemers verkopen grote klussen zonder te weten wat die werkelijk kosten, en administratie zoals wekelijkse rapportages kost de eigenaar veel tijd. Oplossing: SynkedUP, nacalculatie- en administratiesoftware voor aannemers, biedt een AI-calculatieagent die een begroting opbouwt uit een korte video of een opgenomen gesprek met de opdrachtgever, en een MCP-server waarmee klanten hun eigen data aan Claude koppelen. Resultaat volgens de CEO in een podcast: één hoveniersbedrijf automatiseerde een wekelijks rapport van drie uur tot vijftien minuten via die MCP-koppeling.",
+    "relevantie": "Inbrengen bij kleinere aannemers of installateurs op BC of 4PS die veel tijd kwijt zijn aan wekelijkse rapportages; vraag: welk rapport maken jullie elke week handmatig, en zou een AI-assistent die via de Business Central MCP-server direct de project- en nacalculatiedata leest dat kunnen overnemen?",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "mcp",
+      "claude",
+      "rapportage",
+      "nacalculatie",
+      "calculatie",
+      "ai",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Bridge Media (Built to Grow): How SynkedUP is leveraging AI to assist contractor admin",
+        "url": "https://bridgemedia.ca/en/bmp/ai-contractor-admin-job-costing-synkedup/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
