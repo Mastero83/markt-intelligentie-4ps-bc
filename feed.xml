@@ -5,7 +5,37 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Mon, 16 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Unanet Champ Agents: agentisch platform voor AEC-ERP en -CRM, met MCP-koppelingen</title>
+<link>https://unanet.com/news/unanets-ai-first-innovations-drive-govcon-and-aec-firms-to-switch-from-competing-erp-and-crm-systems</link>
+<description>Unanet, leverancier van ERP- en CRM-software voor GovCon en architectuur, engineering en bouw (AEC), meldt dat Champ Agents (powered by Wyatt) nu beschikbaar is voor onder meer AE ERP en AEC CRM. De agents automatiseren workflows en geven antwoorden in gewone taal, werken deterministisch binnen het beveiligingsmodel van de kernsystemen en koppelen met Outlook, Teams, SharePoint en ondersteunde eigen MCP-verbindingen. Volgens Unanet kwam bijna de helft van de nieuwe klanten in 2026 van concurrerende platforms.
+
+Relevantie: Concurrerende bouw-ERP positioneert zich als 'AI-first' met agents en MCP; vergelijkbare argumenten zullen klanten ook bij 4PS Construct op BC verwachten.</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-unanet-champ-agents-aec-erp-2026-11-16</guid>
+</item>
+<item>
+<title>Stoa haalt €3,5M op voor AI die tekeningen, planningen en rapporten op de bouwplaats bundelt</title>
+<link>https://tech.eu/2026/11/16/backed-by-supercell-wolt-and-plangrid-founders-stoa-lands-eur35m-to-bring-ai-to-construction-sites/</link>
+<description>Het Finse Stoa haalde een pre-seedronde van €3,5 miljoen op onder leiding van Lifeline Ventures, met onder meer de PlanGrid-oprichters als angels. Het platform brengt tekeningen, planningen en kwaliteits- en veiligheidsrapporten samen en gebruikt AI om documenten te analyseren en relevante updates naar uitvoeringsteams te sturen. Volgens Stoa draait het op tientallen Scandinavische bouwplaatsen en besparen projectengineers en uitvoerders gemiddeld 2 tot 8 uur per week (leverancierscijfer).
+
+Relevantie: Laat zien dat AI rond projectdocumenten en uitvoering snel investeringen trekt; kansen voor koppelingen of eigen AI-functies rond projectinformatie in 4PS.</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>markt</category>
+<guid isPermaLink="false">radar-stoa-pre-seed-ai-bouwdocumenten-2026-11-16</guid>
+</item>
+<item>
+<title>Microsoft FY27 Business Central Migration Voucher: tot 100% van eerstejaarsomzet, max. $150.000</title>
+<link>https://msdynamicsworld.com/blog/how-ai-changing-role-d365-business-central</link>
+<description>Een partnerblog op MSDynamicsWorld (K3) over Directions EMEA 2026 noemt het FY27 Business Central Migration Voucher Programme voor klanten die overstappen van Dynamics NAV, GP, SL, AX of BC on-premises naar BC online. Het programma kan dienstenkrediet geven tot 100% van de gefactureerde omzet in het eerste jaar, gemaximeerd op $150.000, afhankelijk van voorwaarden en beschikbaar budget. Microsoft koppelt de migratie expliciet aan toegang tot Copilot, agents en Cowork.
+
+Relevantie: Relevant voor klanten op oudere (NAV-gebaseerde of on-premises) 4PS-omgevingen: een financieel argument om naar BC online te gaan, waar de AI-agents alleen beschikbaar zijn.</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">radar-bc-fy27-migratievoucher-ai-2026-11-16</guid>
+</item>
 <item>
 <title>Davisa: AI-assistent voor de uitvoerder in de bouwapp op Business Central (Copilot Studio)</title>
 <link>https://www.davisa.es/en/ia/cases/construction-site-manager-assistant-ai/</link>
