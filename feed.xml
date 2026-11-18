@@ -5,7 +5,37 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Tue, 17 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Linarc lanceert Lia: AI-assistent die contracten, bestekken en tekeningen omzet in projectdata</title>
+<link>https://www.globenewswire.com/news-release/2026/11/17/3404569/0/en/linarc-introduces-lia-an-ai-assistant-that-turns-construction-documents-into-actionable-project-intelligence-from-day-one.html</link>
+<description>Bouwsoftwareleverancier Linarc introduceerde Lia, een AI-assistent die tekeningen, bestekken, contracten, planningen, facturen en inkooporders leest en daar gestructureerde projectrecords van maakt, tekeningrevisies vergelijkt en submittals genereert. Elk resultaat verwijst naar de bron en vereist goedkeuring door de gebruiker vóór opslaan; Lia zit standaard in het platform.
+
+Relevantie: Benchmark voor documentintelligentie in bouwsoftware: laat zien welke AI-functies aannemers gaan verwachten van een bouw-ERP als 4PS Construct.</description>
+<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-linarc-lia-ai-assistent-bouwdocumenten</guid>
+</item>
+<item>
+<title>Ignite 2026: Dynamics 365 in Copilot, Copilot-harness GA en Agent Accounts (preview dec 2026)</title>
+<link>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/</link>
+<description>Microsoft kondigde op Ignite 2026 'Dynamics 365 in Copilot' aan: Copilot wordt de voordeur naar Dynamics 365 via plugins, waaronder een bijgewerkte ERP-plugin (GA) met ruim 39 finance- en operations-skills. Dynamics 365-data is nu native geïntegreerd met Work IQ, de nieuwe Copilot-harness in Copilot Studio is GA en Agent Accounts komen in december 2026 in public preview. Dynamics 365 Activate voor ERP-migraties (eerst SAP ECC) staat in private preview.
+
+Relevantie: Zet de richting voor agents rond BC en 4PS (Copilot als voorkant, agents met eigen account via Copilot Studio), al noemt de ERP-plugin expliciet finance- en operations-skills en niet Business Central.</description>
+<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-ignite-2026-dynamics-365-in-copilot</guid>
+</item>
+<item>
+<title>Agent 365: kostenbeheer voor Dynamics 365-agents en multi-tenant agentbeheer voor partners</title>
+<link>https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753</link>
+<description>Agent 365 Cost Management in het Microsoft 365-beheercentrum geeft zicht op en controle over usage-based AI, waaronder Dynamics 365-agents, met uitgavenbeleid, limieten, alerts en interne doorbelasting; forecasting en aanbevelingen komen in Frontier-preview. Daarnaast is multi-tenant agentbeheer in preview, waarmee partners agents over meerdere klanttenants vanuit één plek kunnen uitrollen, vergelijken en goedkeuren of blokkeren.
+
+Relevantie: Relevant voor het beheersen van Copilot Credits van BC-agents (zoals Payables en Expense Agent) bij klanten en voor partners die agents over meerdere BC-klanttenants beheren.</description>
+<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
+<category>prijzen_licenties</category>
+<guid isPermaLink="false">radar-agent-365-cost-management-multi-tenant-ignite-2026</guid>
+</item>
 <item>
 <title>SynkedUP: weekrapport van drie uur naar vijftien minuten via MCP-server en Claude; AI-calculatie uit video</title>
 <link>https://bridgemedia.ca/en/bmp/ai-contractor-admin-job-costing-synkedup/</link>

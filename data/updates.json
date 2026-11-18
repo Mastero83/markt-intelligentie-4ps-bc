@@ -3957,5 +3957,81 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-ignite-2026-dynamics-365-in-copilot",
+    "datum": "2026-11-17",
+    "gemeld_op": "2026-11-18",
+    "onderwerp": "Ignite 2026: Dynamics 365 in Copilot, Copilot-harness GA en Agent Accounts (preview dec 2026)",
+    "samenvatting": "Microsoft kondigde op Ignite 2026 'Dynamics 365 in Copilot' aan: Copilot wordt de voordeur naar Dynamics 365 via plugins, waaronder een bijgewerkte ERP-plugin (GA) met ruim 39 finance- en operations-skills. Dynamics 365-data is nu native geïntegreerd met Work IQ, de nieuwe Copilot-harness in Copilot Studio is GA en Agent Accounts komen in december 2026 in public preview. Dynamics 365 Activate voor ERP-migraties (eerst SAP ECC) staat in private preview.",
+    "relevantie": "Zet de richting voor agents rond BC en 4PS (Copilot als voorkant, agents met eigen account via Copilot Studio), al noemt de ERP-plugin expliciet finance- en operations-skills en niet Business Central.",
+    "categorie": "product_release",
+    "tags": [
+      "microsoft",
+      "ignite-2026",
+      "copilot",
+      "copilot-studio",
+      "agents",
+      "work-iq",
+      "dynamics-365"
+    ],
+    "bronnen": [
+      {
+        "titel": "Microsoft Dynamics 365 Blog: Microsoft Ignite 2026: Introducing Dynamics 365 in Copilot",
+        "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/"
+      },
+      {
+        "titel": "MSDynamicsWorld: Ignite 2026 Copilot story for Dynamics 365",
+        "url": "https://msdynamicsworld.com/story/ignite-2026-microsoft-updates-copilot-story-dynamics-365-salesforce"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-agent-365-cost-management-multi-tenant-ignite-2026",
+    "datum": "2026-11-17",
+    "gemeld_op": "2026-11-18",
+    "onderwerp": "Agent 365: kostenbeheer voor Dynamics 365-agents en multi-tenant agentbeheer voor partners",
+    "samenvatting": "Agent 365 Cost Management in het Microsoft 365-beheercentrum geeft zicht op en controle over usage-based AI, waaronder Dynamics 365-agents, met uitgavenbeleid, limieten, alerts en interne doorbelasting; forecasting en aanbevelingen komen in Frontier-preview. Daarnaast is multi-tenant agentbeheer in preview, waarmee partners agents over meerdere klanttenants vanuit één plek kunnen uitrollen, vergelijken en goedkeuren of blokkeren.",
+    "relevantie": "Relevant voor het beheersen van Copilot Credits van BC-agents (zoals Payables en Expense Agent) bij klanten en voor partners die agents over meerdere BC-klanttenants beheren.",
+    "categorie": "prijzen_licenties",
+    "tags": [
+      "microsoft",
+      "agent-365",
+      "copilot-credits",
+      "governance",
+      "partners",
+      "ignite-2026"
+    ],
+    "bronnen": [
+      {
+        "titel": "Microsoft Community Hub: What's new in Microsoft Agent 365: Ignite 2026",
+        "url": "https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-linarc-lia-ai-assistent-bouwdocumenten",
+    "datum": "2026-11-17",
+    "gemeld_op": "2026-11-18",
+    "onderwerp": "Linarc lanceert Lia: AI-assistent die contracten, bestekken en tekeningen omzet in projectdata",
+    "samenvatting": "Bouwsoftwareleverancier Linarc introduceerde Lia, een AI-assistent die tekeningen, bestekken, contracten, planningen, facturen en inkooporders leest en daar gestructureerde projectrecords van maakt, tekeningrevisies vergelijkt en submittals genereert. Elk resultaat verwijst naar de bron en vereist goedkeuring door de gebruiker vóór opslaan; Lia zit standaard in het platform.",
+    "relevantie": "Benchmark voor documentintelligentie in bouwsoftware: laat zien welke AI-functies aannemers gaan verwachten van een bouw-ERP als 4PS Construct.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bouw",
+      "concurrentie",
+      "documenten",
+      "ai-assistent",
+      "human-in-the-loop"
+    ],
+    "bronnen": [
+      {
+        "titel": "GlobeNewswire: Linarc Introduces Lia",
+        "url": "https://www.globenewswire.com/news-release/2026/11/17/3404569/0/en/linarc-introduces-lia-an-ai-assistant-that-turns-construction-documents-into-actionable-project-intelligence-from-day-one.html"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
