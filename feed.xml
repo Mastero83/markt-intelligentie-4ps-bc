@@ -7,6 +7,46 @@
 <language>nl-nl</language>
 <lastBuildDate>Wed, 18 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Perry Contracting: Copilot-agent codeert inkoopfacturen naar project en grootboek, projectleider keurt goed in Teams (N Solutions)</title>
+<link>https://nsolutionsllc.com/perry-contracting-inc/</link>
+<description>Probleem: bij deze Amerikaanse aannemer werden inkoopfacturen volledig handmatig en op papier door projectleiders gecodeerd en door één ervaren accounting manager ingevoerd, die binnenkort met pensioen gaat. Oplossing: partner N Solutions bouwde een AI-agent op Microsoft Copilot die elke factuur leest, grootboekcode en projectgegevens voorinvult en de factuur in Teams ter controle naar de projectleider stuurt; een Power App toont openstaande facturen en automatisering zet goedgekeurde facturen door naar het boekhoudpakket, zonder dat iets zonder menselijke check wordt geboekt. Resultaat volgens de partner: een geschatte besparing van 200 tot 300 uur per jaar en een herhaalbaar proces dat minder afhangt van kennis van één persoon.
+
+Relevantie: Inbrengen bij aannemers en installateurs op 4PS of BC waar projectleiders inkoopfacturen nog handmatig aan projecten en kostensoorten koppelen; vraag: wie codeert bij jullie de inkoopfacturen naar project, en wat gebeurt er als die persoon wegvalt of met pensioen gaat?</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-perry-contracting-copilot-agent-inkoopfacturen-projectcodering</guid>
+</item>
+<item>
+<title>Kanon Loading Equipment: inkoop-agent van stuklijst tot leveranciersbevestiging in ERP en planning (Draad)</title>
+<link>https://draad.nl/verhaal/van-stuklijst-naar-bevestiging-zonder-een-e-mail-over-te-typen/</link>
+<description>Probleem: stuklijsten van ruim 3.000 regels per project werden handmatig overgetypt, offerteaanvragen gingen zonder tracking per e-mail weg en leverancierbevestigingen kwamen als losse mails en pdf's terug, terwijl materiaal veertien dagen voor de start van een sectie binnen moet zijn. Oplossing: Kanon bouwde een eigen inkoop-agent die stuklijsten inleest, de projectstructuur in het ERP opzet en offerteaanvragen klaarzet; bureau Draad voegde een leveranciersportaal zonder login toe dat via webhooks in twee richtingen met die agent, het ERP en Teams praat, zodat de bevestigde prijs en leverdatum automatisch in de planning terechtkomen. Resultaat volgens de bron: een sluitende keten van offerteaanvraag tot inkooporder waarin niets meer handmatig wordt overgezet; harde cijfers worden niet genoemd.
+
+Relevantie: Inbrengen bij projectgedreven bedrijven op BC of 4PS (installatie, prefab, machinebouw) met grote stuklijsten en veel leveranciers; vraag: hoe komen bevestigde leverdata van leveranciers nu in jullie projectplanning, en wie merkt het als een levering schuift?</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-kanon-inkoopagent-leveranciersportaal-erp-draad</guid>
+</item>
+<item>
+<title>Bernards: eerst datadiscipline, dan samenwerkende RFI-, submittal- en planningsagents (Procore)</title>
+<link>https://www.procore.com/casestudies/bernards-ai</link>
+<description>Probleem: bij deze Californische hoofdaannemer met tientallen gelijktijdige projecten was projectdata onvolledig en inconsistent, waardoor engineers tijd kwijt waren aan opschonen en risico's vaak op gevoel werden ingeschat. Oplossing: Bernards standaardiseerde op Procore als enige invoerpunt per proces en zet daarop Procore AI in voor onder meer RFI- en submittalreview, met agents die samenwerken en een samenvatting voor de leidinggevende maken. Resultaat volgens de case: consistente, AI-klare data, realtime zicht op voorlopende indicatoren zoals RFI's en inkoopvoortgang, en geautomatiseerde QA/QC op uitschieters; er worden geen tijd- of kostencijfers genoemd.
+
+Relevantie: Inbrengen bij bouwbedrijven op 4PS die enthousiast zijn over AI maar rommelige projectdata hebben; vraag: is er per proces één vaste plek waar projectdata wordt ingevoerd, want zonder die basis levert een AI-agent weinig op.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-bernards-procore-rfi-submittal-schedule-agents</guid>
+</item>
+<item>
+<title>Linarc Lia: AI haalt contractafspraken uit bestekken en vindt ongemarkeerde tekeningwijzigingen</title>
+<link>https://www.globenewswire.com/news-release/2026/11/17/3404569/0/en/linarc-introduces-lia-an-ai-assistant-that-turns-construction-documents-into-actionable-project-intelligence-from-day-one.html</link>
+<description>Probleem: details in tekeningen, bestekken en contracten moeten handmatig worden doorgelezen en ingevoerd, waardoor eisen over het hoofd worden gezien en tekeningwijzigingen onopgemerkt blijven. Oplossing: bouwprojectplatform Linarc bracht AI-assistent Lia in productie, die tekeningsets indexeert, tekeningversies vergelijkt (ook wijzigingen die niet zijn aangewolkt) en daaruit direct RFI's of meerwerk kan starten, submittal-registers uit bestekken opbouwt en contractgegevens zoals mijlpalen, boetes, betalingsvoorwaarden en inhoudingen (retainage) extraheert. Elk AI-resultaat krijgt een betrouwbaarheidsscore en bronverwijzing en wordt eerst door het team goedgekeurd. Resultaat: het betreft een productaankondiging; klantresultaten worden niet genoemd.
+
+Relevantie: Inbrengen bij aannemers op 4PS die contractvoorwaarden en meerwerk nu handmatig vastleggen; vraag: hoe komen betalingstermijnen, kortingen en boeteclausules uit het contract nu in jullie projectadministratie, en hoe vaak mist meerwerk door een ongemerkte tekeningwijziging?</description>
+<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-linarc-lia-contract-tekeningrevisies-2026-11-17</guid>
+</item>
+<item>
 <title>Linarc lanceert Lia: AI-assistent die contracten, bestekken en tekeningen omzet in projectdata</title>
 <link>https://www.globenewswire.com/news-release/2026/11/17/3404569/0/en/linarc-introduces-lia-an-ai-assistant-that-turns-construction-documents-into-actionable-project-intelligence-from-day-one.html</link>
 <description>Bouwsoftwareleverancier Linarc introduceerde Lia, een AI-assistent die tekeningen, bestekken, contracten, planningen, facturen en inkooporders leest en daar gestructureerde projectrecords van maakt, tekeningrevisies vergelijkt en submittals genereert. Elk resultaat verwijst naar de bron en vereist goedkeuring door de gebruiker vóór opslaan; Lia zit standaard in het platform.
@@ -35,6 +75,16 @@ Relevantie: Relevant voor het beheersen van Copilot Credits van BC-agents (zoals
 <pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
 <category>prijzen_licenties</category>
 <guid isPermaLink="false">radar-agent-365-cost-management-multi-tenant-ignite-2026</guid>
+</item>
+<item>
+<title>Eigen BC-agents: incasso-agent, leverancierscontrole en Teams-verkoopassistent via MCP (Covenant Technology Partners)</title>
+<link>https://covenanttechnologypartners.com/2026/11/16/beyond-the-built-in-agents-designing-your-own/</link>
+<description>Probleem: de standaard Sales Order-, Payables- en Expense-agents dekken niet elk bedrijfseigen proces. Oplossing: partner Covenant Technology Partners beschrijft twee routes: met Agent Designer (preview) in Business Central bijvoorbeeld een incasso-agent die wekelijks achterstallige klanten bekijkt en herinneringsmails klaarzet voor de creditmanager, of een agent die nieuwe leverancierskaarten controleert op ontbrekende fiscale en betaalgegevens; en via de BC MCP-server een Copilot Studio-assistent in Teams die vragen als openstaand saldo en voorraad beantwoordt onder de eigen rechten van de gebruiker. Resultaat: geen klantresultaten; de partner adviseert te starten met de Payables Agent, dan de Sales Order Agent, dan een Teams-agent en pas daarna een volledig eigen agent.
+
+Relevantie: Inbrengen bij BC-klanten die al Copilot gebruiken en vragen 'wat is de volgende stap'; vraag: welk terugkerend controle- of opvolgklusje (debiteuren, stamgegevens) zouden jullie als eerste door een eigen agent laten voorbereiden?</description>
+<pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-ctp-agent-designer-incasso-leveranciers-mcp-teams-2026-11-16</guid>
 </item>
 <item>
 <title>SynkedUP: weekrapport van drie uur naar vijftien minuten via MCP-server en Claude; AI-calculatie uit video</title>
