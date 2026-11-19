@@ -4161,5 +4161,77 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-work-iq-ignite-2026-erp-preview-read-act",
+    "datum": "2026-11-17",
+    "gemeld_op": "2026-11-19",
+    "onderwerp": "Work IQ (Ignite 2026): Dynamics 365 ERP-data voor agents (preview) met WorkIQ.Read/Act-rechten",
+    "samenvatting": "Microsoft kondigde op Ignite 2026 aan dat Business Applications in Work IQ ERP-data (preview) en CRM-data uit Dynamics 365 en Power Platform samenbrengt met Microsoft 365-context, zodat agents over bijvoorbeeld e-mails, vergaderingen en bedrijfsdata kunnen redeneren. Work IQ-API's bieden één beheerd toegangspad met nieuwe WorkIQ.Read- en WorkIQ.Act-rechten en een tenantbreed maximum voor agentacties; rechten en business skills uit ERP en CRM worden gerespecteerd.",
+    "relevantie": "Bepaalt hoe agents buiten BC (Copilot, Copilot Studio) straks veilig BC/4PS-data kunnen lezen en wijzigen, en welke governance partners bij klanten moeten inrichten.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "work-iq",
+      "ignite-2026",
+      "governance",
+      "agents",
+      "erp"
+    ],
+    "bronnen": [
+      {
+        "titel": "Microsoft Tech Community: What's new in Work IQ at Ignite 2026",
+        "url": "https://techcommunity.microsoft.com/blog/microsoft_365blog/whats-new-in-work-iq-at-ignite-2026-agents-that-get-work-done/4572219"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-built-mcp-commitments-agent",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-19",
+    "onderwerp": "Built: Built MCP en Commitments Agent voor bouwfinanciën",
+    "samenvatting": "Bouwfinancieringsplatform Built toonde op zijn owner- en developer-keynote de Job Cost Agent, die facturen en termijnstaten codeert tegen het projectbudget en uitzonderingen ter review doorstuurt, en kondigde Built MCP aan: daarmee kunnen goedgekeurde AI-assistenten zoals Copilot, ChatGPT of Claude projectdata opvragen en erop acteren met behoud van rechten en audittrail. Een Commitments Agent die een schedule of values omzet in een conceptverplichting is in ontwikkeling.",
+    "relevantie": "Concurrent signaal: bouwspecifieke kostenagents plus een MCP-server richting Copilot is precies het patroon dat 4PS Construct op BC kan bieden via de BC MCP-server.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bouw",
+      "concurrentie",
+      "mcp",
+      "job-costing",
+      "agents",
+      "built"
+    ],
+    "bronnen": [
+      {
+        "titel": "Built: Owner and Developer Keynote Recap",
+        "url": "https://getbuilt.com/blog/owner-developer-keynote-recap/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-oracle-primavera-cloud-ai-assistent-risicobibliotheek",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-19",
+    "onderwerp": "Oracle Primavera Cloud: AI-helpassistent, risicobibliotheek en vernieuwde pull planning",
+    "samenvatting": "Oracle voegde aan Primavera Cloud een AI-helpassistent toe die vragen in natuurlijke taal beantwoordt op basis van de officiële help- en REST API-documentatie, plus een risicobibliotheek voor herbruikbare projectrisico's en een vernieuwde pull planning rond mijlpalen. De functies zijn algemeen beschikbaar; de AI-assistent moet door een beheerder worden geactiveerd en is in bepaalde regio's beschikbaar.",
+    "relevantie": "Laat zien waar planningsconcurrenten in de bouw AI inzetten (gebruikershulp en risicobeheer), relevant voor de positionering van 4PS-planning en projectbeheersing.",
+    "categorie": "concurrentie",
+    "tags": [
+      "bouw",
+      "concurrentie",
+      "oracle",
+      "primavera",
+      "planning",
+      "risicobeheer"
+    ],
+    "bronnen": [
+      {
+        "titel": "Oracle: New Oracle Primavera Cloud AI Capabilities",
+        "url": "https://www.oracle.com/news/announcement/new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-planning-and-risk-2026-11-18/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

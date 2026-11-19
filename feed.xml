@@ -5,7 +5,27 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Wed, 18 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Oracle Primavera Cloud: AI-helpassistent, risicobibliotheek en vernieuwde pull planning</title>
+<link>https://www.oracle.com/news/announcement/new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-planning-and-risk-2026-11-18/</link>
+<description>Oracle voegde aan Primavera Cloud een AI-helpassistent toe die vragen in natuurlijke taal beantwoordt op basis van de officiële help- en REST API-documentatie, plus een risicobibliotheek voor herbruikbare projectrisico's en een vernieuwde pull planning rond mijlpalen. De functies zijn algemeen beschikbaar; de AI-assistent moet door een beheerder worden geactiveerd en is in bepaalde regio's beschikbaar.
+
+Relevantie: Laat zien waar planningsconcurrenten in de bouw AI inzetten (gebruikershulp en risicobeheer), relevant voor de positionering van 4PS-planning en projectbeheersing.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-oracle-primavera-cloud-ai-assistent-risicobibliotheek</guid>
+</item>
+<item>
+<title>Built: Built MCP en Commitments Agent voor bouwfinanciën</title>
+<link>https://getbuilt.com/blog/owner-developer-keynote-recap/</link>
+<description>Bouwfinancieringsplatform Built toonde op zijn owner- en developer-keynote de Job Cost Agent, die facturen en termijnstaten codeert tegen het projectbudget en uitzonderingen ter review doorstuurt, en kondigde Built MCP aan: daarmee kunnen goedgekeurde AI-assistenten zoals Copilot, ChatGPT of Claude projectdata opvragen en erop acteren met behoud van rechten en audittrail. Een Commitments Agent die een schedule of values omzet in een conceptverplichting is in ontwikkeling.
+
+Relevantie: Concurrent signaal: bouwspecifieke kostenagents plus een MCP-server richting Copilot is precies het patroon dat 4PS Construct op BC kan bieden via de BC MCP-server.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-built-mcp-commitments-agent</guid>
+</item>
 <item>
 <title>Perry Contracting: Copilot-agent codeert inkoopfacturen naar project en grootboek, projectleider keurt goed in Teams (N Solutions)</title>
 <link>https://nsolutionsllc.com/perry-contracting-inc/</link>
@@ -35,6 +55,16 @@ Relevantie: Inbrengen bij bouwbedrijven op 4PS die enthousiast zijn over AI maar
 <pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-bernards-procore-rfi-submittal-schedule-agents</guid>
+</item>
+<item>
+<title>Work IQ (Ignite 2026): Dynamics 365 ERP-data voor agents (preview) met WorkIQ.Read/Act-rechten</title>
+<link>https://techcommunity.microsoft.com/blog/microsoft_365blog/whats-new-in-work-iq-at-ignite-2026-agents-that-get-work-done/4572219</link>
+<description>Microsoft kondigde op Ignite 2026 aan dat Business Applications in Work IQ ERP-data (preview) en CRM-data uit Dynamics 365 en Power Platform samenbrengt met Microsoft 365-context, zodat agents over bijvoorbeeld e-mails, vergaderingen en bedrijfsdata kunnen redeneren. Work IQ-API's bieden één beheerd toegangspad met nieuwe WorkIQ.Read- en WorkIQ.Act-rechten en een tenantbreed maximum voor agentacties; rechten en business skills uit ERP en CRM worden gerespecteerd.
+
+Relevantie: Bepaalt hoe agents buiten BC (Copilot, Copilot Studio) straks veilig BC/4PS-data kunnen lezen en wijzigen, en welke governance partners bij klanten moeten inrichten.</description>
+<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-work-iq-ignite-2026-erp-preview-read-act</guid>
 </item>
 <item>
 <title>Linarc Lia: AI haalt contractafspraken uit bestekken en vindt ongemarkeerde tekeningwijzigingen</title>
