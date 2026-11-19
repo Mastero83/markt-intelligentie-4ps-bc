@@ -4233,5 +4233,82 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-avant-tecno-fellowmind-bc-agents-verkoop-inkoop",
+    "datum": "2026-11-12",
+    "gemeld_op": "2026-11-19",
+    "onderwerp": "Avant Tecno: AI-agents voor verkoop, inkoop en orderverwerking op Business Central (Fellowmind)",
+    "samenvatting": "Probleem: bij de Finse fabrikant van compacte laders kostten verkoop, inkoop en orderverwerking veel handmatig werk. Oplossing: Fellowmind ontwikkelde AI-agents die medewerkers in deze processen ondersteunen en zijn geïntegreerd met de bestaande Microsoft Dynamics 365 Business Central-omgeving. Resultaat volgens de bron: minder handmatig werk en sommige processen verlopen tot 80% sneller; de case leverde Fellowmind een finaleplaats op in de Microsoft Partner of the Year-categorie 'Agentic Business Operations with Business Central'.",
+    "relevantie": "Inbrengen bij maak- en handelsbedrijven op BC met veel handmatige order- en inkoopverwerking; vraag: welk proces tussen order binnenkomst en inkoopbestelling kost nu de meeste handmatige stappen, want daar begon Avant Tecno ook.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "ai-agents",
+      "verkoop",
+      "inkoop",
+      "orderverwerking",
+      "maakindustrie",
+      "partner-of-the-year"
+    ],
+    "bronnen": [
+      {
+        "titel": "Fellowmind finalist bij de Global Microsoft Partner of the Year Awards 2026",
+        "url": "https://www.fellowmind.com/nl-nl/nieuws-en-inzichten/fellowmind-finalist-bij-de-global-microsoft-partner-of-the-year-awards-2026/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-procore-asfaltaannemer-offline-urenregistratie-daily-log-agent",
+    "datum": "2026-11-17",
+    "gemeld_op": "2026-11-19",
+    "onderwerp": "Asfalt- en wegenbouwer: uren offline op de bouwplaats registreren, 30 minuten per ploegleider per dag (Procore)",
+    "samenvatting": "Probleem: bij een asfalt- en wegenbouwer in het Amerikaanse Midwesten konden ploegleiders uren niet offline op locatie vastleggen en waren ze na een werkdag van tien uur thuis nog 30 tot 45 minuten bezig met uren invoeren en controleren, plus synchroniseren. Oplossing: Procore bouwde een offline conceptmodus zodat uren gedurende de dag op de bouwplaats worden vastgelegd en later synchroniseren; daarnaast toonde Procore een Daily Log Agent die spraaknotities en foto's combineert tot een dagrapport. Resultaat volgens Procore: het bedrijf bespaart elke ploegleider minstens 30 minuten per dag.",
+    "relevantie": "Inbrengen bij infra- en wegenbouwers op 4PS met buitendienstploegen; vraag: wanneer en waar voeren uw uitvoerders en ploegleiders nu hun uren en dagrapporten in, en hoeveel avondwerk zit daarin.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "infra",
+      "concurrentie",
+      "procore",
+      "urenregistratie",
+      "mobiel",
+      "dagrapport",
+      "ai-agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Procore: Building what's next for the trades (Groundbreak 2026 keynote)",
+        "url": "https://www.procore.com/blog/building-whats-next-for-trades"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-straits-construction-forma-qr-prefab-ai-rfi",
+    "datum": "2026-11-19",
+    "gemeld_op": "2026-11-19",
+    "onderwerp": "Straits Construction: prefab-status via QR-scan en AI-ondersteunde RFI's op de bouwplaats (Autodesk Forma)",
+    "samenvatting": "Probleem: bij de Singaporese hoofdaannemer liep coördinatie op het project Pinery Residences via e-mail en spreadsheets, en werd de logistiek van prefab-elementen bijgehouden op een met de hand ingekleurde papieren wandplanning. Oplossing: Autodesk Forma als centrale omgeving; medewerkers scannen een QR-code per prefab-element zodat de status op het 3D-model realtime verandert, en AI zet gesproken input om in gestructureerde RFI-velden. Resultaat volgens de case: het project ligt op schema, 108 actieve gebruikers op het project en het gebruik van de ingebouwde AI-assistent groeide in 12 maanden van 8 naar 415 gebruikers.",
+    "relevantie": "Inbrengen bij bouwbedrijven op 4PS die met prefab of veel leveringen werken; vraag: hoe weet uw uitvoerder nu welke elementen geleverd en gemonteerd zijn, en zou een QR-scan die dat direct in het project terugmeldt helpen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "concurrentie",
+      "autodesk",
+      "prefab",
+      "qr-code",
+      "rfi",
+      "spraak",
+      "adoptie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Autodesk: How Straits Construction builds connected, predictable delivery with Autodesk Forma",
+        "url": "https://construction.autodesk.com/resources/customers/advancing-digital-delivery-at-scale-how-straits-construction-builds-connected-predictable-delivery-with-autodesk-forma/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]

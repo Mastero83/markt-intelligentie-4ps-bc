@@ -7,6 +7,16 @@
 <language>nl-nl</language>
 <lastBuildDate>Thu, 19 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Straits Construction: prefab-status via QR-scan en AI-ondersteunde RFI's op de bouwplaats (Autodesk Forma)</title>
+<link>https://construction.autodesk.com/resources/customers/advancing-digital-delivery-at-scale-how-straits-construction-builds-connected-predictable-delivery-with-autodesk-forma/</link>
+<description>Probleem: bij de Singaporese hoofdaannemer liep coördinatie op het project Pinery Residences via e-mail en spreadsheets, en werd de logistiek van prefab-elementen bijgehouden op een met de hand ingekleurde papieren wandplanning. Oplossing: Autodesk Forma als centrale omgeving; medewerkers scannen een QR-code per prefab-element zodat de status op het 3D-model realtime verandert, en AI zet gesproken input om in gestructureerde RFI-velden. Resultaat volgens de case: het project ligt op schema, 108 actieve gebruikers op het project en het gebruik van de ingebouwde AI-assistent groeide in 12 maanden van 8 naar 415 gebruikers.
+
+Relevantie: Inbrengen bij bouwbedrijven op 4PS die met prefab of veel leveringen werken; vraag: hoe weet uw uitvoerder nu welke elementen geleverd en gemonteerd zijn, en zou een QR-scan die dat direct in het project terugmeldt helpen.</description>
+<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-straits-construction-forma-qr-prefab-ai-rfi</guid>
+</item>
+<item>
 <title>Oracle Primavera Cloud: AI-helpassistent, risicobibliotheek en vernieuwde pull planning</title>
 <link>https://www.oracle.com/news/announcement/new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-planning-and-risk-2026-11-18/</link>
 <description>Oracle voegde aan Primavera Cloud een AI-helpassistent toe die vragen in natuurlijke taal beantwoordt op basis van de officiële help- en REST API-documentatie, plus een risicobibliotheek voor herbruikbare projectrisico's en een vernieuwde pull planning rond mijlpalen. De functies zijn algemeen beschikbaar; de AI-assistent moet door een beheerder worden geactiveerd en is in bepaalde regio's beschikbaar.
@@ -55,6 +65,16 @@ Relevantie: Inbrengen bij bouwbedrijven op 4PS die enthousiast zijn over AI maar
 <pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-bernards-procore-rfi-submittal-schedule-agents</guid>
+</item>
+<item>
+<title>Asfalt- en wegenbouwer: uren offline op de bouwplaats registreren, 30 minuten per ploegleider per dag (Procore)</title>
+<link>https://www.procore.com/blog/building-whats-next-for-trades</link>
+<description>Probleem: bij een asfalt- en wegenbouwer in het Amerikaanse Midwesten konden ploegleiders uren niet offline op locatie vastleggen en waren ze na een werkdag van tien uur thuis nog 30 tot 45 minuten bezig met uren invoeren en controleren, plus synchroniseren. Oplossing: Procore bouwde een offline conceptmodus zodat uren gedurende de dag op de bouwplaats worden vastgelegd en later synchroniseren; daarnaast toonde Procore een Daily Log Agent die spraaknotities en foto's combineert tot een dagrapport. Resultaat volgens Procore: het bedrijf bespaart elke ploegleider minstens 30 minuten per dag.
+
+Relevantie: Inbrengen bij infra- en wegenbouwers op 4PS met buitendienstploegen; vraag: wanneer en waar voeren uw uitvoerders en ploegleiders nu hun uren en dagrapporten in, en hoeveel avondwerk zit daarin.</description>
+<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-procore-asfaltaannemer-offline-urenregistratie-daily-log-agent</guid>
 </item>
 <item>
 <title>Work IQ (Ignite 2026): Dynamics 365 ERP-data voor agents (preview) met WorkIQ.Read/Act-rechten</title>
@@ -225,6 +245,16 @@ Relevantie: Minder handmatige invoer bij het overnemen van gegevens uit mails, o
 <pubDate>Fri, 13 Nov 2026 08:30:00 +0000</pubDate>
 <category>ai_features</category>
 <guid isPermaLink="false">radar-bc-auto-paste-rm579980</guid>
+</item>
+<item>
+<title>Avant Tecno: AI-agents voor verkoop, inkoop en orderverwerking op Business Central (Fellowmind)</title>
+<link>https://www.fellowmind.com/nl-nl/nieuws-en-inzichten/fellowmind-finalist-bij-de-global-microsoft-partner-of-the-year-awards-2026/</link>
+<description>Probleem: bij de Finse fabrikant van compacte laders kostten verkoop, inkoop en orderverwerking veel handmatig werk. Oplossing: Fellowmind ontwikkelde AI-agents die medewerkers in deze processen ondersteunen en zijn geïntegreerd met de bestaande Microsoft Dynamics 365 Business Central-omgeving. Resultaat volgens de bron: minder handmatig werk en sommige processen verlopen tot 80% sneller; de case leverde Fellowmind een finaleplaats op in de Microsoft Partner of the Year-categorie 'Agentic Business Operations with Business Central'.
+
+Relevantie: Inbrengen bij maak- en handelsbedrijven op BC met veel handmatige order- en inkoopverwerking; vraag: welk proces tussen order binnenkomst en inkoopbestelling kost nu de meeste handmatige stappen, want daar begon Avant Tecno ook.</description>
+<pubDate>Thu, 12 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-avant-tecno-fellowmind-bc-agents-verkoop-inkoop</guid>
 </item>
 <item>
 <title>Ibis (Aceve) lanceert cloudcalculatiepakket met AI via MCP</title>
