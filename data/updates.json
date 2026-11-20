@@ -4385,5 +4385,104 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-mcs-building-services-bc-contracts365",
+    "datum": "2026-11-20",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "MCS Building Services: installatie- en FM-bedrijf op één BC-platform, inkoop en facturen bijna direct (Xperience)",
+    "samenvatting": "Probleem: een Brits installatie- (MEP) en facility-managementbedrijf werkte met een verouderd bouw-ERP dat beide bedrijfsmodellen niet goed ondersteunde, met handmatige, tijdrovende processen en rapportage via spreadsheets. Oplossing: Dynamics 365 Business Central met de branche-oplossingen Contracts365 en Service365 van partner Xperience, plus Jet Reports; Copilot en de komende inkooporder- en declaratie-agents worden geëvalueerd. Resultaat volgens de bron: bijna directe verwerking van inkooporders en facturen, 2 à 3 dagen bespaard per grote inkooporder en twee bedrijven op één cloud-ERP.",
+    "relevantie": "Goed voor installateurs met zowel projecten als service/onderhoud: vraag waar inkoop en factuurverwerking nu vastlopen en laat zien hoe BC/4PS daar een basis legt voor de Payables- en inkoopagents.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "installatietechniek",
+      "service-en-onderhoud",
+      "inkoop",
+      "factuurverwerking",
+      "copilot",
+      "agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "Xperience – MCS Building Services: From Legacy Limitations to Cloud-Powered Efficiency",
+        "url": "https://www.xperience-group.com/case-study/mcs-building-services-from-legacy-limitations-to-cloud-powered-efficiency/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-bokhorst-werkbonnen-ai-syntess",
+    "datum": "2026-11-20",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "Bokhorst: werkbonnen uit e-mail automatisch in het installatie-ERP met AI (VionA)",
+    "samenvatting": "Probleem: een installatietechniekbedrijf dat onderhoud en service doet voor woningcorporaties voerde elke werkbon-PDF uit de mail handmatig in Syntess in, circa 2 minuten per bon bij 1.250 tot 1.600 bonnen per maand. Oplossing: een automatisering van VionA start bij binnenkomst in de gedeelde mailbox, laat een AI-model naam, adres en probleemomschrijving uit de PDF halen, maakt de werkbon aan en archiveert de mail; bij een onbekend adres volgt een melding in plaats van een werkbon. Resultaat volgens de bron: 41 tot 55 uur per maand bespaard en 80% van de werkbonnen direct foutloos aangemaakt.",
+    "relevantie": "Vertaalbaar naar serviceorders in 4PS/BC (bijv. met een eigen agent of Agent Designer): vraag installateurs en onderhoudsbedrijven hoeveel opdrachten van corporaties per mail binnenkomen en wie die nu overtypt.",
+    "categorie": "use_case",
+    "tags": [
+      "installatietechniek",
+      "service-en-onderhoud",
+      "werkbonnen",
+      "documentverwerking",
+      "e-mail",
+      "concurrentie",
+      "4ps"
+    ],
+    "bronnen": [
+      {
+        "titel": "VionA – Case Bokhorst: werkbonnen automatisch in Syntess",
+        "url": "https://www.viona.nl/cases/werkbonnen-automatisch-verwerken"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-cloudmotiv-submittals-procore-ai",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "Aannemer in Denver: submittal-controle tegen bestek geautomatiseerd met AI (CloudMotiv, Procore)",
+    "samenvatting": "Probleem: onderaannemers stuurden honderden materiaalspecificaties en werktekeningen per e-mail, wat een beoordelingsachterstand van 14 dagen en fouten bij handmatige invoer gaf. Oplossing: een AI-pijplijn (n8n, OpenAI Vision, Procore API) die inzendingen inleest, toetst aan het architectonische bestek en taken routeert naar Procore/ERP en het uitvoeringsteam. Resultaat volgens de leverancier: doorlooptijd van 14 dagen naar minder dan 48 uur en ruim 30 uur per week bespaard voor projectengineers (klant anoniem).",
+    "relevantie": "Voor aannemers met veel onderaannemers: vraag hoe lang het goedkeuren van materiaalvoorstellen nu duurt en of die status terugkomt in inkoop en planning in 4PS/BC.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "procore",
+      "submittals",
+      "documentverwerking",
+      "ai-agents",
+      "werkvoorbereiding",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "CloudMotiv – AI Workflow Automation for Construction Companies Case Study",
+        "url": "https://cloudmotiv.ai/case-studies/ai-workflow-automation-construction"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-suffolk-gilead-contech-inkoop",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "Suffolk: AI voor levertijdbewaking inkoop, voortgang en fasering op labproject Gilead",
+    "samenvatting": "Probleem: een groot life-sciences-onderzoekscentrum vroeg om strakke beheersing van uitzetwerk, voortgang, inkoop en volgorde van werkzaamheden. Oplossing: Suffolk Construction zette OpenSpace in (360-gradencamera's en drones voor voortgang), Dusty Robotics (uitzetrobot), Kaya AI (realtime volgen van levertijden voor inkoopbeheer) en Alice Technologies (analyse van bouwvolgorde). De bron noemt geen concrete resultaatcijfers.",
+    "relevantie": "Inspiratie voor grotere aannemers: vraag hoe ze nu levertijden van kritieke materialen volgen en hoe die signalen in inkoop en projectplanning in 4PS/BC terechtkomen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "inkoop",
+      "levertijden",
+      "voortgangsbewaking",
+      "planning",
+      "contech"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction Dive – Suffolk taps array of contech applications on Gilead's new California research center",
+        "url": "https://www.constructiondive.com/news/suffolk-gilead-lab-contech-california-construction/875068/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]

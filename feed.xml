@@ -7,6 +7,26 @@
 <language>nl-nl</language>
 <lastBuildDate>Fri, 20 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>MCS Building Services: installatie- en FM-bedrijf op één BC-platform, inkoop en facturen bijna direct (Xperience)</title>
+<link>https://www.xperience-group.com/case-study/mcs-building-services-from-legacy-limitations-to-cloud-powered-efficiency/</link>
+<description>Probleem: een Brits installatie- (MEP) en facility-managementbedrijf werkte met een verouderd bouw-ERP dat beide bedrijfsmodellen niet goed ondersteunde, met handmatige, tijdrovende processen en rapportage via spreadsheets. Oplossing: Dynamics 365 Business Central met de branche-oplossingen Contracts365 en Service365 van partner Xperience, plus Jet Reports; Copilot en de komende inkooporder- en declaratie-agents worden geëvalueerd. Resultaat volgens de bron: bijna directe verwerking van inkooporders en facturen, 2 à 3 dagen bespaard per grote inkooporder en twee bedrijven op één cloud-ERP.
+
+Relevantie: Goed voor installateurs met zowel projecten als service/onderhoud: vraag waar inkoop en factuurverwerking nu vastlopen en laat zien hoe BC/4PS daar een basis legt voor de Payables- en inkoopagents.</description>
+<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-mcs-building-services-bc-contracts365</guid>
+</item>
+<item>
+<title>Bokhorst: werkbonnen uit e-mail automatisch in het installatie-ERP met AI (VionA)</title>
+<link>https://www.viona.nl/cases/werkbonnen-automatisch-verwerken</link>
+<description>Probleem: een installatietechniekbedrijf dat onderhoud en service doet voor woningcorporaties voerde elke werkbon-PDF uit de mail handmatig in Syntess in, circa 2 minuten per bon bij 1.250 tot 1.600 bonnen per maand. Oplossing: een automatisering van VionA start bij binnenkomst in de gedeelde mailbox, laat een AI-model naam, adres en probleemomschrijving uit de PDF halen, maakt de werkbon aan en archiveert de mail; bij een onbekend adres volgt een melding in plaats van een werkbon. Resultaat volgens de bron: 41 tot 55 uur per maand bespaard en 80% van de werkbonnen direct foutloos aangemaakt.
+
+Relevantie: Vertaalbaar naar serviceorders in 4PS/BC (bijv. met een eigen agent of Agent Designer): vraag installateurs en onderhoudsbedrijven hoeveel opdrachten van corporaties per mail binnenkomen en wie die nu overtypt.</description>
+<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-bokhorst-werkbonnen-ai-syntess</guid>
+</item>
+<item>
 <title>Business Applications in Work IQ GA en Dynamics 365 ERP in Work IQ met business skills (public preview)</title>
 <link>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/19/unlock-new-possibilities-for-dynamics-365-erp-with-work-iq-and-business-skills/</link>
 <description>Microsoft meldde op 18 november dat Business Applications in Work IQ algemeen beschikbaar is, inclusief business skills, automatisch gegenereerde semantische modellen en de Work IQ MCP-server. Op 19 november volgde Dynamics 365 ERP in Work IQ in public preview: ERP-data en bedrijfslogica in Copilot en agents, met business skills (vastgelegde processen, afgeschermd via ERP-beveiligingsrollen) en ingebouwde skills voor onkosten, inkoop, commerce en finance. Business Central wordt in de blogs niet expliciet genoemd.
@@ -25,6 +45,26 @@ Relevantie: Inbrengen bij bouwbedrijven op 4PS die met prefab of veel leveringen
 <pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-straits-construction-forma-qr-prefab-ai-rfi</guid>
+</item>
+<item>
+<title>Suffolk: AI voor levertijdbewaking inkoop, voortgang en fasering op labproject Gilead</title>
+<link>https://www.constructiondive.com/news/suffolk-gilead-lab-contech-california-construction/875068/</link>
+<description>Probleem: een groot life-sciences-onderzoekscentrum vroeg om strakke beheersing van uitzetwerk, voortgang, inkoop en volgorde van werkzaamheden. Oplossing: Suffolk Construction zette OpenSpace in (360-gradencamera's en drones voor voortgang), Dusty Robotics (uitzetrobot), Kaya AI (realtime volgen van levertijden voor inkoopbeheer) en Alice Technologies (analyse van bouwvolgorde). De bron noemt geen concrete resultaatcijfers.
+
+Relevantie: Inspiratie voor grotere aannemers: vraag hoe ze nu levertijden van kritieke materialen volgen en hoe die signalen in inkoop en projectplanning in 4PS/BC terechtkomen.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-suffolk-gilead-contech-inkoop</guid>
+</item>
+<item>
+<title>Aannemer in Denver: submittal-controle tegen bestek geautomatiseerd met AI (CloudMotiv, Procore)</title>
+<link>https://cloudmotiv.ai/case-studies/ai-workflow-automation-construction</link>
+<description>Probleem: onderaannemers stuurden honderden materiaalspecificaties en werktekeningen per e-mail, wat een beoordelingsachterstand van 14 dagen en fouten bij handmatige invoer gaf. Oplossing: een AI-pijplijn (n8n, OpenAI Vision, Procore API) die inzendingen inleest, toetst aan het architectonische bestek en taken routeert naar Procore/ERP en het uitvoeringsteam. Resultaat volgens de leverancier: doorlooptijd van 14 dagen naar minder dan 48 uur en ruim 30 uur per week bespaard voor projectengineers (klant anoniem).
+
+Relevantie: Voor aannemers met veel onderaannemers: vraag hoe lang het goedkeuren van materiaalvoorstellen nu duurt en of die status terugkomt in inkoop en planning in 4PS/BC.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-cloudmotiv-submittals-procore-ai</guid>
 </item>
 <item>
 <title>Zuper Agent Studio: klanten bouwen zelf no-code AI-agents (field service)</title>
