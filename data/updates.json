@@ -4310,5 +4310,80 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-work-iq-business-apps-ga-erp-business-skills-preview",
+    "datum": "2026-11-19",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "Business Applications in Work IQ GA en Dynamics 365 ERP in Work IQ met business skills (public preview)",
+    "samenvatting": "Microsoft meldde op 18 november dat Business Applications in Work IQ algemeen beschikbaar is, inclusief business skills, automatisch gegenereerde semantische modellen en de Work IQ MCP-server. Op 19 november volgde Dynamics 365 ERP in Work IQ in public preview: ERP-data en bedrijfslogica in Copilot en agents, met business skills (vastgelegde processen, afgeschermd via ERP-beveiligingsrollen) en ingebouwde skills voor onkosten, inkoop, commerce en finance. Business Central wordt in de blogs niet expliciet genoemd.",
+    "relevantie": "Laat zien hoe Microsoft procesknowhow als herbruikbare, beveiligde skills voor agents positioneert, de richting waarin ook Business Skills voor BC en 4PS Construct gaan.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "work-iq",
+      "business-skills",
+      "copilot",
+      "mcp",
+      "ignite-2026",
+      "dynamics-365-erp"
+    ],
+    "bronnen": [
+      {
+        "titel": "Microsoft: Unlock new possibilities for Dynamics 365 ERP with Work IQ and business skills",
+        "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/19/unlock-new-possibilities-for-dynamics-365-erp-with-work-iq-and-business-skills/"
+      },
+      {
+        "titel": "Microsoft: Business Applications in Work IQ is now generally available",
+        "url": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/18/business-applications-work-iq-generally-available/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-zuper-agent-studio-custom-agents",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "Zuper Agent Studio: klanten bouwen zelf no-code AI-agents (field service)",
+    "samenvatting": "Field-servicesoftware Zuper breidt Agent Studio uit zodat klanten zelf AI-agents maken met instructies in gewone taal, gekoppelde werkinstructies/checklists en gekozen tools. Agents kunnen werken met jobs, facturen, klanten en offertes, handmatig, op schema of via webhook draaien en eerst op echte data getest worden.",
+    "relevantie": "Concurrentiesignaal voor installatie- en servicebedrijven op BC/4PS: zelfgebouwde agents op service- en factuurdata worden standaard in branchesoftware.",
+    "categorie": "concurrentie",
+    "tags": [
+      "field-service",
+      "installatie",
+      "agents",
+      "no-code",
+      "zuper"
+    ],
+    "bronnen": [
+      {
+        "titel": "Business Wire: Zuper Expands Agent Studio Beyond Pre-Built AI Agents, Letting Customers Create Their Own",
+        "url": "https://www.businesswire.com/news/home/20261118125703/en/Zuper-Expands-Agent-Studio-Beyond-Pre-Built-AI-Agents-Letting-Customers-Create-Their-Own"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-msdw-podcast-bluefort-arvo-ai-extensions",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-20",
+    "onderwerp": "MSDW-podcast: AI schrijft BC-extensies, wie is verantwoordelijk? (Bluefort ARVO)",
+    "samenvatting": "MSDynamicsWorld-podcast met Bluefort over AI-gedreven ontwikkeling van Business Central-extensies via hun platform ARVO, en de vragen die blijven rond requirements, testen, deployment, documentatie en onderhoud. Ook de roadmap van ARVO en feedback van partners op Directions EMEA 2026 komen aan bod.",
+    "relevantie": "Relevant voor BC/4PS-partners: AI verandert hoe maatwerk wordt gebouwd en wie daarvoor verantwoordelijk is, wat het partnerverdienmodel raakt.",
+    "categorie": "partners",
+    "tags": [
+      "bluefort",
+      "arvo",
+      "al-ontwikkeling",
+      "partners",
+      "podcast"
+    ],
+    "bronnen": [
+      {
+        "titel": "MSDW Podcast: AI wrote a Business Central extension. Whose name is on it?",
+        "url": "https://msdynamicsworld.com/story/msdw-podcast-ai-wrote-business-central-extension-whose-name-it"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

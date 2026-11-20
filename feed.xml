@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Thu, 19 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Business Applications in Work IQ GA en Dynamics 365 ERP in Work IQ met business skills (public preview)</title>
+<link>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/11/19/unlock-new-possibilities-for-dynamics-365-erp-with-work-iq-and-business-skills/</link>
+<description>Microsoft meldde op 18 november dat Business Applications in Work IQ algemeen beschikbaar is, inclusief business skills, automatisch gegenereerde semantische modellen en de Work IQ MCP-server. Op 19 november volgde Dynamics 365 ERP in Work IQ in public preview: ERP-data en bedrijfslogica in Copilot en agents, met business skills (vastgelegde processen, afgeschermd via ERP-beveiligingsrollen) en ingebouwde skills voor onkosten, inkoop, commerce en finance. Business Central wordt in de blogs niet expliciet genoemd.
+
+Relevantie: Laat zien hoe Microsoft procesknowhow als herbruikbare, beveiligde skills voor agents positioneert, de richting waarin ook Business Skills voor BC en 4PS Construct gaan.</description>
+<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-work-iq-business-apps-ga-erp-business-skills-preview</guid>
+</item>
 <item>
 <title>Straits Construction: prefab-status via QR-scan en AI-ondersteunde RFI's op de bouwplaats (Autodesk Forma)</title>
 <link>https://construction.autodesk.com/resources/customers/advancing-digital-delivery-at-scale-how-straits-construction-builds-connected-predictable-delivery-with-autodesk-forma/</link>
@@ -15,6 +25,26 @@ Relevantie: Inbrengen bij bouwbedrijven op 4PS die met prefab of veel leveringen
 <pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-straits-construction-forma-qr-prefab-ai-rfi</guid>
+</item>
+<item>
+<title>Zuper Agent Studio: klanten bouwen zelf no-code AI-agents (field service)</title>
+<link>https://www.businesswire.com/news/home/20261118125703/en/Zuper-Expands-Agent-Studio-Beyond-Pre-Built-AI-Agents-Letting-Customers-Create-Their-Own</link>
+<description>Field-servicesoftware Zuper breidt Agent Studio uit zodat klanten zelf AI-agents maken met instructies in gewone taal, gekoppelde werkinstructies/checklists en gekozen tools. Agents kunnen werken met jobs, facturen, klanten en offertes, handmatig, op schema of via webhook draaien en eerst op echte data getest worden.
+
+Relevantie: Concurrentiesignaal voor installatie- en servicebedrijven op BC/4PS: zelfgebouwde agents op service- en factuurdata worden standaard in branchesoftware.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-zuper-agent-studio-custom-agents</guid>
+</item>
+<item>
+<title>MSDW-podcast: AI schrijft BC-extensies, wie is verantwoordelijk? (Bluefort ARVO)</title>
+<link>https://msdynamicsworld.com/story/msdw-podcast-ai-wrote-business-central-extension-whose-name-it</link>
+<description>MSDynamicsWorld-podcast met Bluefort over AI-gedreven ontwikkeling van Business Central-extensies via hun platform ARVO, en de vragen die blijven rond requirements, testen, deployment, documentatie en onderhoud. Ook de roadmap van ARVO en feedback van partners op Directions EMEA 2026 komen aan bod.
+
+Relevantie: Relevant voor BC/4PS-partners: AI verandert hoe maatwerk wordt gebouwd en wie daarvoor verantwoordelijk is, wat het partnerverdienmodel raakt.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>partners</category>
+<guid isPermaLink="false">radar-msdw-podcast-bluefort-arvo-ai-extensions</guid>
 </item>
 <item>
 <title>Oracle Primavera Cloud: AI-helpassistent, risicobibliotheek en vernieuwde pull planning</title>
