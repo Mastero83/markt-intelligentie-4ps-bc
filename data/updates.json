@@ -4484,5 +4484,52 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bcapps-expense-management-public-extensies-bc30",
+    "datum": "2026-11-20",
+    "gemeld_op": "2026-11-23",
+    "onderwerp": "BC30 (BCApps): Expense Management-objecten en Expense Agent Setup public voor extensies",
+    "samenvatting": "In de Microsoft BCApps-repository (main, BC30) zijn op 20 november 2026 de kernobjecten van Expense Management en tabel 6930 Expense Agent Setup public gemaakt, zodat extensies die instellingen kunnen lezen en beheren; agent-, mailbox-, beleids- en creditcardvelden blijven intern. Op 21 november volgde een prestatieverbetering van de geschiktheidscheck van de Payables Agent bij het openen van inkoopfacturen.",
+    "relevantie": "ISV's zoals 4PS en partners kunnen vanaf BC30 declaratieprocessen rond de Expense Agent uitbreiden, bijvoorbeeld voor project- of werkbonkosten in de bouw.",
+    "categorie": "ai_features",
+    "tags": [
+      "business-central",
+      "bc30",
+      "expense-agent",
+      "payables-agent",
+      "extensibility",
+      "bcapps"
+    ],
+    "bronnen": [
+      {
+        "titel": "BC Observatory – Code changes (BCApps #14335, #14295, #14329)",
+        "url": "https://waldo1001.github.io/waldo.BCObservatory/changes/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-4ps-digibouw-niels-goos-ai-informatie",
+    "datum": "2026-11-19",
+    "gemeld_op": "2026-11-23",
+    "onderwerp": "4PS (Niels Goos) op Digibouw: AI begint bij samenhangende projectinformatie",
+    "samenvatting": "In een Digibouw-artikel van 19 november 2026 stelt Niels Goos (Managing Director 4PS by Hilti) dat AI kan ondersteunen maar niet begint bij een losse toepassing: eerst moet duidelijk zijn welke informatie beschikbaar is en hoe die aansluit op het werkproces. 4PS staat op DigiBouw (25-26 november, hal 2, stand D040) met het thema verbinding tussen bouwplaats en bedrijfsvoering in 4PS Construct.",
+    "relevantie": "Geeft de AI-positionering van 4PS zelf weer: datakwaliteit en procesaansluiting in 4PS Construct als voorwaarde voor AI, een bruikbaar haakje voor klantgesprekken.",
+    "categorie": "ai_features",
+    "tags": [
+      "4ps",
+      "4ps-construct",
+      "digibouw",
+      "positionering",
+      "datakwaliteit"
+    ],
+    "bronnen": [
+      {
+        "titel": "Digibouw – Wat er op de bouwplaats gebeurt, moet terugkomen in de cijfers",
+        "url": "https://www.digibouw.nl/artikelen/wat-er-op-de-bouwplaats-gebeurt-moet-terugkomen-in-de-cijfers"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

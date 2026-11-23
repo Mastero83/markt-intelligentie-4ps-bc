@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Fri, 20 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>BC30 (BCApps): Expense Management-objecten en Expense Agent Setup public voor extensies</title>
+<link>https://waldo1001.github.io/waldo.BCObservatory/changes/</link>
+<description>In de Microsoft BCApps-repository (main, BC30) zijn op 20 november 2026 de kernobjecten van Expense Management en tabel 6930 Expense Agent Setup public gemaakt, zodat extensies die instellingen kunnen lezen en beheren; agent-, mailbox-, beleids- en creditcardvelden blijven intern. Op 21 november volgde een prestatieverbetering van de geschiktheidscheck van de Payables Agent bij het openen van inkoopfacturen.
+
+Relevantie: ISV's zoals 4PS en partners kunnen vanaf BC30 declaratieprocessen rond de Expense Agent uitbreiden, bijvoorbeeld voor project- of werkbonkosten in de bouw.</description>
+<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bcapps-expense-management-public-extensies-bc30</guid>
+</item>
 <item>
 <title>MCS Building Services: installatie- en FM-bedrijf op één BC-platform, inkoop en facturen bijna direct (Xperience)</title>
 <link>https://www.xperience-group.com/case-study/mcs-building-services-from-legacy-limitations-to-cloud-powered-efficiency/</link>
@@ -25,6 +35,16 @@ Relevantie: Vertaalbaar naar serviceorders in 4PS/BC (bijv. met een eigen agent 
 <pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-bokhorst-werkbonnen-ai-syntess</guid>
+</item>
+<item>
+<title>4PS (Niels Goos) op Digibouw: AI begint bij samenhangende projectinformatie</title>
+<link>https://www.digibouw.nl/artikelen/wat-er-op-de-bouwplaats-gebeurt-moet-terugkomen-in-de-cijfers</link>
+<description>In een Digibouw-artikel van 19 november 2026 stelt Niels Goos (Managing Director 4PS by Hilti) dat AI kan ondersteunen maar niet begint bij een losse toepassing: eerst moet duidelijk zijn welke informatie beschikbaar is en hoe die aansluit op het werkproces. 4PS staat op DigiBouw (25-26 november, hal 2, stand D040) met het thema verbinding tussen bouwplaats en bedrijfsvoering in 4PS Construct.
+
+Relevantie: Geeft de AI-positionering van 4PS zelf weer: datakwaliteit en procesaansluiting in 4PS Construct als voorwaarde voor AI, een bruikbaar haakje voor klantgesprekken.</description>
+<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-4ps-digibouw-niels-goos-ai-informatie</guid>
 </item>
 <item>
 <title>Business Applications in Work IQ GA en Dynamics 365 ERP in Work IQ met business skills (public preview)</title>
