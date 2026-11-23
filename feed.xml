@@ -7,6 +7,26 @@
 <language>nl-nl</language>
 <lastBuildDate>Mon, 23 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Staaldekonderaannemer: GPS-geverifieerde urenregistratie i.p.v. vaste schattingen, jaarbesparing in zes weken (Workyard)</title>
+<link>https://www.forconstructionpros.com/business/business-services/business-management/article/22978225/workyard-why-construction-labor-estimates-fail-real-solutions</link>
+<description>Probleem: aannemers schatten arbeidsuren en registreren werkelijke uren met dezelfde ruwe, geheugengebaseerde werkwijze (vaste dagen van tien uur, tijdkaarten achteraf), waardoor afwijkingen tussen begroting en werkelijkheid pas bij projectafsluiting zichtbaar worden, vooral bij ploegen die op één dag meerdere projecten bedienen. Oplossing: overstappen op GPS-geverifieerd in- en uitklokken per project, met bevestiging van de uren door de medewerker zelf. Resultaat volgens de bron: een commerciële staaldek-onderaannemer met ploegen in meerdere staten haalde de verwachte jaarlijkse besparing op loonkosten van circa $150.000 al binnen zes weken; een elektrotechnisch bedrijf met tien medewerkers vond circa $10.000 per jaar aan vermijdbare loonkosten. Let op: dit is een bijdrage van een medewerker van de leverancier Workyard en de klanten worden niet bij naam genoemd.
+
+Relevantie: Voor aannemers en installateurs met ploegen op meerdere locaties per dag: vraag hoe uren nu op projecten worden geboekt (achteraf of realtime) en of ze tussentijds uren tegen begroting vergelijken in 4PS/BC in plaats van pas bij de nacalculatie.</description>
+<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-workyard-gps-urenregistratie-loonkosten</guid>
+</item>
+<item>
+<title>Herne Group: AI-planningsanalyse haalt 8 weken vertraging in op defensieproject (Nodes &amp; Links)</title>
+<link>https://constructionmetrics.com/2026/11/22/herne-nodes-links-ai-schedule-recovery/</link>
+<description>Probleem: op een lopend defensie-/kritiek-infraproject schoof de opleverdatum na een door de opdrachtgever opgedragen scopewijziging voorbij een vaste deadline; een risicoanalyse gaf 0,2% kans op tijdig opleveren en elke dag vertraging kostte circa £80.000. Oplossing: The Herne Group gebruikte AI Mode van Nodes &amp; Links, dat de live planning (o.a. Primavera P6/Cloud, MS Project) in gewone taal laat bevragen en herstelopties doorrekent (langere werktijden, fast-tracking, logica-aanpassingen, eerder documenteren, herschikken) met de onderbouwing erbij. Mensen toetsten elke optie op capaciteit, kosten en eisen; de grootste maatregel (kritieke inbedrijfstelling van 5- naar 7-daagse week) werd met die onderbouwing door de opdrachtgever goedgekeurd. Resultaat volgens de bron: eerste scenario's tot 39 dagen potentieel herstel, 15 dagen verbetering bij de volgende planningsupdate, P50-prognose binnen drie maanden 10 weken naar voren, in totaal 8 weken herstel en ruim £4 miljoen aan versnellingsgerelateerde besparingen op dit project (cijfers van leverancier en Herne zelf).
+
+Relevantie: Voor grotere aannemers en infrabedrijven met projectplanning naast 4PS/BC: vraag hoe ze nu na een meerwerk- of scopewijziging herstelscenario's doorrekenen en onderbouwen richting opdrachtgever, en hoeveel planningsuren dat kost.</description>
+<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-herne-nodes-links-ai-planning-herstel</guid>
+</item>
+<item>
 <title>BC30 (BCApps): Expense Management-objecten en Expense Agent Setup public voor extensies</title>
 <link>https://waldo1001.github.io/waldo.BCObservatory/changes/</link>
 <description>In de Microsoft BCApps-repository (main, BC30) zijn op 20 november 2026 de kernobjecten van Expense Management en tabel 6930 Expense Agent Setup public gemaakt, zodat extensies die instellingen kunnen lezen en beheren; agent-, mailbox-, beleids- en creditcardvelden blijven intern. Op 21 november volgde een prestatieverbetering van de geschiktheidscheck van de Payables Agent bij het openen van inkoopfacturen.
@@ -65,6 +85,16 @@ Relevantie: Inbrengen bij bouwbedrijven op 4PS die met prefab of veel leveringen
 <pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-straits-construction-forma-qr-prefab-ai-rfi</guid>
+</item>
+<item>
+<title>Van der Sluis: AI-kennisbank 'Manuel' als digitale collega voor servicemonteurs</title>
+<link>https://www.installatie.nl/partner-content/van-der-sluis-geeft-monteurs-een-digitale-collega/</link>
+<description>Probleem: Van der Sluis Beheer en Onderhoud onderhoudt circa 61.000 installaties met 51 monteurs; technische kennis stond verspreid in handleidingen, storingscodes en OneDrive-documenten of zat in het hoofd van ervaren monteurs (deels binnenkort met pensioen). Oplossing: sinds juni 2025 gebruikt het bedrijf Manuel, een AI-kennisbank voor de installatiebranche met fabrieksdocumentatie, storingscodes, toestelmodellen en onderdelen, aangevuld met eigen praktijkkennis; monteurs stellen vragen via tekst, spraak of scan en krijgen antwoord met bronvermelding. Ook de servicedesk gebruikt het bij storingsmeldingen. Resultaat volgens de bron: ervaren servicemonteurs worden minder vaak gebeld voor technische vragen, zij-instromers vinden sneller de juiste informatie en de first-time-fix stijgt (niet uitsluitend door Manuel); er zijn geen tijdscijfers genoemd. Volgende stap die het bedrijf noemt: koppeling met ERP, gebouwbeheer en monitoring. (Partnercontent, tot stand gekomen in samenwerking met de leverancier.)
+
+Relevantie: Voor installatie- en onderhoudsbedrijven op 4PS (service en onderhoud): vraag hoe monteurs nu storingskennis vinden, hoe vaak ze ervaren collega's bellen, en of storingshistorie en installatiegegevens uit het ERP bij zo'n kennisassistent beschikbaar zouden moeten zijn.</description>
+<pubDate>Wed, 18 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-van-der-sluis-manuel-ai-kennisbank-monteurs</guid>
 </item>
 <item>
 <title>Suffolk: AI voor levertijdbewaking inkoop, voortgang en fasering op labproject Gilead</title>

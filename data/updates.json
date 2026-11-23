@@ -4531,5 +4531,82 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-herne-nodes-links-ai-planning-herstel",
+    "datum": "2026-11-20",
+    "gemeld_op": "2026-11-23",
+    "onderwerp": "Herne Group: AI-planningsanalyse haalt 8 weken vertraging in op defensieproject (Nodes & Links)",
+    "samenvatting": "Probleem: op een lopend defensie-/kritiek-infraproject schoof de opleverdatum na een door de opdrachtgever opgedragen scopewijziging voorbij een vaste deadline; een risicoanalyse gaf 0,2% kans op tijdig opleveren en elke dag vertraging kostte circa £80.000. Oplossing: The Herne Group gebruikte AI Mode van Nodes & Links, dat de live planning (o.a. Primavera P6/Cloud, MS Project) in gewone taal laat bevragen en herstelopties doorrekent (langere werktijden, fast-tracking, logica-aanpassingen, eerder documenteren, herschikken) met de onderbouwing erbij. Mensen toetsten elke optie op capaciteit, kosten en eisen; de grootste maatregel (kritieke inbedrijfstelling van 5- naar 7-daagse week) werd met die onderbouwing door de opdrachtgever goedgekeurd. Resultaat volgens de bron: eerste scenario's tot 39 dagen potentieel herstel, 15 dagen verbetering bij de volgende planningsupdate, P50-prognose binnen drie maanden 10 weken naar voren, in totaal 8 weken herstel en ruim £4 miljoen aan versnellingsgerelateerde besparingen op dit project (cijfers van leverancier en Herne zelf).",
+    "relevantie": "Voor grotere aannemers en infrabedrijven met projectplanning naast 4PS/BC: vraag hoe ze nu na een meerwerk- of scopewijziging herstelscenario's doorrekenen en onderbouwen richting opdrachtgever, en hoeveel planningsuren dat kost.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "infra",
+      "planning",
+      "ai",
+      "scenarioanalyse",
+      "meerwerk",
+      "nodes-and-links"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction Metrics – Herne Group says Nodes & Links AI schedule analysis helped recover eight weeks on a defense project",
+        "url": "https://constructionmetrics.com/2026/11/22/herne-nodes-links-ai-schedule-recovery/"
+      },
+      {
+        "titel": "Nodes & Links – The Herne Group: 10 weeks gained on P50",
+        "url": "https://nodeslinks.com/case-studies/the-herne-group/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-van-der-sluis-manuel-ai-kennisbank-monteurs",
+    "datum": "2026-11-18",
+    "gemeld_op": "2026-11-23",
+    "onderwerp": "Van der Sluis: AI-kennisbank 'Manuel' als digitale collega voor servicemonteurs",
+    "samenvatting": "Probleem: Van der Sluis Beheer en Onderhoud onderhoudt circa 61.000 installaties met 51 monteurs; technische kennis stond verspreid in handleidingen, storingscodes en OneDrive-documenten of zat in het hoofd van ervaren monteurs (deels binnenkort met pensioen). Oplossing: sinds juni 2025 gebruikt het bedrijf Manuel, een AI-kennisbank voor de installatiebranche met fabrieksdocumentatie, storingscodes, toestelmodellen en onderdelen, aangevuld met eigen praktijkkennis; monteurs stellen vragen via tekst, spraak of scan en krijgen antwoord met bronvermelding. Ook de servicedesk gebruikt het bij storingsmeldingen. Resultaat volgens de bron: ervaren servicemonteurs worden minder vaak gebeld voor technische vragen, zij-instromers vinden sneller de juiste informatie en de first-time-fix stijgt (niet uitsluitend door Manuel); er zijn geen tijdscijfers genoemd. Volgende stap die het bedrijf noemt: koppeling met ERP, gebouwbeheer en monitoring. (Partnercontent, tot stand gekomen in samenwerking met de leverancier.)",
+    "relevantie": "Voor installatie- en onderhoudsbedrijven op 4PS (service en onderhoud): vraag hoe monteurs nu storingskennis vinden, hoe vaak ze ervaren collega's bellen, en of storingshistorie en installatiegegevens uit het ERP bij zo'n kennisassistent beschikbaar zouden moeten zijn.",
+    "categorie": "use_case",
+    "tags": [
+      "installatie",
+      "service-en-onderhoud",
+      "kennisbank",
+      "ai",
+      "monteurs",
+      "first-time-fix"
+    ],
+    "bronnen": [
+      {
+        "titel": "Installatie.nl – Van der Sluis geeft monteurs een digitale collega",
+        "url": "https://www.installatie.nl/partner-content/van-der-sluis-geeft-monteurs-een-digitale-collega/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-workyard-gps-urenregistratie-loonkosten",
+    "datum": "2026-11-20",
+    "gemeld_op": "2026-11-23",
+    "onderwerp": "Staaldekonderaannemer: GPS-geverifieerde urenregistratie i.p.v. vaste schattingen, jaarbesparing in zes weken (Workyard)",
+    "samenvatting": "Probleem: aannemers schatten arbeidsuren en registreren werkelijke uren met dezelfde ruwe, geheugengebaseerde werkwijze (vaste dagen van tien uur, tijdkaarten achteraf), waardoor afwijkingen tussen begroting en werkelijkheid pas bij projectafsluiting zichtbaar worden, vooral bij ploegen die op één dag meerdere projecten bedienen. Oplossing: overstappen op GPS-geverifieerd in- en uitklokken per project, met bevestiging van de uren door de medewerker zelf. Resultaat volgens de bron: een commerciële staaldek-onderaannemer met ploegen in meerdere staten haalde de verwachte jaarlijkse besparing op loonkosten van circa $150.000 al binnen zes weken; een elektrotechnisch bedrijf met tien medewerkers vond circa $10.000 per jaar aan vermijdbare loonkosten. Let op: dit is een bijdrage van een medewerker van de leverancier Workyard en de klanten worden niet bij naam genoemd.",
+    "relevantie": "Voor aannemers en installateurs met ploegen op meerdere locaties per dag: vraag hoe uren nu op projecten worden geboekt (achteraf of realtime) en of ze tussentijds uren tegen begroting vergelijken in 4PS/BC in plaats van pas bij de nacalculatie.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "urenregistratie",
+      "nacalculatie",
+      "loonkosten",
+      "mobiel",
+      "automatisering"
+    ],
+    "bronnen": [
+      {
+        "titel": "For Construction Pros – The Hidden Labor Costs Eating into Construction Profits",
+        "url": "https://www.forconstructionpros.com/business/business-services/business-management/article/22978225/workyard-why-construction-labor-estimates-fail-real-solutions"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
