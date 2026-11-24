@@ -17,6 +17,26 @@ Relevantie: Laat zien hoe 4PS AI en Copilot nu bij zijn bouwklanten neerzet: eer
 <guid isPermaLink="false">radar-4ps-podcast-ai-hype-bewezen-waarde</guid>
 </item>
 <item>
+<title>PROCON: facturen, weegbonnen en meerwerk van acht leveranciers in 15 minuten gereconcilieerd met AI (Claude)</title>
+<link>https://www.businessnhmagazine.com/article/ai-reconstructing-nh-building-industry</link>
+<description>Probleem: bij een groot project met verontreinigde grond had design-build-bouwmanager PROCON honderden pagina's facturen, stortweegbonnen en meerwerkverzoeken van acht leveranciers te controleren; daarnaast veel documentwerk zoals onderaannemersoffertes toetsen aan bestek, voorstellen en contracten. Oplossing: de meeste van de circa 160 medewerkers gebruiken Anthropic's Claude voor dit documentwerk, waarbij AI het werk volgens de COO 80% van de weg doet en een mens het nakijkt; ook bouwde het team met Claude eigen tools, zoals een vervangend CRM. Resultaat volgens de bron: wat uren zou kosten, werd 15 minuten rekenwerk; die ene besparing betaalt volgens het bedrijf al een jaarabonnement per medewerker.
+
+Relevantie: Voor GWW- en grondwerkaannemers met veel weegbonnen en leveranciersfacturen: vraag hoeveel tijd de projectadministratie kwijt is aan het matchen van bonnen, facturen en meerwerk, en verken een agent die dit tegen de projectgegevens in 4PS/BC controleert met menselijke eindcontrole.</description>
+<pubDate>Mon, 23 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-procon-claude-factuurreconciliatie-meerwerk</guid>
+</item>
+<item>
+<title>PH Electric: AI-assistent beantwoordt veiligheids- en compliancevragen op de bouwplaats (StepoAI)</title>
+<link>https://www.businessnhmagazine.com/article/ai-reconstructing-nh-building-industry</link>
+<description>Probleem: het veiligheidsteam van drie personen bij elektrotechnisch installateur Piquette &amp; Howard (PH) Electric (circa 350 medewerkers) kan niet op alle bouwplaatsen tegelijk zijn. Oplossing: het bouwgerichte AI-platform StepoAI, gevuld met OSHA- en NFPA 70E-regels en het eigen personeelshandboek; medewerkers stellen via hun telefoon een vraag of maken een foto en krijgen direct antwoord of iets voldoet, en loggen veiligheidsincidenten. De veiligheidsmanager laat op basis van incidentdata wekelijks toolboxmeetings opstellen. Resultaat volgens de bron: het platform wordt dagelijks gebruikt, circa 25 medewerkers hebben toegang en het team kan trends voor zijn voordat fouten zich herhalen; harde cijfers worden niet genoemd.
+
+Relevantie: Voor installateurs en aannemers met een klein KAM/VGM-team: vraag hoe uitvoerders nu aan antwoorden op veiligheids- en kwaliteitsvragen komen en of incidentmeldingen in 4PS/BC terugkomen, als opstap naar een Copilot-agent op eigen VGM-handboek en meldingen.</description>
+<pubDate>Mon, 23 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-ph-electric-stepoai-veiligheid-compliance</guid>
+</item>
+<item>
 <title>Bluefort ARVO levert Business Central-code als GitHub pull requests</title>
 <link>https://msdynamicsworld.com/blog-post/blueforts-arvo-now-delivers-business-central-code-github-pull-requests</link>
 <description>Bluefort heeft in ARVO Studio GitHub-integratie uitgebracht, plus acht andere nieuwe functies, waaronder bedrijfseigen codeerstandaarden, een omgevingscheck tijdens het oplossingsontwerp en gecontroleerde toegang voor MCP-agents. ARVO-runs komen als pull request in de repository van het team; GitHub Copilot kan die reviewen en ontwikkelaars beslissen over het mergen.
@@ -85,6 +105,16 @@ Relevantie: Vertaalbaar naar serviceorders in 4PS/BC (bijv. met een eigen agent 
 <pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
 <category>use_case</category>
 <guid isPermaLink="false">uc-bokhorst-werkbonnen-ai-syntess</guid>
+</item>
+<item>
+<title>Bouwbedrijf in Dubai: crediteurenteam circa driekwart kleiner door AI in bouw-ERP (CMiC NEXUS)</title>
+<link>https://www.theglobeandmail.com/business/adv/article-how-ai-is-reducing-the-administrative-burden-in-construction/</link>
+<description>Probleem: een groot bouwbedrijf in Dubai had zo'n 30 medewerkers die alleen tienduizenden facturen verwerkten; ook het opstellen van een meerwerkorder kost volgens CMiC 45 minuten tot een uur. Oplossing: het AI-platform CMiC NEXUS in het bouw-ERP van CMiC, met agents die onder meer facturen verwerken, meerwerkorders aanmaken (juiste budgetregels, leveranciersgegevens en statussen opzoeken), budgetten uploaden en nieuwe medewerkers aanmaken, met invoer via getypte of gesproken natuurlijke taal en validatie van binnenkomende data. Resultaat volgens de bron: het crediteurenteam kon met circa driekwart krimpen, waarbij medewerkers naar ander werk gingen, en een meerwerkorder kan in vijf minuten. Let op: dit is een advertorial van leverancier CMiC en de klant wordt niet bij naam genoemd.
+
+Relevantie: Voor middelgrote en grote aannemers met een grote crediteurenafdeling: vraag hoeveel FTE nu aan inkoopfactuurverwerking en meerwerk zit en positioneer de Payables Agent en Copilot in BC/4PS als vergelijkbare route, inclusief de vraag wat zij met vrijgekomen capaciteit zouden doen.</description>
+<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-cmic-nexus-crediteuren-meerwerk-agents</guid>
 </item>
 <item>
 <title>4PS (Niels Goos) op Digibouw: AI begint bij samenhangende projectinformatie</title>

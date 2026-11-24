@@ -4682,5 +4682,80 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-ph-electric-stepoai-veiligheid-compliance",
+    "datum": "2026-11-23",
+    "gemeld_op": "2026-11-24",
+    "onderwerp": "PH Electric: AI-assistent beantwoordt veiligheids- en compliancevragen op de bouwplaats (StepoAI)",
+    "samenvatting": "Probleem: het veiligheidsteam van drie personen bij elektrotechnisch installateur Piquette & Howard (PH) Electric (circa 350 medewerkers) kan niet op alle bouwplaatsen tegelijk zijn. Oplossing: het bouwgerichte AI-platform StepoAI, gevuld met OSHA- en NFPA 70E-regels en het eigen personeelshandboek; medewerkers stellen via hun telefoon een vraag of maken een foto en krijgen direct antwoord of iets voldoet, en loggen veiligheidsincidenten. De veiligheidsmanager laat op basis van incidentdata wekelijks toolboxmeetings opstellen. Resultaat volgens de bron: het platform wordt dagelijks gebruikt, circa 25 medewerkers hebben toegang en het team kan trends voor zijn voordat fouten zich herhalen; harde cijfers worden niet genoemd.",
+    "relevantie": "Voor installateurs en aannemers met een klein KAM/VGM-team: vraag hoe uitvoerders nu aan antwoorden op veiligheids- en kwaliteitsvragen komen en of incidentmeldingen in 4PS/BC terugkomen, als opstap naar een Copilot-agent op eigen VGM-handboek en meldingen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "installatie",
+      "veiligheid",
+      "vgm",
+      "compliance",
+      "ai-assistent",
+      "mobiel"
+    ],
+    "bronnen": [
+      {
+        "titel": "Business NH Magazine – AI Reconstructing NH’s Building Industry",
+        "url": "https://www.businessnhmagazine.com/article/ai-reconstructing-nh-building-industry"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-procon-claude-factuurreconciliatie-meerwerk",
+    "datum": "2026-11-23",
+    "gemeld_op": "2026-11-24",
+    "onderwerp": "PROCON: facturen, weegbonnen en meerwerk van acht leveranciers in 15 minuten gereconcilieerd met AI (Claude)",
+    "samenvatting": "Probleem: bij een groot project met verontreinigde grond had design-build-bouwmanager PROCON honderden pagina's facturen, stortweegbonnen en meerwerkverzoeken van acht leveranciers te controleren; daarnaast veel documentwerk zoals onderaannemersoffertes toetsen aan bestek, voorstellen en contracten. Oplossing: de meeste van de circa 160 medewerkers gebruiken Anthropic's Claude voor dit documentwerk, waarbij AI het werk volgens de COO 80% van de weg doet en een mens het nakijkt; ook bouwde het team met Claude eigen tools, zoals een vervangend CRM. Resultaat volgens de bron: wat uren zou kosten, werd 15 minuten rekenwerk; die ene besparing betaalt volgens het bedrijf al een jaarabonnement per medewerker.",
+    "relevantie": "Voor GWW- en grondwerkaannemers met veel weegbonnen en leveranciersfacturen: vraag hoeveel tijd de projectadministratie kwijt is aan het matchen van bonnen, facturen en meerwerk, en verken een agent die dit tegen de projectgegevens in 4PS/BC controleert met menselijke eindcontrole.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "gww",
+      "factuurcontrole",
+      "meerwerk",
+      "inkoopfacturen",
+      "generatieve-ai",
+      "document-ai"
+    ],
+    "bronnen": [
+      {
+        "titel": "Business NH Magazine – AI Reconstructing NH’s Building Industry",
+        "url": "https://www.businessnhmagazine.com/article/ai-reconstructing-nh-building-industry"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-cmic-nexus-crediteuren-meerwerk-agents",
+    "datum": "2026-11-19",
+    "gemeld_op": "2026-11-24",
+    "onderwerp": "Bouwbedrijf in Dubai: crediteurenteam circa driekwart kleiner door AI in bouw-ERP (CMiC NEXUS)",
+    "samenvatting": "Probleem: een groot bouwbedrijf in Dubai had zo'n 30 medewerkers die alleen tienduizenden facturen verwerkten; ook het opstellen van een meerwerkorder kost volgens CMiC 45 minuten tot een uur. Oplossing: het AI-platform CMiC NEXUS in het bouw-ERP van CMiC, met agents die onder meer facturen verwerken, meerwerkorders aanmaken (juiste budgetregels, leveranciersgegevens en statussen opzoeken), budgetten uploaden en nieuwe medewerkers aanmaken, met invoer via getypte of gesproken natuurlijke taal en validatie van binnenkomende data. Resultaat volgens de bron: het crediteurenteam kon met circa driekwart krimpen, waarbij medewerkers naar ander werk gingen, en een meerwerkorder kan in vijf minuten. Let op: dit is een advertorial van leverancier CMiC en de klant wordt niet bij naam genoemd.",
+    "relevantie": "Voor middelgrote en grote aannemers met een grote crediteurenafdeling: vraag hoeveel FTE nu aan inkoopfactuurverwerking en meerwerk zit en positioneer de Payables Agent en Copilot in BC/4PS als vergelijkbare route, inclusief de vraag wat zij met vrijgekomen capaciteit zouden doen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "concurrentie",
+      "crediteuren",
+      "inkoopfacturen",
+      "meerwerk",
+      "ai-agents",
+      "spraak"
+    ],
+    "bronnen": [
+      {
+        "titel": "The Globe and Mail – How AI is reducing the administrative burden in construction",
+        "url": "https://www.theglobeandmail.com/business/adv/article-how-ai-is-reducing-the-administrative-burden-in-construction/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
