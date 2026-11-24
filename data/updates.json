@@ -4608,5 +4608,79 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bluefort-arvo-github-pull-requests",
+    "datum": "2026-11-23",
+    "gemeld_op": "2026-11-24",
+    "onderwerp": "Bluefort ARVO levert Business Central-code als GitHub pull requests",
+    "samenvatting": "Bluefort heeft in ARVO Studio GitHub-integratie uitgebracht, plus acht andere nieuwe functies, waaronder bedrijfseigen codeerstandaarden, een omgevingscheck tijdens het oplossingsontwerp en gecontroleerde toegang voor MCP-agents. ARVO-runs komen als pull request in de repository van het team; GitHub Copilot kan die reviewen en ontwikkelaars beslissen over het mergen.",
+    "relevantie": "Laat zien hoe AI-gegenereerde BC-extensies in een bestaande ontwikkelstraat met menselijke goedkeuring passen, relevant voor maatwerk rond 4PS Construct.",
+    "categorie": "partners",
+    "tags": [
+      "bluefort",
+      "arvo",
+      "github",
+      "ai-development",
+      "mcp",
+      "business-central"
+    ],
+    "bronnen": [
+      {
+        "titel": "MSDW: Bluefort's ARVO now delivers Business Central code into GitHub as pull requests",
+        "url": "https://msdynamicsworld.com/blog-post/blueforts-arvo-now-delivers-business-central-code-github-pull-requests"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-bc-expense-agent-codeunit-collision-fix",
+    "datum": "2026-11-23",
+    "gemeld_op": "2026-11-24",
+    "onderwerp": "BC Expense Agent: fix voor mislukte updates door verouderde landspecifieke preview-apps (29.0/29.1)",
+    "samenvatting": "Microsoft heeft in BCApps Expense Agent-codeunits hernummerd (o.a. 6913 naar 6923 en 6914 naar 6924), omdat ze botsten met verouderde 'Expense Agent (Preview)'-landapps die op veel tenants nog geïnstalleerd zijn. Daardoor kon de Expense Agent-update mislukken; de fix is gebackport naar 29.0 en 29.1.",
+    "relevantie": "Partners die de Expense Agent bij BC- of 4PS-klanten uitrollen, kunnen deze updatefout tegenkomen en moeten weten dat er een fix is.",
+    "categorie": "product_release",
+    "tags": [
+      "microsoft",
+      "expense-agent",
+      "known-issue",
+      "bcapps",
+      "business-central-29"
+    ],
+    "bronnen": [
+      {
+        "titel": "BCApps PR #14407: [29.1] [Expense Agent] Renumber codeunits 6913 and 6914",
+        "url": "https://github.com/microsoft/BCApps/pull/14407"
+      },
+      {
+        "titel": "BCApps PR #14405: [Expense Agent] Renumber codeunits that collide with deprecated country apps",
+        "url": "https://github.com/microsoft/BCApps/pull/14405"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-4ps-podcast-ai-hype-bewezen-waarde",
+    "datum": "2026-11-24",
+    "gemeld_op": "2026-11-24",
+    "onderwerp": "4PS-podcastreeks 'Van AI-hype naar bewezen waarde'",
+    "samenvatting": "4PS heeft een driedelige podcastserie uitgebracht waarin host Tim Thijs Ketting spreekt met gasten van GMB, Techniek Nederland en 4PS. Ze bespreken hoe bouw- en installatiebedrijven van AI-experimenten naar toepassingen met echte waarde gaan: standaardisatie, data, veiligheid, eigenaarschap en het meenemen van medewerkers.",
+    "relevantie": "Laat zien hoe 4PS AI en Copilot nu bij zijn bouwklanten neerzet: eerst processen en data op orde, dan pas AI.",
+    "categorie": "ai_features",
+    "tags": [
+      "4ps",
+      "podcast",
+      "copilot",
+      "ai-agents",
+      "bouw"
+    ],
+    "bronnen": [
+      {
+        "titel": "4PS: Podcast - Van AI-hype naar bewezen waarde",
+        "url": "https://www.4ps.nl/actueel/podcast-van-ai-hype-naar-bewezen-waarde/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
