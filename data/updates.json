@@ -4757,5 +4757,52 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bc-expense-agent-ga-bcapps-14492",
+    "datum": "2026-11-25",
+    "gemeld_op": "2026-11-25",
+    "onderwerp": "Business Central Expense Agent in code geregistreerd als Generally Available (BCApps #14492)",
+    "samenvatting": "In de BCApps-repository van Microsoft is op 25 november 2026 een wijziging gemerged die de Copilot-capability van de Expense Agent registreert als Generally Available in plaats van Preview, net als de Sales Order Agent en de Payables Agent. Bestaande tenants gaan bij de upgrade van Preview naar GA; tenants waar een beheerder de preview had uitgezet, worden daarbij eenmalig weer geactiveerd.",
+    "relevantie": "De derde ingebouwde BC-agent (declaraties) staat op het punt GA te gaan; partners moeten rekening houden met heractivering bij klanten die de preview hadden uitgezet.",
+    "categorie": "product_release",
+    "tags": [
+      "business-central",
+      "expense-agent",
+      "copilot",
+      "agents",
+      "bcapps"
+    ],
+    "bronnen": [
+      {
+        "titel": "microsoft/BCApps PR #14492: Expense Agent register Copilot capability as GA",
+        "url": "https://github.com/microsoft/BCApps/pull/14492"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "radar-hero-ai-nl-vakbedrijven",
+    "datum": "2026-11-24",
+    "gemeld_op": "2026-11-25",
+    "onderwerp": "HERO AI gelanceerd in Nederland voor bouw-, installatie- en onderhoudsbedrijven",
+    "samenvatting": "Softwareleverancier HERO introduceerde op 24 november 2026 HERO AI in Nederland. De AI beantwoordt inkomende telefoontjes, bereidt offertes voor op basis van de eigen artikelcatalogus en maakt bouwverslagen van ingesproken informatie, binnen de bedrijfssoftware; gebruikers controleren en keuren de resultaten goed.",
+    "relevantie": "Concurrerende vakbedrijfsoftware in het Nederlandse installatie- en bouwsegment biedt nu ingebouwde AI voor offertes en verslaglegging, een referentiepunt voor de AI-propositie op BC/4PS.",
+    "categorie": "concurrentie",
+    "tags": [
+      "concurrentie",
+      "installatie",
+      "bouw",
+      "offertes",
+      "ai-assistent",
+      "nederland"
+    ],
+    "bronnen": [
+      {
+        "titel": "KlusVisie: HERO AI bereidt offertes voor en beantwoordt telefoontjes bij vakbedrijven",
+        "url": "https://www.klusvisie.nl/ondernemen-in-de-bouw/hero-ai-vakbedrijven-offertes-telefoon-bouwverslagen/22928/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]

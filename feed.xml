@@ -5,7 +5,27 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Tue, 24 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>Business Central Expense Agent in code geregistreerd als Generally Available (BCApps #14492)</title>
+<link>https://github.com/microsoft/BCApps/pull/14492</link>
+<description>In de BCApps-repository van Microsoft is op 25 november 2026 een wijziging gemerged die de Copilot-capability van de Expense Agent registreert als Generally Available in plaats van Preview, net als de Sales Order Agent en de Payables Agent. Bestaande tenants gaan bij de upgrade van Preview naar GA; tenants waar een beheerder de preview had uitgezet, worden daarbij eenmalig weer geactiveerd.
+
+Relevantie: De derde ingebouwde BC-agent (declaraties) staat op het punt GA te gaan; partners moeten rekening houden met heractivering bij klanten die de preview hadden uitgezet.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>product_release</category>
+<guid isPermaLink="false">radar-bc-expense-agent-ga-bcapps-14492</guid>
+</item>
+<item>
+<title>HERO AI gelanceerd in Nederland voor bouw-, installatie- en onderhoudsbedrijven</title>
+<link>https://www.klusvisie.nl/ondernemen-in-de-bouw/hero-ai-vakbedrijven-offertes-telefoon-bouwverslagen/22928/</link>
+<description>Softwareleverancier HERO introduceerde op 24 november 2026 HERO AI in Nederland. De AI beantwoordt inkomende telefoontjes, bereidt offertes voor op basis van de eigen artikelcatalogus en maakt bouwverslagen van ingesproken informatie, binnen de bedrijfssoftware; gebruikers controleren en keuren de resultaten goed.
+
+Relevantie: Concurrerende vakbedrijfsoftware in het Nederlandse installatie- en bouwsegment biedt nu ingebouwde AI voor offertes en verslaglegging, een referentiepunt voor de AI-propositie op BC/4PS.</description>
+<pubDate>Tue, 24 Nov 2026 08:30:00 +0000</pubDate>
+<category>concurrentie</category>
+<guid isPermaLink="false">radar-hero-ai-nl-vakbedrijven</guid>
+</item>
 <item>
 <title>4PS-podcastreeks 'Van AI-hype naar bewezen waarde'</title>
 <link>https://www.4ps.nl/actueel/podcast-van-ai-hype-naar-bewezen-waarde/</link>
