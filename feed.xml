@@ -7,6 +7,36 @@
 <language>nl-nl</language>
 <lastBuildDate>Wed, 25 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Van Linde Installatietechniek: AI vertaalt monteurstaal naar artikelcodes voor bestellingen (Eigen &amp; Wijze)</title>
+<link>https://eigenwijze.nl/klantverhalen/van-linde-installatietechniek</link>
+<description>Probleem: het installatiebedrijf doet gemiddeld tien bestellingen per dag die samen zo'n 150 minuten kostten, omdat monteurs artikelen bij hun eigen naam noemen en bestellers op kantoor de juiste fabrikantcode moesten zoeken. Oplossing: een AI-bestelassistent (via Younifai) waar monteurs hun bestelling in eigen woorden aan sturen; de tool zoekt in een database met 1.000 à 2.000 standaardartikelen en een groeiende synoniemenlijst en mailt de besteller een lijst met artikelcodes, inclusief de vraag wanneer geleverd moet worden. Resultaat volgens de bron: de tool draait sinds voorjaar 2026 en bestellers hebben direct de juiste artikelen; de verwachting is binnen een jaar 80% van de producten in de database.
+
+Relevantie: Voor installateurs en service-organisaties op 4PS of BC: vraag hoe monteurs materiaal aanvragen en hoeveel tijd inkoop kwijt is aan het vertalen naar artikelnummers, en verken een agent die aanvragen omzet naar inkoopregels op het project.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-van-linde-ai-bestelassistent-monteurs</guid>
+</item>
+<item>
+<title>Bouwbedrijf Ter Steeg: ingesproken bevindingen van uitvoerders worden dagrapport, taken en conceptmails (de werkstroom)</title>
+<link>https://dewerkstroom.nl/klantcase-bouwbedrijf-ter-steeg/</link>
+<description>Probleem: informatie van de bouwplaats liep via telefoontjes, WhatsApp, spraakberichten en losse notities, waardoor acties werden vergeten, informatie dubbel werd ingevoerd en rapportages veel uitzoekwerk kostten. Oplossing: uitvoerders spreken hun bevindingen in; AI zet dat om naar een dagrapport, herkent actiepunten en zet die als taak bij de juiste collega, bereidt conceptmails voor opdrachtgevers voor en houdt openstaande acties zichtbaar; een medewerker blijft verantwoordelijk voor controle en verzending. Resultaat volgens de bron (kwalitatief): uitvoerders hoeven geen rapportages meer uit te typen, minder fouten, snellere communicatie tussen bouwplaats en kantoor en completere projectdossiers.
+
+Relevantie: Voor aannemers waar uitvoerders veel tijd aan dagrapporten kwijt zijn: vraag hoe bouwplaatsinformatie nu op kantoor en in het project in 4PS terechtkomt, en schets een spraak-naar-dagrapport-flow als eerste kleine stap.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-ter-steeg-spraak-naar-dagrapport</guid>
+</item>
+<item>
+<title>Kintec Global: e-mailgestuurde factuuragent controleert alles tegen Business Central (Your Private Dev)</title>
+<link>https://yourprivatedev.com/work/kintec-dave-invoicing-agent</link>
+<description>Probleem: Kintec verwerkte factuurverzoeken van contractors handmatig: vrij geformuleerde e-mails lezen, contractor en job bepalen, controleren in Business Central, factuur opbouwen en valideren, goed voor ruim 70 uur per maand. Oplossing: agent 'Dave' zet het e-mailverzoek om naar gestructureerde velden, controleert die via de REST API en OData-webservices (o.a. jobs en jobtaken) tegen Business Central, genereert de factuur met de juiste boekingslogica, valideert tegen boekhoudregels en historische patronen en rondt de betaalflow af zonder mens in de lus. Resultaat volgens de bron: meer dan 70 uur handmatig factureerwerk per maand verdwenen.
+
+Relevantie: Voor detacheerders en projectorganisaties die op jobs/projecten factureren: vraag hoe factuur- of urenverzoeken nu binnenkomen en worden gecontroleerd, en bespreek of een agent eerst alleen tegen projectdata in BC/4PS mag valideren voordat je volledige automatisering overweegt.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-kintec-dave-factuuragent-bc-jobs</guid>
+</item>
+<item>
 <title>Business Central Expense Agent in code geregistreerd als Generally Available (BCApps #14492)</title>
 <link>https://github.com/microsoft/BCApps/pull/14492</link>
 <description>In de BCApps-repository van Microsoft is op 25 november 2026 een wijziging gemerged die de Copilot-capability van de Expense Agent registreert als Generally Available in plaats van Preview, net als de Sales Order Agent en de Payables Agent. Bestaande tenants gaan bij de upgrade van Preview naar GA; tenants waar een beheerder de preview had uitgezet, worden daarbij eenmalig weer geactiveerd.
@@ -15,6 +45,16 @@ Relevantie: De derde ingebouwde BC-agent (declaraties) staat op het punt GA te g
 <pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
 <category>product_release</category>
 <guid isPermaLink="false">radar-bc-expense-agent-ga-bcapps-14492</guid>
+</item>
+<item>
+<title>Innovo: AI-veiligheidscamera's met afmeldflow per engineer, 59% minder ernstige meldingen (Quantavist)</title>
+<link>https://constructionmetrics.com/2026/11/24/innovo-quantavist-ai-safety-alerts-closeout/</link>
+<description>Probleem: op bouwplaatsen worden gevaren vooral tijdens rondes handmatig vastgelegd; wat tussen inspecties ontstaat blijft vaak ongeregistreerd. Oplossing: Quantavist bewaakt werkfronten met robotcamera's en computer vision op werken op hoogte, ontbrekende randbeveiliging, personen in hijs- of materieelzones en ontbrekende PBM's; elke melding gaat naar de verantwoordelijke veiligheidsengineer, die het oplost en bewijs uploadt, waarna AI het bewijs beoordeelt en het veiligheidsteam aftekent. Resultaat volgens de bron: op het Ghaf Woods-project in de VAE daalden de ernstige meldingen met 59%; Innovo breidt het uit naar meerdere projecten.
+
+Relevantie: Voor grotere aannemers en GWW-bedrijven met een VGM-focus: vraag hoe veiligheidsobservaties nu worden vastgelegd en opgevolgd, en bespreek hoe meldingen en afmeldingen als acties op het project in 4PS of BC zichtbaar kunnen worden.</description>
+<pubDate>Tue, 24 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-innovo-quantavist-ai-veiligheidscamera</guid>
 </item>
 <item>
 <title>HERO AI gelanceerd in Nederland voor bouw-, installatie- en onderhoudsbedrijven</title>
@@ -755,6 +795,16 @@ Relevantie: Directe signalen van 4PS zelf over hun AI-agentroadmap; handig om kl
 <pubDate>Fri, 06 Nov 2026 08:30:00 +0000</pubDate>
 <category>events</category>
 <guid isPermaLink="false">radar-4ps-digibouw-ai-agents-sessie</guid>
+</item>
+<item>
+<title>Foresco: AI-agent zet bestellingen uit mail, pdf en Excel klaar in Business Central (Hyperfox)</title>
+<link>https://transportmedia.be/2026/11/hyperfox-helpt-foresco-met-sales-order-agent/</link>
+<description>Probleem: palletproducent Foresco ontvangt bestellingen in allerlei vormen (mails, pdf's, Excel-lijsten, eigen klantformulieren) en medewerkers typten die handmatig over in het ERP. Oplossing: de Sales Order Agent van startup Hyperfox leest de bestellingen, herkent klant, artikel, hoeveelheid en leverdatum en zet het order klaar in Microsoft Dynamics 365 Business Central; een medewerker controleert en keurt goed, afwijkingen worden apart gemarkeerd. Resultaat volgens de bron: in de pilot verwerkte de agent 80% van de bestellingen zonder handmatige invoer; Foresco rolt het uit naar alle vestigingen in België en Nederland.
+
+Relevantie: Voor handels- en productiebedrijven (en bouwtoeleveranciers) met veel orders per mail: vraag hoeveel orders per dag nog worden overgetypt en in welke formaten ze binnenkomen, en leg de Sales Order Agent in BC of een ISV-agent als route naast elkaar.</description>
+<pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-foresco-hyperfox-sales-order-agent-bc</guid>
 </item>
 <item>
 <title>Sage Intacct: partner-agents, waaronder Wipfli Job Insights Agent voor bouw</title>
