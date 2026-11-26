@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>BC30: Work IQ-leestoegang tot BC-data blijft admin-opt-in; Payables Agent-LLM-calls van E-Documents onder eigen Copilot-capability</title>
+<link>https://waldo1001.github.io/waldo.BCObservatory/changes/</link>
+<description>In BCApps (main, BC30) is op 25 november 2026 vastgelegd dat demodata-tools de nieuwe feature key 'Allow WorkIQ to read data from Business Central' niet meer automatisch aanzetten; het blijft een expliciete opt-in van de beheerder via Feature Management (#13905). Daarnaast worden de E-Document-LLM-calls die voor de Payables Agent bestaan nu via de Payables Agent-app en onder diens Copilot-capability uitgevoerd, om het beheer van gefactureerde features te vereenvoudigen (#14491).
+
+Relevantie: Partners moeten Work IQ-toegang tot BC-data bewust per omgeving aanzetten, en Payables Agent-verbruik wordt duidelijker toegerekend aan één gefactureerde Copilot-capability, wat helpt bij kosteninschatting voor klanten.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bcapps-workiq-optin-payables-billing-13905-14491</guid>
+</item>
 <item>
 <title>Van Linde Installatietechniek: AI vertaalt monteurstaal naar artikelcodes voor bestellingen (Eigen &amp; Wijze)</title>
 <link>https://eigenwijze.nl/klantverhalen/van-linde-installatietechniek</link>

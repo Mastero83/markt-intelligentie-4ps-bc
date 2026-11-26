@@ -4924,5 +4924,38 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bcapps-workiq-optin-payables-billing-13905-14491",
+    "datum": "2026-11-25",
+    "gemeld_op": "2026-11-26",
+    "onderwerp": "BC30: Work IQ-leestoegang tot BC-data blijft admin-opt-in; Payables Agent-LLM-calls van E-Documents onder eigen Copilot-capability",
+    "samenvatting": "In BCApps (main, BC30) is op 25 november 2026 vastgelegd dat demodata-tools de nieuwe feature key 'Allow WorkIQ to read data from Business Central' niet meer automatisch aanzetten; het blijft een expliciete opt-in van de beheerder via Feature Management (#13905). Daarnaast worden de E-Document-LLM-calls die voor de Payables Agent bestaan nu via de Payables Agent-app en onder diens Copilot-capability uitgevoerd, om het beheer van gefactureerde features te vereenvoudigen (#14491).",
+    "relevantie": "Partners moeten Work IQ-toegang tot BC-data bewust per omgeving aanzetten, en Payables Agent-verbruik wordt duidelijker toegerekend aan één gefactureerde Copilot-capability, wat helpt bij kosteninschatting voor klanten.",
+    "categorie": "ai_features",
+    "tags": [
+      "business-central",
+      "work-iq",
+      "payables-agent",
+      "e-documents",
+      "copilot-credits",
+      "bcapps",
+      "bc30"
+    ],
+    "bronnen": [
+      {
+        "titel": "BC Observatory – Code changes (#14491, #13905)",
+        "url": "https://waldo1001.github.io/waldo.BCObservatory/changes/"
+      },
+      {
+        "titel": "microsoft/BCApps PR #13905",
+        "url": "https://github.com/microsoft/BCApps/pull/13905"
+      },
+      {
+        "titel": "microsoft/BCApps PR #14491",
+        "url": "https://github.com/microsoft/BCApps/pull/14491"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
