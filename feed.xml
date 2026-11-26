@@ -7,6 +7,16 @@
 <language>nl-nl</language>
 <lastBuildDate>Thu, 26 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Tutor Perini test CupixWorks 5.0: 360-gradenrondes automatisch tegen BIM en planning, ook via MCP voor eigen agents</title>
+<link>https://constructionmetrics.com/2026/11/25/cupix-cupixworks-5-beta-site-capture-bim/</link>
+<description>Probleem: wie wil aantonen wanneer een installatie is aangebracht, zoekt nu uren door 360-gradenvideo's, mappen en tijdlijnen en vergelijkt dat handmatig met planning en model. Oplossing: CupixWorks 5.0 (bèta sinds 23 november, algemene beschikbaarheid gepland in Q1 2027) zet 360-graden-, drone- en laserscanopnames op één kaart en tijdlijn, vergelijkt ze met het BIM-model en de planning, vat rondes samen per werkgebied en signaleert veiligheidspunten. Projectleiders stellen vragen in gewone taal en krijgen een antwoord met een link naar de opname, die de mens zelf controleert. Via een Cupix MCP-server kunnen eigen AI-agents de installatiestatus uitlezen. Tutor Perini, Sebastian Construction Group en Meow Wolf zijn genoemde bètadeelnemers. Resultaat: nog geen resultaten bekend, het is een bèta.
+
+Relevantie: Voor aannemers en installateurs met grote projecten: vraag hoe voortgang en termijnstaten nu worden onderbouwd, en bespreek hoe voortgangsdata uit bouwplaatstools via MCP of Power Platform naar 4PS of BC kan om termijnen en prognoses te onderbouwen.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-tutor-perini-cupixworks-voortgang-bim-mcp</guid>
+</item>
+<item>
 <title>BC30: Work IQ-leestoegang tot BC-data blijft admin-opt-in; Payables Agent-LLM-calls van E-Documents onder eigen Copilot-capability</title>
 <link>https://waldo1001.github.io/waldo.BCObservatory/changes/</link>
 <description>In BCApps (main, BC30) is op 25 november 2026 vastgelegd dat demodata-tools de nieuwe feature key 'Allow WorkIQ to read data from Business Central' niet meer automatisch aanzetten; het blijft een expliciete opt-in van de beheerder via Feature Management (#13905). Daarnaast worden de E-Document-LLM-calls die voor de Payables Agent bestaan nu via de Payables Agent-app en onder diens Copilot-capability uitgevoerd, om het beheer van gefactureerde features te vereenvoudigen (#14491).
@@ -55,6 +65,26 @@ Relevantie: De derde ingebouwde BC-agent (declaraties) staat op het punt GA te g
 <pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
 <category>product_release</category>
 <guid isPermaLink="false">radar-bc-expense-agent-ga-bcapps-14492</guid>
+</item>
+<item>
+<title>Sales Order Agent bij groothandels: waar het werkt en waarom artikelreferenties de doorslag geven (Qixas)</title>
+<link>https://erpsoftwareblog.com/2026/11/sales-order-agent-for-distributors/</link>
+<description>Probleem: groothandels krijgen orders via EDI, portals, telefoon en e-mail met pdf of Excel; de binnendienst typt ze over in Business Central en een collega controleert ze nog eens. Oplossing: partner Qixas beschrijft hoe de Sales Order Agent in BC de e-mailstroom kan oppakken: aanvraag lezen, klant en artikelen vinden en een order voorbereiden ter controle. Advies: meet eerst hoeveel orders per kanaal binnenkomen, test in de pilot ook lastige orders (scans, meerdere afleveradressen, 'zelfde als vorige maand') en zet klantspecifieke artikelreferenties, eenheden en verpakkingen goed in BC, want daar staat of valt de matching mee. Resultaat: het is een praktijkscenario zonder gemeten klantresultaat.
+
+Relevantie: Voor groothandels en toeleveranciers op BC met veel orders per e-mail: vraag welk deel van de orders per mail binnenkomt en hoe goed hun artikelreferenties per klant op orde zijn, als opstap naar een pilot met de Sales Order Agent.</description>
+<pubDate>Tue, 24 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-sales-order-agent-groothandel-artikelreferenties</guid>
+</item>
+<item>
+<title>Energy Installer: HERO AI bereidt offertes, planning en bestellingen voor, van twee uur naar een half uur per klant</title>
+<link>https://www.klusvisie.nl/ondernemen-in-de-bouw/hero-ai-vakbedrijven-offertes-telefoon-bouwverslagen/22928/</link>
+<description>Probleem: bij kleine bouw-, installatie- en onderhoudsbedrijven kosten telefoontjes, offertes, planning en materiaalbestellingen veel handwerk. Oplossing: HERO introduceerde op 24 november HERO AI in Nederland, binnen de eigen bedrijfssoftware. Het beantwoordt inkomende telefoontjes en registreert ze, maakt conceptoffertes uit de eigen artikelcatalogus, zet ingesproken bouwplaatsinfo om in een bouwverslag en maakt op korte opdracht projecten of klantcontacten aan; de gebruiker controleert en keurt goed. Resultaat volgens de bron: bij installatiebedrijf Energy Installer gingen afspraken plannen, offertes voorbereiden en materialen bestellen van soms twee uur naar een half uur per klant (eigen praktijk van de gebruiker; HERO geeft geen gemiddelde cijfers).
+
+Relevantie: Voor kleinere installateurs en service- en onderhoudsbedrijven op 4PS of BC: vraag hoeveel tijd er per klant gaat zitten van eerste telefoontje tot offerte en bestelling, en laat zien hoe Copilot, de Sales Order Agent of een eigen agent op dezelfde artikel- en projectdata dat werk kan voorbereiden.</description>
+<pubDate>Tue, 24 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-energy-installer-hero-ai-offerte-planning</guid>
 </item>
 <item>
 <title>Innovo: AI-veiligheidscamera's met afmeldflow per engineer, 59% minder ernstige meldingen (Quantavist)</title>

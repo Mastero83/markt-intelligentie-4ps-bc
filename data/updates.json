@@ -4957,5 +4957,77 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-energy-installer-hero-ai-offerte-planning",
+    "datum": "2026-11-24",
+    "gemeld_op": "2026-11-26",
+    "onderwerp": "Energy Installer: HERO AI bereidt offertes, planning en bestellingen voor, van twee uur naar een half uur per klant",
+    "samenvatting": "Probleem: bij kleine bouw-, installatie- en onderhoudsbedrijven kosten telefoontjes, offertes, planning en materiaalbestellingen veel handwerk. Oplossing: HERO introduceerde op 24 november HERO AI in Nederland, binnen de eigen bedrijfssoftware. Het beantwoordt inkomende telefoontjes en registreert ze, maakt conceptoffertes uit de eigen artikelcatalogus, zet ingesproken bouwplaatsinfo om in een bouwverslag en maakt op korte opdracht projecten of klantcontacten aan; de gebruiker controleert en keurt goed. Resultaat volgens de bron: bij installatiebedrijf Energy Installer gingen afspraken plannen, offertes voorbereiden en materialen bestellen van soms twee uur naar een half uur per klant (eigen praktijk van de gebruiker; HERO geeft geen gemiddelde cijfers).",
+    "relevantie": "Voor kleinere installateurs en service- en onderhoudsbedrijven op 4PS of BC: vraag hoeveel tijd er per klant gaat zitten van eerste telefoontje tot offerte en bestelling, en laat zien hoe Copilot, de Sales Order Agent of een eigen agent op dezelfde artikel- en projectdata dat werk kan voorbereiden.",
+    "categorie": "use_case",
+    "tags": [
+      "installatie",
+      "offertes",
+      "telefonie",
+      "spraak",
+      "concurrentie",
+      "kleine-bedrijven"
+    ],
+    "bronnen": [
+      {
+        "titel": "KlusVisie – HERO AI bereidt offertes voor en beantwoordt telefoontjes bij vakbedrijven",
+        "url": "https://www.klusvisie.nl/ondernemen-in-de-bouw/hero-ai-vakbedrijven-offertes-telefoon-bouwverslagen/22928/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-tutor-perini-cupixworks-voortgang-bim-mcp",
+    "datum": "2026-11-25",
+    "gemeld_op": "2026-11-26",
+    "onderwerp": "Tutor Perini test CupixWorks 5.0: 360-gradenrondes automatisch tegen BIM en planning, ook via MCP voor eigen agents",
+    "samenvatting": "Probleem: wie wil aantonen wanneer een installatie is aangebracht, zoekt nu uren door 360-gradenvideo's, mappen en tijdlijnen en vergelijkt dat handmatig met planning en model. Oplossing: CupixWorks 5.0 (bèta sinds 23 november, algemene beschikbaarheid gepland in Q1 2027) zet 360-graden-, drone- en laserscanopnames op één kaart en tijdlijn, vergelijkt ze met het BIM-model en de planning, vat rondes samen per werkgebied en signaleert veiligheidspunten. Projectleiders stellen vragen in gewone taal en krijgen een antwoord met een link naar de opname, die de mens zelf controleert. Via een Cupix MCP-server kunnen eigen AI-agents de installatiestatus uitlezen. Tutor Perini, Sebastian Construction Group en Meow Wolf zijn genoemde bètadeelnemers. Resultaat: nog geen resultaten bekend, het is een bèta.",
+    "relevantie": "Voor aannemers en installateurs met grote projecten: vraag hoe voortgang en termijnstaten nu worden onderbouwd, en bespreek hoe voortgangsdata uit bouwplaatstools via MCP of Power Platform naar 4PS of BC kan om termijnen en prognoses te onderbouwen.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "voortgang",
+      "bim",
+      "reality-capture",
+      "mcp",
+      "concurrentie"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction Metrics – Cupix opens a CupixWorks 5.0 beta with Tutor Perini among the testers",
+        "url": "https://constructionmetrics.com/2026/11/25/cupix-cupixworks-5-beta-site-capture-bim/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-sales-order-agent-groothandel-artikelreferenties",
+    "datum": "2026-11-24",
+    "gemeld_op": "2026-11-26",
+    "onderwerp": "Sales Order Agent bij groothandels: waar het werkt en waarom artikelreferenties de doorslag geven (Qixas)",
+    "samenvatting": "Probleem: groothandels krijgen orders via EDI, portals, telefoon en e-mail met pdf of Excel; de binnendienst typt ze over in Business Central en een collega controleert ze nog eens. Oplossing: partner Qixas beschrijft hoe de Sales Order Agent in BC de e-mailstroom kan oppakken: aanvraag lezen, klant en artikelen vinden en een order voorbereiden ter controle. Advies: meet eerst hoeveel orders per kanaal binnenkomen, test in de pilot ook lastige orders (scans, meerdere afleveradressen, 'zelfde als vorige maand') en zet klantspecifieke artikelreferenties, eenheden en verpakkingen goed in BC, want daar staat of valt de matching mee. Resultaat: het is een praktijkscenario zonder gemeten klantresultaat.",
+    "relevantie": "Voor groothandels en toeleveranciers op BC met veel orders per e-mail: vraag welk deel van de orders per mail binnenkomt en hoe goed hun artikelreferenties per klant op orde zijn, als opstap naar een pilot met de Sales Order Agent.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "sales-order-agent",
+      "groothandel",
+      "orderverwerking",
+      "copilot",
+      "datakwaliteit"
+    ],
+    "bronnen": [
+      {
+        "titel": "ERP Software Blog (Qixas Group) – Sales Order Agent for Distributors",
+        "url": "https://erpsoftwareblog.com/2026/11/sales-order-agent-for-distributors/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
