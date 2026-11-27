@@ -5,7 +5,17 @@
 <link>https://github.com/Mastero83/markt-intelligentie-4ps-bc</link>
 <description>Dagelijkse markt- en AI-intelligentie rond 4PS Construct en Microsoft Dynamics 365 Business Central</description>
 <language>nl-nl</language>
-<lastBuildDate>Thu, 26 Nov 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:30:00 +0000</lastBuildDate>
+<item>
+<title>BC Expense Agent: declaraties zonder originele bon (Lost Receipt) in BC29</title>
+<link>https://waldo1001.github.io/waldo.BCObservatory/changes/bcapps/14528/</link>
+<description>Microsoft heeft in BCApps PR #14528 (gemerged op 26 november 2026 in releases/29.x) een Lost Receipt-optie toegevoegd aan de Expense Agent van Business Central. Gebruikers kunnen een uitgave zonder originele bon indienen; het systeem maakt een gestandaardiseerde verklaring op basis van de uitgavegegevens en dwingt verplichte beoordeling door de goedkeurder af.
+
+Relevantie: Bouw- en installatiebedrijven met veel buitendienstmedewerkers verliezen vaak bonnetjes; dit maakt de Expense Agent in BC29 praktischer inzetbaar met behoud van compliance.</description>
+<pubDate>Thu, 26 Nov 2026 08:30:00 +0000</pubDate>
+<category>ai_features</category>
+<guid isPermaLink="false">radar-bc-expense-agent-lost-receipt-bcapps-14528</guid>
+</item>
 <item>
 <title>Tutor Perini test CupixWorks 5.0: 360-gradenrondes automatisch tegen BIM en planning, ook via MCP voor eigen agents</title>
 <link>https://constructionmetrics.com/2026/11/25/cupix-cupixworks-5-beta-site-capture-bim/</link>

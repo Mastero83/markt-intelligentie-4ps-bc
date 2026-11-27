@@ -5029,5 +5029,29 @@
       }
     ],
     "bron_type": "usecase_radar"
+  },
+  {
+    "id": "radar-bc-expense-agent-lost-receipt-bcapps-14528",
+    "datum": "2026-11-26",
+    "gemeld_op": "2026-11-27",
+    "onderwerp": "BC Expense Agent: declaraties zonder originele bon (Lost Receipt) in BC29",
+    "samenvatting": "Microsoft heeft in BCApps PR #14528 (gemerged op 26 november 2026 in releases/29.x) een Lost Receipt-optie toegevoegd aan de Expense Agent van Business Central. Gebruikers kunnen een uitgave zonder originele bon indienen; het systeem maakt een gestandaardiseerde verklaring op basis van de uitgavegegevens en dwingt verplichte beoordeling door de goedkeurder af.",
+    "relevantie": "Bouw- en installatiebedrijven met veel buitendienstmedewerkers verliezen vaak bonnetjes; dit maakt de Expense Agent in BC29 praktischer inzetbaar met behoud van compliance.",
+    "categorie": "ai_features",
+    "tags": [
+      "microsoft",
+      "business-central",
+      "expense-agent",
+      "bc29",
+      "bcapps",
+      "agents"
+    ],
+    "bronnen": [
+      {
+        "titel": "BC Observatory: #14528 No Receipt expenses",
+        "url": "https://waldo1001.github.io/waldo.BCObservatory/changes/bcapps/14528/"
+      }
+    ],
+    "bron_type": "dagelijkse_radar"
   }
 ]
