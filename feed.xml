@@ -7,6 +7,16 @@
 <language>nl-nl</language>
 <lastBuildDate>Fri, 27 Nov 2026 08:30:00 +0000</lastBuildDate>
 <item>
+<title>Continia GenAI Capture: complexe leveranciersfacturen in Business Central met instructies in gewone taal</title>
+<link>https://www.tso.de/en/news/news/new-ai-feature-in-continia-document-capture-easier-processing-for-complex-invoices/</link>
+<description>Probleem: bij veel bedrijven zijn er een paar leveranciers waarvan de facturen nauwelijks automatisch te verwerken zijn, door afwijkende opmaak, lange lijsten factuurregels of speciale mappingregels. Medewerkers moeten die facturen dan met de hand corrigeren. Oplossing: de nieuwe functie GenAI Capture in Continia Document Capture voor Business Central gebruikt generatieve AI. Gebruikers beschrijven in gewone taal wat er moet gebeuren, zoals regels groeperen, vracht- en bijkosten samenvoegen, omschrijvingen vertalen, velden toevoegen, filteren en rekenen. Die instructies worden per leverancier als sjabloon bewaard. De functie zet je alleen aan voor lastige leveranciers; standaardfacturen gaan via de bestaande capture. Je kiest zelf de AI-aanbieder (Copilot, ChatGPT, Claude of Gemini), en de AI kan zelf niets boeken of wijzigen. Resultaat: het gaat om een productaankondiging zonder gemeten klantresultaat.
+
+Relevantie: Voor bouw- en installatiebedrijven op BC of 4PS met materiaalleveranciers die lange, rommelige facturen sturen: vraag welke vijf leveranciers de meeste correcties kosten. Dat is de concrete scope voor een proef met AI-capture per leverancier.</description>
+<pubDate>Thu, 26 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-continia-genai-capture-complexe-facturen-bc</guid>
+</item>
+<item>
 <title>BC Expense Agent: declaraties zonder originele bon (Lost Receipt) in BC29</title>
 <link>https://waldo1001.github.io/waldo.BCObservatory/changes/bcapps/14528/</link>
 <description>Microsoft heeft in BCApps PR #14528 (gemerged op 26 november 2026 in releases/29.x) een Lost Receipt-optie toegevoegd aan de Expense Agent van Business Central. Gebruikers kunnen een uitgave zonder originele bon indienen; het systeem maakt een gestandaardiseerde verklaring op basis van de uitgavegegevens en dwingt verplichte beoordeling door de goedkeurder af.
@@ -15,6 +25,26 @@ Relevantie: Bouw- en installatiebedrijven met veel buitendienstmedewerkers verli
 <pubDate>Thu, 26 Nov 2026 08:30:00 +0000</pubDate>
 <category>ai_features</category>
 <guid isPermaLink="false">radar-bc-expense-agent-lost-receipt-bcapps-14528</guid>
+</item>
+<item>
+<title>Shimizu Corporation: eigen Copilot Studio-agents voor bouwplaats en kantoor (Beyont)</title>
+<link>https://prtimes.jp/main/html/rd/p/000000224.000035215.html</link>
+<description>Probleem: de Japanse bouwer Shimizu wilde snel laten zien wat AI-agents opleveren, en de eigen AI-trekkers wilden zelf ontdekken welke taken geschikt zijn en wat er nodig is voor bedrijfsbrede uitrol. Oplossing: partner Beyont begeleidde 14 medewerkers uit drie organisatieonderdelen twee maanden lang. Ze kregen training en bouwden in vijf teams zelf agents in Microsoft Copilot Studio, onder meer voor projectbeheer, vragenafhandeling, het gebruik van onderzoeksdata, aanvragen vanaf de bouwplaats en goedkeuringsflows voor interne documenten. Resultaat: de agent voor bouwplaatsaanvragen zet gegevens van onderaannemers op een rij en stelt mails aan betrokkenen op; volgens een schatting gaat dat van ongeveer 20 naar ongeveer 1 minuut per keer. Daarnaast zijn de randvoorwaarden voor bredere uitrol in kaart gebracht: koppeling met systemen, beveiliging en support. Het gaat nog om een schatting, niet om een gemeten resultaat.
+
+Relevantie: Voor bouwbedrijven op 4PS die AI willen maar niet weten waar te beginnen: vraag welke terugkerende administratie rond onderaannemers en bouwplaatsaanvragen nu handwerk is, en stel een korte bouwsprint voor waarin hun eigen key users een Copilot Studio-agent bouwen.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-shimizu-copilot-studio-agents-bouwplaats</guid>
+</item>
+<item>
+<title>DPR Construction: AI, RFID en layoutrobots op zorgbouwprojecten</title>
+<link>https://www.constructiondive.com/news/dpr-exec-healthcare-builds-tech-ai-robots/875678/</link>
+<description>Probleem: in de zorgbouw wil DPR meer grip op kosten en planning, terwijl de technologie in ziekenhuizen sneller verandert dan de bouw. Oplossing: volgens de co-leider van DPR's zorgtak in een interview met Construction Dive gebruikt DPR AI om vooraf clashes in tekeningen te vinden en sneller te calculeren en plannen. Ook zet het de layoutrobot van Dusty Robotics in en registreren RFID-scanners wie de bouwplaats betreedt en waar diegene zich bevindt. Zo kan DPR ook bijhouden hoeveel product iemand aanbrengt, en geeft de registratie van waar letsel ontstaat een vroege veiligheidsindicator. Resultaat: DPR spreekt van meer voorspelbaarheid en meer grip op kosten en planning. Er worden geen cijfers genoemd.
+
+Relevantie: Voor aannemers en installateurs die nacalculatie en productiviteit per ploeg willen verbeteren: vraag hoe aanwezigheid en geleverde productie op de bouwplaats nu in 4PS terechtkomen, en of automatische registratie (bijvoorbeeld via badges) de urenverantwoording en veiligheidsrapportage kan voeden.</description>
+<pubDate>Wed, 25 Nov 2026 08:30:00 +0000</pubDate>
+<category>use_case</category>
+<guid isPermaLink="false">uc-dpr-rfid-ai-bouwplaats-zorgbouw</guid>
 </item>
 <item>
 <title>Tutor Perini test CupixWorks 5.0: 360-gradenrondes automatisch tegen BIM en planning, ook via MCP voor eigen agents</title>

@@ -5053,5 +5053,77 @@
       }
     ],
     "bron_type": "dagelijkse_radar"
+  },
+  {
+    "id": "uc-shimizu-copilot-studio-agents-bouwplaats",
+    "datum": "2026-11-25",
+    "gemeld_op": "2026-11-27",
+    "onderwerp": "Shimizu Corporation: eigen Copilot Studio-agents voor bouwplaats en kantoor (Beyont)",
+    "samenvatting": "Probleem: de Japanse bouwer Shimizu wilde snel laten zien wat AI-agents opleveren, en de eigen AI-trekkers wilden zelf ontdekken welke taken geschikt zijn en wat er nodig is voor bedrijfsbrede uitrol. Oplossing: partner Beyont begeleidde 14 medewerkers uit drie organisatieonderdelen twee maanden lang. Ze kregen training en bouwden in vijf teams zelf agents in Microsoft Copilot Studio, onder meer voor projectbeheer, vragenafhandeling, het gebruik van onderzoeksdata, aanvragen vanaf de bouwplaats en goedkeuringsflows voor interne documenten. Resultaat: de agent voor bouwplaatsaanvragen zet gegevens van onderaannemers op een rij en stelt mails aan betrokkenen op; volgens een schatting gaat dat van ongeveer 20 naar ongeveer 1 minuut per keer. Daarnaast zijn de randvoorwaarden voor bredere uitrol in kaart gebracht: koppeling met systemen, beveiliging en support. Het gaat nog om een schatting, niet om een gemeten resultaat.",
+    "relevantie": "Voor bouwbedrijven op 4PS die AI willen maar niet weten waar te beginnen: vraag welke terugkerende administratie rond onderaannemers en bouwplaatsaanvragen nu handwerk is, en stel een korte bouwsprint voor waarin hun eigen key users een Copilot Studio-agent bouwen.",
+    "categorie": "use_case",
+    "tags": [
+      "copilot-studio",
+      "ai-agents",
+      "bouw",
+      "onderaannemers",
+      "adoptie",
+      "citizen-developer"
+    ],
+    "bronnen": [
+      {
+        "titel": "PR TIMES (Beyont) – AI-agentbegeleiding voor Shimizu Corporation (Japans)",
+        "url": "https://prtimes.jp/main/html/rd/p/000000224.000035215.html"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-continia-genai-capture-complexe-facturen-bc",
+    "datum": "2026-11-26",
+    "gemeld_op": "2026-11-27",
+    "onderwerp": "Continia GenAI Capture: complexe leveranciersfacturen in Business Central met instructies in gewone taal",
+    "samenvatting": "Probleem: bij veel bedrijven zijn er een paar leveranciers waarvan de facturen nauwelijks automatisch te verwerken zijn, door afwijkende opmaak, lange lijsten factuurregels of speciale mappingregels. Medewerkers moeten die facturen dan met de hand corrigeren. Oplossing: de nieuwe functie GenAI Capture in Continia Document Capture voor Business Central gebruikt generatieve AI. Gebruikers beschrijven in gewone taal wat er moet gebeuren, zoals regels groeperen, vracht- en bijkosten samenvoegen, omschrijvingen vertalen, velden toevoegen, filteren en rekenen. Die instructies worden per leverancier als sjabloon bewaard. De functie zet je alleen aan voor lastige leveranciers; standaardfacturen gaan via de bestaande capture. Je kiest zelf de AI-aanbieder (Copilot, ChatGPT, Claude of Gemini), en de AI kan zelf niets boeken of wijzigen. Resultaat: het gaat om een productaankondiging zonder gemeten klantresultaat.",
+    "relevantie": "Voor bouw- en installatiebedrijven op BC of 4PS met materiaalleveranciers die lange, rommelige facturen sturen: vraag welke vijf leveranciers de meeste correcties kosten. Dat is de concrete scope voor een proef met AI-capture per leverancier.",
+    "categorie": "use_case",
+    "tags": [
+      "business-central",
+      "factuurverwerking",
+      "document-capture",
+      "continia",
+      "generatieve-ai",
+      "crediteuren"
+    ],
+    "bronnen": [
+      {
+        "titel": "TSO-DATA – New AI feature in Continia Document Capture",
+        "url": "https://www.tso.de/en/news/news/new-ai-feature-in-continia-document-capture-easier-processing-for-complex-invoices/"
+      }
+    ],
+    "bron_type": "usecase_radar"
+  },
+  {
+    "id": "uc-dpr-rfid-ai-bouwplaats-zorgbouw",
+    "datum": "2026-11-25",
+    "gemeld_op": "2026-11-27",
+    "onderwerp": "DPR Construction: AI, RFID en layoutrobots op zorgbouwprojecten",
+    "samenvatting": "Probleem: in de zorgbouw wil DPR meer grip op kosten en planning, terwijl de technologie in ziekenhuizen sneller verandert dan de bouw. Oplossing: volgens de co-leider van DPR's zorgtak in een interview met Construction Dive gebruikt DPR AI om vooraf clashes in tekeningen te vinden en sneller te calculeren en plannen. Ook zet het de layoutrobot van Dusty Robotics in en registreren RFID-scanners wie de bouwplaats betreedt en waar diegene zich bevindt. Zo kan DPR ook bijhouden hoeveel product iemand aanbrengt, en geeft de registratie van waar letsel ontstaat een vroege veiligheidsindicator. Resultaat: DPR spreekt van meer voorspelbaarheid en meer grip op kosten en planning. Er worden geen cijfers genoemd.",
+    "relevantie": "Voor aannemers en installateurs die nacalculatie en productiviteit per ploeg willen verbeteren: vraag hoe aanwezigheid en geleverde productie op de bouwplaats nu in 4PS terechtkomen, en of automatische registratie (bijvoorbeeld via badges) de urenverantwoording en veiligheidsrapportage kan voeden.",
+    "categorie": "use_case",
+    "tags": [
+      "bouw",
+      "rfid",
+      "productiviteit",
+      "veiligheid",
+      "calculatie",
+      "planning"
+    ],
+    "bronnen": [
+      {
+        "titel": "Construction Dive – DPR exec details how tech is changing healthcare builds",
+        "url": "https://www.constructiondive.com/news/dpr-exec-healthcare-builds-tech-ai-robots/875678/"
+      }
+    ],
+    "bron_type": "usecase_radar"
   }
 ]
